@@ -1,0 +1,40 @@
+PromptLab #3B.1 — Identificação de Padrão Histórico e Viés de Validação
+"Se você publica mais vezes o formato que te traz elogios do que o formato que te traz vendas, você não está gerindo um negócio — está gerindo o seu ego."
+
+Objetivo
+Auditar uma sequência histórica de publicações para identificar o padrão oculto entre o formato do conteúdo e a conversão real, revelando se as decisões editoriais do criador estão sendo guiadas por métricas de vaidade em vez de resultado comercial. Este prompt atua como um Cientista de Dados e Auditor de Performance de Growth.
+
+O que preparar antes de copiar
+O Histórico de Publicações (mínimo 3 a 5 posts): A lista de conteúdos publicados contendo o tipo de formato, o volume de engajamento público (views, curtidas, comentários) e o resultado final de conversão (vendas/leads).
+O Objetivo Comercial Único: O produto, oferta ou ativo que todos os posts buscavam vender.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados e auditor de performance especializado em growth marketing. Vamos analisar o HISTÓRICO DE PUBLICAÇÕES de um mesmo criador para identificar se existe um padrão claro entre o formato do conteúdo e o resultado comercial gerado, ou se as decisões estão sendo contaminadas por viés emocional.
+
+HISTÓRICO DE DADOS DOS POSTS:
+- Objetivo Comercial Comum: [INSIRA O OBJETIVO: ex: Vender e-book por R$ 97 via link na bio]
+- Produto / Oferta: [INSIRA A OFERTA: ex: E-book de Moda Acessível]
+
+REGISTRO HISTÓRICO (POSTS 1 AO 5):
+- Post 1: [TIPO/TEMA] | [VIEWS/ENG.] | [CLIQUES] | [VENDAS/CONVERSÕES]
+- Post 2: [TIPO/TEMA] | [VIEWS/ENG.] | [CLIQUES] | [VENDAS/CONVERSÕES]
+- Post 3: [TIPO/TEMA] | [VIEWS/ENG.] | [CLIQUES] | [VENDAS/CONVERSÕES]
+- Post 4: [TIPO/TEMA] | [VIEWS/ENG.] | [CLIQUES] | [VENDAS/CONVERSÕES]
+- Post 5: [TIPO/TEMA] | [VIEWS/ENG.] | [CLIQUES] | [VENDAS/CONVERSÕES]
+
+Com base no cruzamento frio desses dados históricos, me entregue:
+1. MAPEAMENTO DE PADRÃO TIPO VS. RESULTADO: Qual é a correlação exata nos números entre o tipo de conteúdo (ex: inspiracional vs. chamada direta) e a taxa de conversão final? Aponta os números específicos que provam essa tendência.
+2. ANÁLISE DE PROPORÇÃO EDITORIAL: Qual percentual das publicações da grade foi dedicado a formatos de alto engajamento/baixa venda VERSUS formatos de menor engajamento/alta venda?
+3. O DIAGNÓSTICO DE VIÉS EMOCIONAL: Existe evidência nos dados de que o criador está priorizando formatos que massageiam o ego (elogios/curtidas) em detrimento de formatos que geram caixa real? Justifique.
+
+Seja analítico, cirúrgico e focado em dados brutos. Force a resposta a apontar os números específicos, não apenas generalizações.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve explicitar a discrepância matemática (ex: "Os posts inspiracionais representam 60% da grade mas geram apenas 6% das vendas, enquanto os posts de chamada direta representam 40% da grade e geram 94% das vendas").
+
+Atenção (Sinal Vermelho)
+Se a IA responder com conselhos motivacionais genéricos, corrija-a na hora: "Exijo um diagnóstico frio focado nas proporções exatas das métricas fornecidas e na discrepância entre engajamento e faturamento".
+
+Próximo passo
+Mantenha a conversa aberta e execute o PromptLab #3B.2 na sequência para entender como o ciclo de recompensa da plataforma distorce as decisões.

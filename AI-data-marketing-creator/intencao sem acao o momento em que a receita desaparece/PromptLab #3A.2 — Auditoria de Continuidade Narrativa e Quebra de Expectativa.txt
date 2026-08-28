@@ -1,0 +1,34 @@
+PromptLab #3A.2 — Auditoria de Continuidade Narrativa e Quebra de Expectativa
+"O usuário não quer recomeçar uma história quando clica no seu link. Ele quer continuar a conversa de onde parou no vídeo."
+
+Objetivo
+Identificar se existe uma desconexão entre a promessa feita no conteúdo/vídeo e a mensagem entregue na chamada principal da landing page. Este prompt atua como um Copywriter Sênior de Vendas, auditando a fluidez e a coerência da mensagem entre o anúncio/post e a página.
+
+O que preparar antes de copiar
+O Diagnóstico Anterior: Ter executado o PromptLab #3A.1 no mesmo chat.
+A Promessa do Conteúdo: O que o vídeo/post falava (dor, benefício, promessa da isca).
+A Entrega da Página: A promessa exata do título (headline) e os campos exigidos na landing page.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute na mesma conversa do prompt anterior.
+
+Com base no diagnóstico de comportamento da página, vamos auditar a CONTINUIDADE NARRATIVA entre a peça de conteúdo que gerou o clique e a landing page de destino.
+
+PROMESSA DO CONTEÚDO VS. ENTREGA DA PÁGINA:
+- Promessa/Tema do Vídeo ou Post: [INSIRA A PROMESSA DO VÍDEO/POST: ex: 3 erros que impedem de juntar dinheiro + convite para planilha gratuita]
+- Estrutura da Página de Destino: [INSIRA O TÍTULO E ELEMENTOS DA PÁGINA: ex: Título "Baixe a planilha gratuita", campos de Nome e E-mail, sem texto adicional]
+
+Com base nos conceitos de alinhamento de mensagem e fricção cognitiva, me entregue:
+1. DIAGNÓSTICO DE QUEBRA DE EXPECTATIVA: Qual é o descompasso entre a história/dor abordada no conteúdo e o contexto frio encontrado na landing page?
+2. CONEXÃO COM O TEMPO DE SAÍDA: Como essa quebra de narrativa justifica a alta taxa de rejeição e o abandono precoce da página nos primeiros segundos?
+3. REAJUSTE DE CONTINUIDADE: Como o título principal (headline) e a promessa da página deveriam ser reescritos para parecerem a continuação exata do conteúdo assistido?
+
+Seja cirúrgico, focado na jornada cognitiva do leitor e na eliminação de quebras de contexto.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve mostrar que uma página genérica (ex: apenas "Baixe a planilha") desconecta o visitante da dor específica trabalhada no vídeo (ex: "Os 3 erros para juntar dinheiro"), gerando perda de interesse imediata.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir mudar a oferta por completo, corrija-a: "Mantenha o mesmo ativo/oferta. O foco é alinhar a comunicação e a promessa do título da página com o assunto do vídeo".
+
+Próximo passo
+Salve a reescrita da headline e, se desejar gerar hipóteses de testes rápidos sem redesenhar a página, execute o PromptLab #3A.3.

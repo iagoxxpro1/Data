@@ -1,0 +1,34 @@
+PromptLab #3B.2 — Mapeamento do Ciclo de Recompensa e Validação Emocional
+"As redes sociais foram desenhadas para te viciar em dopamina rápida através de notificações. Se você não tiver um sistema de dados, vai produzir o que o algoritmo quer, não o que a sua empresa precisa."
+
+Objetivo
+Expor o mecanismo psicológico e o ciclo de recompensa que levam o criador/empresa a repetir instintivamente os conteúdos que geram curtidas e elogios, mesmo sabendo racionalmente que esses formatos não pagam as contas. Este prompt atua como um Consultor de Comportamento e Processos de Decisão.
+
+O que preparar antes de copiar
+O Diagnóstico Anterior: Ter executado o PromptLab #3B.1 na mesma conversa.
+Os Formatos Concorrentes: O formato que dá dopamina (curtidas/elogios) vs. o formato que dá resultado (vendas/leads).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute na mesma conversa do prompt anterior.
+
+Com base no padrão histórico e na discrepância de dados que você acabou de diagnosticar, vamos analisar a MECÂNICA DA VALIDAÇÃO EMOCIONAL dentro deste processo decisório.
+
+CONTEXTO DA ARMADILHA DE DOPAMINA:
+- Formato de Dopamina (Alto Engajamento Público): [DESCREVA O FORMATO: ex: Posts de look inspiracional que recebem centenas de elogios como "que lindo"]
+- Formato de Caixa (Alta Conversão Privada): [DESCREVA O FORMATO: ex: Posts de chamada direta que recebem menos curtidas mas geram dezenas de vendas]
+
+Com base na psicologia de incentivos das plataformas digitais, me entregue:
+1. DIAGNÓSTICO DO CICLO DE RECOMPENSA: Como a busca por validação social (curtidas, comentários inflados e aprovação pública) está funcionando como uma "armadilha comportamental" que influencia a escolha dos temas da grade?
+2. A ILUSÃO DE PERFORMANCE: Por que o cérebro do criador tende a classificar os posts de alta conversão como "fracassos" (devido às curtidas baixas) e os posts virais sem venda como "sucessos", mesmo com o financeiro provando o contrário?
+3. A QUEBRA DA ARMADILHA: Qual é a virada de chave de mentalidade analítica necessária para desatar a decisão editorial da aprovação pública do seguidor?
+
+Seja analítico, direto e ancorado rigorosamente no comportamento de negócios.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve explicar com clareza o conflito entre o incentivo da rede social (dopamina por aprovação pública) e o objetivo do negócio (lucratividade e retenção privada).
+
+Atenção (Sinal Vermelho)
+Se a IA tentar tratar o assunto como uma terapia pessoal, traga-a de volta para a operação: "Mantenha a análise focada na governança do negócio e no impacto financeiro das decisões editoriais erradas".
+
+Próximo passo
+Guarde esse insight e, caso queira definir um reequilíbrio rápido de grade sem radicalismos, execute o PromptLab #3B.3.
+

@@ -1,0 +1,30 @@
+Desafio Criativo — Matriz de Diagnóstico e Governança de Conteúdo
+O que você vai fazer
+Neste desafio integrado, você vai unificar a leitura analítica de um conteúdo real com a reestruturação do seu critério de decisão editorial. Você vai sair do achismo e do viés de vaidade para tomar decisões práticas sobre a performance do seu perfil, identificando onde seu funil vaza audiência e construindo um filtro para garantir que suas postagens gerem caixa e não apenas aplausos.
+
+O objetivo não é apenas observar métricas passadas ou produzir posts isolados, mas sim ajustar seu processo analítico para que sua comunicação filtre curiosos e atraia quem realmente tem intenção de compra.
+
+Ao final, você terá construído a Matriz de Diagnóstico e Governança de Conteúdo do seu Creator Data Marketing System, documentada e pronta para ser a base da sua tomada de decisão diária.
+
+O que guia este desafio
+Você usa exclusivamente:
+
+A honestidade radical ao analisar os números do seu histórico recente.
+O framework da Hierarquia de Métricas (Atenção, Intenção e Ação).
+A IA como parceira de diagnóstico de dados e estruturação de governança.
+Como o desafio funciona
+O desafio é dividido em etapas sequenciais, executadas fora da plataforma, no LLM de sua preferência. Você deve:
+
+Escolher um único LLM (ChatGPT, Gemini, Copilot, Claude ou similar).
+Criar um único chat focado nesta tarefa.
+Usar esse mesmo chat do início ao fim para acumular o contexto da sua análise.
+Registrar cada resultado em um documento no Google Docs ou Microsoft Word (Online). (Atenção: A plataforma não executa o desafio e somente aceitará a submissão de links com acesso público do Google Docs ou Word.)
+Estrutura de cada etapa
+Cada etapa contém:
+
+Uma instrução clara do que observar ou decidir.
+O prompt exato para organizar seu pensamento no LLM.
+Uma ação prática obrigatória no seu Documento de Entrega.
+Um avanço consciente (CTA) para a próxima etapa.
+Regras essenciais
+⚠️ Não troque de chat no meio do desafio. Todo o contexto sobre suas métricas, vazamentos de funil e filtro decisional deve permanecer ativo e acumulado no mesmo histórico da IA.

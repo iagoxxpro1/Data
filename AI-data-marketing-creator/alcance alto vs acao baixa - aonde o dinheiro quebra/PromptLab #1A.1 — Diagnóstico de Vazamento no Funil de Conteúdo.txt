@@ -1,0 +1,41 @@
+PromptLab #1A.1 — Diagnóstico de Vazamento no Funil de Conteúdo
+"O maior erro ao analisar um post que falhou é achar que o problema foi o algoritmo. Na maioria das vezes, o conteúdo simplesmente vazou audiência em uma das três camadas do funil."
+
+Objetivo
+Mapear e isolar em qual etapa exata da jornada (Atenção, Intenção ou Ação) o seu conteúdo está perdendo público. Este prompt atua como um Analista Sênior de Growth e Ciência de Dados, transformando métricas brutas em um diagnóstico comportamental preciso para que você saiba onde o seu funil está quebrando antes de tomar qualquer decisão.
+
+O que preparar antes de copiar
+O Histórico da Peça: o formato do conteúdo (Reel, carrossel, post estático) e o tema central abordado.
+Os Dados de Performance: o volume de alcance/visualizações, interações superficiais (curtidas), engajamento profundo (comentários) e as conversões finais atingidas (cliques no link ou cadastros).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um estrategista sênior de growth e cientista de dados aplicado ao marketing digital. Vamos realizar um DIAGNÓSTICO DE VAZAMENTO DE FUNIL de um conteúdo específico para identificar em qual etapa da jornada o crescimento está quebrando.
+
+MEU CONTEXTO OPERACIONAL E DADOS DA PEÇA:
+- Formato do Conteúdo: [INSIRA O FORMATO: Reel, Carrossel, Post Estático, Vídeo Longo]
+- Tema / Assunto Central: [INSIRA O TEMA DO CONTEÚDO]
+- Alcance / Visualizações Registradas: [INSIRA O NÚMERO DE VISUALIZAÇÕES OU ALCANCE]
+- Engajamento de Topo (Curtidas / Reações): [INSIRA O VOLUME DE CURTIDAS]
+- Engajamento de Meio (Comentários / Compartilhamentos): [INSIRA O VOLUME DE COMENTÁRIOS E COMPARTILHAMENTOS]
+- Objetivo Primário do Conteúdo: [INSIRA O OBJETIVO: ex: levar ao cadastro de planilha gratuita, compra de produto, clique na bio]
+- Ação Final Concretizada: [INSIRA OS RESULTADOS REALMENTE ATINGIDOS: ex: X cliques no link e Y cadastros]
+
+Com base na metodologia de análise de funil e comportamento de consumo digital, me entregue:
+1. MAPEAMENTO DE MÉTRICAS POR ETAPA: Classifique e avalie o desempenho bruto do conteúdo em 3 camadas claras:
+   - ATENÇÃO (Capacidade de atração e alcance do topo).
+   - INTENÇÃO (Nível de engajamento e interesse real demonstrado no meio).
+   - AÇÃO (Efetividade de conversão no objetivo final do fundo).
+2. LOCALIZAÇÃO DO GARGALO PRINCIPAL: Aponte onde está a maior quebra percentual de retenção/passagem entre essas 3 etapas.
+3. ANÁLISE COMPORTAMENTAL DA AUDIÊNCIA: Explique o que essa divergência nos números revela sobre a psicologia do público que consumiu essa peça e o motivo de não terem avançado.
+
+Seja analítico, direto e focado na jornada do usuário. Elimine explicações genéricas.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve identificar com clareza a etapa do funil (Atenção, Intenção ou Ação) onde ocorreu a maior perda percentual e explicar a razão comportamental desse gargalo.
+
+Atenção (Sinal Vermelho)
+Se a IA responder com dicas genéricas de produção de vídeo (como "melhore a iluminação" ou "use músicas em alta"), ela fugiu do foco analítico. Corrija-a na hora: "Foque estritamente no cruzamento das métricas fornecidas e na quebra de passagem do funil de conversão".
+
+Próximo passo
+Copie o diagnóstico gerado e execute imediatamente o PromptLab #1A.2 na mesma conversa para investigar as fricções operacionais da peça.

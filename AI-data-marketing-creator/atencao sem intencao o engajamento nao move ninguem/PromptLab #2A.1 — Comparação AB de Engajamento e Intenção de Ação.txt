@@ -1,0 +1,50 @@
+PromptLab #2A.1 — Comparação A/B de Engajamento e Intenção de Ação
+"Nem todo engajamento é criado igual. Um post com métricas sociais gigantescas pode estar atraindo uma audiência passiva, enquanto um post com menor alcance atrai compradores reais."
+
+Objetivo
+Comparar duas peças de conteúdo com o mesmo objetivo para entender por que o post de maior engajamento gerou menos conversões. Este prompt atua como um Cientista de Dados de Growth, analisando a diferença entre tração superficial de público e intenção real de ação.
+
+O que preparar antes de copiar
+Os Dados do Post 1: Alcance/views, curtidas, comentários, salvamentos, cliques no link e conversões finais.
+Os Dados do Post 2: As mesmas métricas da segunda peça para colocar em confronto direto.
+O Objetivo Único: O resultado esperado de ambos os conteúdos (ex: cadastro em isca digital, venda, clique).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados e estrategista de growth especializado em comportamento de consumo digital. Vamos realizar uma ANÁLISE COMPARATIVA A/B entre dois conteúdos do mesmo criador, com o mesmo formato e para o mesmo objetivo, onde o post de maior engajamento proporcional falhou na conversão final.
+
+DADOS DOS DOIS CONTEÚDOS:
+- Objetivo Comum: [INSIRA O OBJETIVO: ex: cadastro em planilha gratuita via link na bio]
+- Formato e Nicho: [INSIRA O FORMATO E NICHO: ex: Reels de Finanças Pessoais]
+
+POST 1:
+- Visualizações/Alcance: [INSIRA O NÚMERO]
+- Curtidas: [INSIRA O NÚMERO]
+- Comentários: [INSIRA O NÚMERO]
+- Salvamentos: [INSIRA O NÚMERO]
+- Cliques no Link: [INSIRA O NÚMERO]
+- Conversões Finais (Cadastros/Vendas): [INSIRA O NÚMERO]
+
+POST 2 (Maior Engajamento / Menor Conversão):
+- Visualizações/Alcance: [INSIRA O NÚMERO]
+- Curtidas: [INSIRA O NÚMERO]
+- Comentários: [INSIRA O NÚMERO]
+- Salvamentos: [INSIRA O NÚMERO]
+- Cliques no Link: [INSIRA O NÚMERO]
+- Conversões Finais (Cadastros/Vendas): [INSIRA O NÚMERO]
+
+Com base na relação entre métricas de vaidade vs. métricas de intenção comercial, me entregue:
+1. DIAGNÓSTICO DE PERFIL DE AUDIÊNCIA: O que a diferença entre as taxas de engajamento e de conversão indica sobre o perfil de público que o Post 2 atraiu em comparação com o Post 1?
+2. ANÁLISE DE INTENÇÃO DE AÇÃO: Por que a audiência do Post 2 engajou mais (salvou/comentou), mas não sentiu necessidade de avançar para o clique e cadastro?
+3. O VAZAMENTO OCULTO: Onde esteve a quebra de narrativa ou o descompasso de expectativa que fez o Post 2 falhar como gerador de leads?
+
+Seja analítico, cirúrgico e focado em psicologia do consumidor.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve explicar com clareza a diferença entre uma audiência de consumo passivo/educacional (que salva e comenta, mas não compra) e uma audiência pronta para ação de conversão.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar justificar a falha por "mudança no algoritmo do Instagram", corrija-a na hora: "Ignore fatores de algoritmo externo. Concentre a análise estritamente no perfil comportamental da audiência e no tipo de interesse gerado por cada conteúdo".
+
+Próximo passo
+Mantenha a conversa aberta e execute o PromptLab #2A.2 em seguida para traduzir a análise em uma matriz de classificação de métricas.

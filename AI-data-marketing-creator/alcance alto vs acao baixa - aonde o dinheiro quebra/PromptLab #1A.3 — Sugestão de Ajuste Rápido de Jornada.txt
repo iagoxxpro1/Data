@@ -1,0 +1,33 @@
+PromptLab #1A.3 — Sugestão de Ajuste Rápido de Jornada
+"O objetivo do diagnóstico não é acumular observações sobre o passado, mas sim gerar decisões concretas e rápidas para o próximo ciclo."
+
+Objetivo
+Transformar o diagnóstico de vazamento e as hipóteses de fricção em micro-ajustes práticos. Este prompt atua como um Especialista em Testes A/B e Otimização de Processos, sugerindo pequenas alterações de baixo esforço (sem precisar regravar ou refazer o conteúdo do zero) para estancar a perda de leitores entre as etapas de vazamento.
+
+O que preparar antes de copiar
+O Diagnóstico Executado: ter rodado os PromptLabs #1A.1 e #1A.2 na mesma conversa.
+A Etapa de Quebra: saber exatamente em qual transição o conteúdo perdeu público (ex: de Atenção para Intenção ou de Intenção para Ação).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute na mesma conversa dos prompts anteriores.
+
+Dado o diagnóstico de vazamento e as hipóteses de fricção que analisamos até aqui, me ajude a definir os ajustes operacionais para o próximo teste.
+
+CONTEXTO DE TRANSIÇÃO:
+- Etapa Onde o Conteúdo Quebrou: [INSIRA A TRANSIÇÃO: ex: de Atenção para Intenção / de Intenção para Ação]
+- Tipo de Conteúdo Analisado: [INSIRA O FORMATO: ex: Reel de Finanças, Carrossel, etc.]
+
+Com base na premissa de eficiência e iteração rápida, me entregue:
+1. TRÊS AJUSTES DE BAIXO ESFORÇO: Sugira 3 modificações simples para testar na próxima publicação com o objetivo de reduzir o vazamento nessa transição específica.
+2. RESTRINGIMENTO OPERACIONAL: Garanta que todas as sugestões possam ser aplicadas reaproveitando a estrutura atual do conteúdo (alterando apenas ganchos, CTAs, legendas ou o caminho do link), sem exigir refazer a peça do zero.
+3. MÉTRICA DE VALIDAÇÃO DO TESTE: Qual indicador específico deve ser monitorado no próximo post para confirmar se a alteração reduziu a fricção?
+
+Seja prático, direto e focado em testes de baixo custo de produção.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve entregar sugestões operacionais extremamente viáveis (ex: mudar o texto da legenda, adicionar uma chamada em texto na tela ou trocar o link da bio por uma automação via direct), sem pedir para você regravar o vídeo ou refazer o carrossel inteiro.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir refazer a produção, mudar o nicho ou criar uma nova oferta complexa, ela ignorou a restrição de baixo esforço. Corrija-a: "Refaça as propostas. Quero apenas micro-ajustes de distribuição, copy ou chamada que tomem menos de 5 minutos para serem aplicados no próximo post".
+
+Próximo passo
+Selecione o ajuste de menor esforço sugerido e aplique na sua próxima publicação para validar a hipótese na prática.

@@ -1,0 +1,28 @@
+PromptLab #4B.3 — Consulta Histórica e Padrão de Comportamento Ativo
+"Um banco de inteligência de dados bem alimentado responde em 5 segundos qual foi o formato que realmente colocou dinheiro no seu bolso nos últimos meses."
+
+Objetivo
+Demonstrar o uso do NotebookLM como uma ferramenta permanente de auditoria de longo prazo. Este prompt varre todo o arquivo histórico do caderno para localizar onde a validação emocional se escondeu com mais frequência e confirmar o formato campeão em comportamento ativo.
+
+O que preparar antes de copiar
+O Caderno Alimentado: O NotebookLM com o histórico de análises e relatórios de métricas devidamente anexado.
+A Pergunta de Auditoria: O objetivo de identificar tendências de longo prazo na operação.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no Google NotebookLM.
+
+Atuando como meu auditor de inteligência de negócios de longo prazo, consulte todo o histórico de dados e análises anexado neste notebook para responder:
+
+AUDITORIA CONTINUADA DO HISTÓRICO:
+1. RECORRÊNCIA DA ARMADILHA EMOCIONAL: Olhando todo o histórico de publicações do caderno, em qual tipo específico de métrica/sinal a busca por validação emocional e vaidade apareceu com maior frequência?
+2. O CAMPEÃO DE COMPORTAMENTO ATIVO: Qual formato ou estrutura de conteúdo demonstrou, com base estritamente nos números, gerar o maior volume de comportamento ativo em direção à compra/conversão final?
+3. SÍNTESE DE GOVERNANÇA: Com base em todas as evidências documentais deste caderno, qual é a instrução definitiva que devo seguir para garantir a lucratividade das próximas campanhas?
+
+Seja sintético, direto e cite as trechos exatos das fontes que embasam suas afirmações.
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve indicar exatamente quais documentos provam a eficácia das chamadas diretas versus a ilusão dos posts virais inspiracionais.
+
+Atenção (Sinal Vermelho)
+Se o NotebookLM trouxer uma resposta sem citações diretas das fontes, exija: "Cite explicitamente os documentos e números do caderno que justificam a sua conclusão".
+
+Próximo passo
+Continue adicionando as métricas dos seus novos posts semanalmente neste mesmo caderno do NotebookLM para manter o seu banco de inteligência viva atualizado.

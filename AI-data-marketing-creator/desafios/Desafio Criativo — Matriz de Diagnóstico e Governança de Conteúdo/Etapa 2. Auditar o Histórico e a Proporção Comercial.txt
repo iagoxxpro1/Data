@@ -1,0 +1,22 @@
+Etapa 2. Auditar o Histórico e a Proporção Comercial
+Olhar um post isolado não basta; você precisa entender o padrão. Nesta etapa, você vai confrontar os dados de múltiplos conteúdos recentes para identificar se está dedicando energia a posts que geram caixa ou a posts que apenas massageiam o seu ego.
+
+Prompt da Etapa 2 (Continue no mesmo chat):
+
+text
+Copiar
+Com base no diagnóstico da peça que acabamos de fazer, vamos auditar o meu HISTÓRICO RECENTE DE PUBLICAÇÕES para identificar se existe um padrão de contradição entre engajamento público e resultado de conversão.
+
+HISTÓRICO DOS MEUS ÚLTIMOS 3 A 5 POSTS:
+- Post 1: [Formato/Tema] | [Engajamento público: Views/Curtidas] | [Conversão real: Cliques/Vendas/DMs]
+- Post 2: [Formato/Tema] | [Engajamento público: Views/Curtidas] | [Conversão real: Cliques/Vendas/DMs]
+- Post 3: [Formato/Tema] | [Engajamento público: Views/Curtidas] | [Conversão real: Cliques/Vendas/DMs]
+- Post 4: [Formato/Tema] | [Engajamento público: Views/Curtidas] | [Conversão real: Cliques/Vendas/DMs]
+
+Atue como auditor de performance e entregue:
+1. Correlação Tipo vs. Resultado: Aponta com base nos números fornecidos a relação entre os formatos focados em atração/elogios e os formatos de resposta direta/conversão.
+2. O Diagnóstico de Viés: Identifique se a minha grade atual está inclinada a produzir conteúdos para busca de validação emocional (curtidas) em detrimento de geração de caixa real.
+3. Isolamento da Peça Estratégica: Indique qual post do histórico entregou o maior nível de comportamento ativo de compras/leads e por quê.
+Ação: Salve o diagnóstico gerado pela IA no bloco Auditoria do Histórico Editorial do seu documento.
+
+CTA de avanço: Padrão de histórico mapeado. Vamos classificar os seus sinais de performance em um filtro decisional definitivo.

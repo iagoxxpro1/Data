@@ -1,0 +1,34 @@
+PromptLab #2A.2 — Matriz de Classificação de Sinais de Jornada
+"Curtida é sinal de atenção. Salvamento é sinal de intenção. Clique é sinal de ação. Misturar essas três camadas é o motivo pelo qual você otimiza o conteúdo errado."
+
+Objetivo
+Traduzir os dados comparativos em uma matriz hierárquica clara. Este prompt atua como um Arquiteto de Funil, categorizando cada indicador (curtida, comentário, salvamento, clique) no seu papel exato dentro da jornada do usuário.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #2A.1 na mesma janela do chat.
+A Lista de Indicadores: As métricas específicas que foram coletadas no diagnóstico comparativo.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base na análise comparativa que você acabou de realizar, vamos traduzir esses dados em um quadro prático de inteligência de métricas.
+
+MÉTRICAS A SEREM CLASSIFICADAS:
+- [Métrica 1: ex: Curtidas]
+- [Métrica 2: ex: Comentários positivos]
+- [Métrica 3: ex: Salvamentos]
+- [Métrica 4: ex: Cliques no link da bio]
+
+Com base no comportamento real da jornada do leitor, me entregue:
+1. MATRIZ VISUAL EM TABELA: Monte uma tabela contendo as colunas: [Métrica], [Camada da Jornada: Atenção, Intenção ou Ação], [O que o dado REALMENTE indica] e [Nível de Valor Comercial: Baixo, Médio, Alto].
+2. O ALERTA DA MÉTRICA ENGANOSA: Explique por que uma métrica de "Intenção" alta (como salvamentos) pode criar uma falsa sensação de sucesso comercial se não estiver acompanhada de sinais de "Ação".
+
+Apresente a tabela de forma limpa, direta e visual para facilitar a consulta rápida.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve gerar uma tabela estruturada que divida claramente as métricas em sinais de Atenção (topo), Intenção (meio) e Ação (fundo).
+
+Atenção (Sinal Vermelho)
+Se a IA não entregar no formato de tabela visual, force a formatação: "Formate a resposta obrigatoriamente usando uma tabela Markdown de 4 colunas".
+
+Próximo passo
+Copie a tabela e salve na sua pasta de referência. Caso queira aprofundar a psicologia por trás do engajamento passivo, rode o PromptLab #2A.3.

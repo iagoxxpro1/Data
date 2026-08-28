@@ -1,0 +1,36 @@
+PromptLab #1B.1 — Separação de Sinais de Atenção vs. Intenção Real
+"Visualização gera alcance, curtida gera massagem no ego, mas apenas a intenção qualificada cria o terreno necessário para a venda."
+
+Objetivo
+Auditar o engajamento superficial de uma peça de conteúdo para separar o que é mero interesse/entretenimento (Atenção) do que é desejo real de avanço na jornada comercial (Intenção). Este prompt atua como um Analista de Comportamento do Consumidor e Growth Strategist.
+
+O que preparar antes de copiar
+O Desempenho do Conteúdo: Alcance/views, volume de curtidas e o tom dominante dos comentários recebidos.
+O Objetivo de Negócio e o Resultado Real: O produto/oferta pretendido e o volume exato de cliques e conversões obtidos.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um estrategista de growth marketing e analista de comportamento do consumidor digital. Vamos auditar a performance de um conteúdo para SEPARAR SINAIS DE ATENÇÃO DE SINAIS DE INTENÇÃO REAL de compra.
+
+MEU CONTEXTO OPERACIONAL E DADOS DA PEÇA:
+- Nicho / Produto Oferecido: [INSIRA O NICHO E PRODUTO: ex: Moda acessível / E-book por R$ 97]
+- Formato do Conteúdo: [INSIRA O FORMATO: ex: Reel no Instagram]
+- Métricas de Topo (Atenção): [INSIRA VIEWS, CURTIDAS E TIPO DE COMENTÁRIOS: ex: 290.000 views, 34.000 curtidas e 2.100 comentários de elogios genéricos]
+- Objetivo Comercial da Peça: [INSIRA O OBJETIVO: ex: vender o e-book via link na bio]
+- Métricas de Fundo (Ação/Intenção Real): [INSIRA CLIQUES E VENDAS: ex: 420 cliques no link e 3 vendas realizadas]
+
+Com base na psicologia de consumo e análise de funil, me entregue:
+1. DIAGNÓSTICO DE SEPARAÇÃO DE SINAIS: Classifique cada um dos dados fornecidos em "Mero Sinal de Atenção" ou "Sinal de Intenção Qualificada", justificando a diferença entre o engajamento passivo e o interesse comercial.
+2. ANÁLISE DO TOM DA AUDIÊNCIA: O que o perfil dos comentários recebidos revela sobre a percepção que o público teve da peça (ex: viram como entretenimento/inspiração ou como uma oferta de solução)?
+3. A TAXA DE CONVERSÃO DE INTENÇÃO: Calcule e analise a discrepância entre a massa de alcance atrativo e a pequena parcela que demonstrou intenção real de clique/compra.
+
+Seja analítico, direto e sem jargões corporativos genéricos.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve mostrar com clareza que elogios genéricos (como "Que lindo!" ou "Inspira demais") são métricas de vaidade/atenção, enquanto cliques na bio e perguntas sobre o preço/produto são os únicos sinais de intenção.
+
+Atenção (Sinal Vermelho)
+Se a IA considerar curtidas e comentários elogiosos como "sucesso de vendas", corrija-a na hora: "Considere comentários elogiosos genéricos apenas como engajamento passivo de topo de funil, isolando a intenção comercial estritamente nos cliques e vendas".
+
+Próximo passo
+Mantenha a conversa aberta e execute o PromptLab #1B.2 para descobrir o que faltou no conteúdo para virar a chave da intenção.

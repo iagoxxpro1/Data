@@ -1,0 +1,38 @@
+PromptLab #3A.1 — Diagnóstico de Comportamento na Página de Destino
+"Um tempo médio de permanência baixo combinado com alta rejeição não significa apenas que a página é ruim; significa que o leitor levou 18 segundos para descobrir que não estava no lugar certo."
+
+Objetivo
+Auditar os dados de tráfego e comportamento em uma página de destino (tempo na página, rejeição, conversão) para isolar se a quebra de conversão está ocorrendo na landing page ou no criativo de origem. Este prompt atua como um Especialista em CRO e Analytics, levantando as causas prováveis de fuga imediata.
+
+O que preparar antes de copiar
+Os Dados de Tráfego da Página: Número de sessões/visitas recebidas e a origem do tráfego.
+As Métricas de Comportamento: Tempo médio na página, taxa de rejeição (%) e taxa de conversão final (%).
+O Objetivo e Fricção da Página: O que o usuário precisa fazer (ex: preencher formulário com nome e e-mail) para receber o ativo.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um especialista em CRO (Conversion Rate Optimization) e analista de comportamento do usuário em landing pages. Vamos realizar um DIAGNÓSTICO DE COMPORTAMENTO NA PÁGINA DE DESTINO para entender onde a conversão está travando após o clique.
+
+MEU CONTEXTO E DADOS DA PÁGINA:
+- Origem do Tráfego: [INSIRA A ORIGEM: ex: link na bio do Instagram, tráfego pago, etc.]
+- Volume de Sessões/Visitas: [INSIRA O NÚMERO DE SESSÕES]
+- Tempo Médio na Página: [INSIRA O TEMPO MÉDIO: ex: 18 segundos]
+- Taxa de Rejeição (Bounce Rate): [INSIRA A TAXA DE REJEIÇÃO: ex: 76%]
+- Taxa de Conversão Atual: [INSIRA A TAXA DE CONVERSÃO: ex: 2,2%]
+- Ação Esperada na Página: [INSIRA A AÇÃO: ex: preencher nome e e-mail para baixar planilha gratuita]
+
+Com base nos princípios de usabilidade e psicologia de conversão, me entregue:
+1. DIAGNÓSTICO DE ISOLAMENTO: Quais sinais específicos nesses dados indicam que o gargalo de conversão está na página de destino e NÃO no conteúdo/post que gerou o clique?
+2. ANÁLISE DE TEMPO DE PERMANÊNCIA: O que a relação entre o tempo médio na página e a taxa de rejeição revela sobre o comportamento do usuário nos primeiros segundos de navegação?
+3. TRÊS HIPÓTESES DE REJEIÇÃO: Quais são as 3 razões mais prováveis para o visitante abandonar a página rapidamente sem preencher o formulário?
+
+Seja direto, analítico e focado em experiência do usuário (UX). Elimine sugestões genéricas.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve identificar que o tempo curto (ex: 18s) é suficiente para ler a dobra principal, mas insuficiente para gerar confiança, sinalizando falha de proposta de valor imediata ou fricção no formulário.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir que o problema é "o tráfego do Instagram ser ruim", corrija-a na hora: "Foque a análise no comportamento dentro da página e nas barreiras cognitivas que impedem o visitante de agir ao chegar no site".
+
+Próximo passo
+Mantenha a conversa aberta e execute o PromptLab #3A.2 na sequência para investigar a quebra de expectativa entre o post e a landing page.

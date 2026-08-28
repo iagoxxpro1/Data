@@ -1,0 +1,33 @@
+PromptLab #1B.2 — Diagnóstico de Lacuna de Intenção Comercial
+"O maior desperdício no marketing digital é conseguir a atenção de centenas de milhares de pessoas e não dar a elas um motivo claro para quererem o próximo passo."
+
+Objetivo
+Identificar as falhas de narrativa, posicionamento ou chamada no conteúdo que impediram a audiência de transicionar do estado de "admirador" para o estado de "interessado na oferta". Este prompt atua como um Copywriter Sênior e Estrategista de Vendas.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #1B.1 na mesma conversa.
+A Estrutura do Conteúdo: O tema do vídeo/post e como a oferta foi apresentada.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no mesmo chat do prompt anterior.
+
+Com base na separação de sinais que acabamos de realizar, vamos investigar a LACUNA DE INTENÇÃO deste conteúdo para entender o que faltou no roteiro ou na estrutura da peça.
+
+CONTEXTO DA PEÇA ANALISADA:
+- O que o conteúdo fez bem (Atração): [INSIRA O PONTO FORTE: ex: alta atração visual, tom inspiracional, grande alcance]
+- Onde a conversão travou (Intenção): [INSIRA O PROBLEMA: ex: alto volume de visualizações, mas baixíssima conversão no e-book]
+
+Com base em engenharia de conversão e copywriting, me entregue:
+1. O DIAGNÓSTICO DA LACUNA: O que este conteúdo fez de excelente para atrair a atenção do público, mas o que faltou explicitamente para transformar essa admiração em intenção real de compra?
+2. ANÁLISE DE POSICIONAMENTO DA OFERTA: A oferta foi apresentada como uma "consequência natural" do conteúdo ou pareceu um "anexo forçado" ao final de um vídeo puramente recreativo?
+3. TRÊS PONTOS DE PIVOTAGEM NARRATIVA: Liste 3 ajustes que poderiam ser feitos na estrutura desse mesmo tema para que o leitor sinta necessidade de adquirir o produto pago.
+
+Seja cirúrgico, crítico e focado na construção de desejo comercial.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve diagnosticar se o conteúdo funcionou como "vitrine/dica gratuita" sem criar a consciência de problema que o produto pago resolve.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir apenas "faça uma promoção de preço", corrija-a: "Foque a análise na comunicação, no alinhamento da narrativa e na construção de valor do conteúdo, mantendo o preço da oferta inalterado".
+
+Próximo passo
+Anote os pontos de pivotagem narrativa para aplicar no próximo roteiro e, se quiser gerar um quadro comparativo visual para aula ou equipe, rode o PromptLab #1B.3.

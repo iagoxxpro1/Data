@@ -1,0 +1,16 @@
+Etapa 4. Repactuar a Grade e Estabelecer Governança
+Agora você vai transformar os diagnósticos e filtros em um plano operacional sustentável, redefinindo a proporção entre conteúdos de atração de topo e conteúdos de conversão de fundo para o seu próximo ciclo.
+
+Prompt da Etapa 4 (Continue no mesmo chat):
+
+text
+Copiar
+Atue como meu Diretor de Operações de Conteúdo (Growth). Vamos transformar os diagnósticos de vazamento e o filtro de vaidade em um Plano de Governança Editorial para os próximos 30 dias.
+
+Gere meu "Plano de Governança de Conteúdo" estruturado em:
+1. REPACTUAÇÃO DA GRADE (Mix de 30 Dias): A nova proporção percentual sugerida entre conteúdos de Atração/Topo (Atenção) e conteúdos de Conversão/Fundo (Estratégia/Caixa).
+2. PROTOCOLO DE MANUTENÇÃO (30 Minutos): Um checklist simples para executar toda sexta-feira para extrair métricas, checar vazamentos e ajustar os posts da semana seguinte.
+3. A REGRA DE OURO DO PROJETO: Uma declaração em uma frase que servirá como orientação para travar qualquer impulso de produzir conteúdo voltado apenas para o ego.
+Ação: Salve o plano operacional no bloco final Governança Editorial de 30 Dias do seu documento.
+
+CTA de avanço: O mapeamento analítico e o sistema de decisão do seu projeto estão finalizados. Vamos para a revisão e submissão.

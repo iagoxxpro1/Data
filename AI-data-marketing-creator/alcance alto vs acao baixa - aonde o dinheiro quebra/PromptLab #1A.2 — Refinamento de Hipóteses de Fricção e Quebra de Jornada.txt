@@ -1,0 +1,34 @@
+PromptLab #1A.2 — Refinamento de Hipóteses de Fricção e Quebra de Jornada
+"Descobrir onde o funil vazou é apenas metade do trabalho. A outra metade é identificar qual obstáculo invisível fez o seu leitor desistir no meio do caminho."
+
+Objetivo
+Investigar os fatores de fricção e contexto operacional que não aparecem nos dashboards de dados brutos. Este prompt atua como um Especialista em UX (User Experience) e Otimização de Jornada, ajudando você a levantar hipóteses testáveis sobre chamadas, barreiras de cliques e formato de entrega.
+
+O que preparar antes de copiar
+O Diagnóstico Anterior: ter executado o PromptLab #1A.1 na mesma janela do chat.
+O Contexto de Bastidor: detalhes de execução que o painel não mostra (onde estava o link, se a oferta era paga ou gratuita, se exigia formulário, etc.).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute na mesma conversa onde rodou o prompt de diagnóstico.
+
+Com base no diagnóstico de vazamento que você acabou de apresentar, vamos aprofundar a investigação trazendo variáveis de fricção operacional e contexto que não aparecem nos dados brutos do dashboard.
+
+DETALHES DE EXECUÇÃO E BASTIDORES:
+- Localização da Chamada / Link: [INSIRA O LOCAL: ex: link exclusivo na bio, automação no Direct, link nos Stories]
+- Fricção da Oferta / Incentivo: [INSIRA A OFERTA: ex: planilha gratuita, e-book, produto de R$ 47]
+- Fricção da Página / Destino: [INSIRA COMO ERA O DESTINO: ex: exigia formulário de 5 campos, sem CTA falada no áudio do vídeo, etc.]
+
+Com base nessas variáveis operacionais, me entregue:
+1. TRÊS HIPÓTESES DE FRICÇÃO: Formule as 3 razões mais prováveis pelas quais o público travou na transição de Intenção para Ação, considerando o esforço exigido pelo usuário.
+2. ISOLAMENTO DE ELEMENTO TÉCNICO: Para cada hipótese levantada, indique qual componente específico (o roteiro/criativo, o caminho do link ou a página de destino) deve ser auditado.
+3. AJUSTE DE MENOR IMPACTO OPERACIONAL: Qual seria a mudança mais rápida e simples de testar em um próximo conteúdo similar para reduzir essa fricção de jornada?
+
+Seja pragmático e focado na experiência do usuário (UX).
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve mapear a Fricção Cognitiva (ex: a preguiça de sair do Reels, ir até a bio e abrir o navegador) e entregar sugestões cirúrgicas fáceis de aplicar no próximo post.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir refazer o vídeo do zero ou reescrever todo o projeto, ela violou o princípio de eficiência. Corrija-a: "Ajuste a análise para focar em micro-alterações de jornada e redução de fricção de cliques no processo atual".
+
+Próximo passo
+Escolha uma das hipóteses geradas e defina o elemento de menor fricção (ex: trocar o link na bio por uma automação de palavra-chave no Direct) para ser testado na sua próxima publicação.

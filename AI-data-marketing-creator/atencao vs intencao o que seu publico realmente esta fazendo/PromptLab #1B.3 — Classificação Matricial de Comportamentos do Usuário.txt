@@ -1,0 +1,30 @@
+PromptLab #1B.3 — Classificação Matricial de Comportamentos do Usuário
+"Quando você aprende a categorizar o comportamento do seu seguidor em uma matriz visual, você para de comemorar métricas de vaidade."
+
+Objetivo
+Transformar a lista de interações do público em uma tabela organizada de classificação comportamental. Este prompt atua como um Arquiteto de Dados e Designer de Processos, mapeando visualmente os níveis de consciência e engajamento da audiência.
+
+O que preparar antes de copiar
+A Lista de Comportamentos: Todas as interações observadas no post (views, curtidas, salvamentos, tipos de comentários, cliques, DMs, compras).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no mesmo chat dos prompts anteriores.
+
+Com base em todo o diagnóstico da conta, vamos consolidar a CLASSIFICAÇÃO DE COMPORTAMENTOS do público em uma matriz visual de consulta rápida.
+
+LISTA DE COMPORTAMENTOS OBSERVADOS:
+- [INSIRA OS COMPORTAMENTOS OBSERVADOS: ex: visualizações, curtidas, comentários do tipo "que lindo", salvamentos, cliques no link da bio, DMs perguntando onde comprar, compras do e-book]
+
+Com base na jornada do cliente, me entregue:
+1. TABELA MATRICIAL DE COMPORTAMENTO: Monte uma tabela organizada contendo as colunas: [Comportamento do Usuário], [Classificação: Sinal de Atenção, Intenção ou Ação], [Nível de Consciência do Lead] e [Valor Comercial Real].
+2. O VEREDITO DO PAINEL: Dê um resumo em 1 frase explicativa de qual camada comportamental dominou a performance deste conteúdo.
+
+Apresente a tabela em formato Markdown limpo e altamente visual.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve retornar uma tabela impecável, separando claramente comentários genéricos de comentários com intenção (ex: "Onde eu compro?"), e sinalizando o valor comercial de cada um.
+
+Atenção (Sinal Vermelho)
+Se a IA não formatar em tabela, exija a estrutura: "Reformatar o resultado obrigatoriamente usando uma tabela Markdown de 4 colunas".
+
+Próximo passo
+Guarde esta matriz como um gabarito visual para consultar sempre que for analisar o relatório de engajamento dos seus próximos conteúdos.

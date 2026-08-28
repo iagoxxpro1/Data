@@ -1,0 +1,33 @@
+PromptLab #2A.3 — Diagnóstico do Efeito "Satisfação Prematura"
+"Quando o seu conteúdo é bom e completo demais, ele resolve o problema do leitor ali mesmo na tela. E quem já se sente satisfeito não clica no link."
+
+Objetivo
+Identificar se o conteúdo está resolvendo a dor da audiência antes da hora. Este prompt atua como um Copywriter e Estrategista de Ofertas, analisando como o excesso de utilidade em posts educativos destrói a intenção de ação.
+
+O que preparar antes de copiar
+O Tipo de Conteúdo: O nicho e a natureza da peça (educativo, inspiracional, tutorial).
+A Isca ou Oferta Final: O recurso gratuito ou pago que o post tentava divulgar.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute.
+
+Vamos analisar o fenômeno do conteúdo que gera alto engajamento educacional, mas baixa conversão em vendas ou cadastros.
+
+CONTEXTO DA OFERTA E CONTEÚDO:
+- Nicho / Formato: [INSIRA O NICHO E FORMATO: ex: Conteúdo educativo de finanças pessoais]
+- A Isca / Oferta de Fundo: [INSIRA A ISCA/OFERTA: ex: Planilha gratuita de controle financeiro via link na bio]
+
+Com base na psicologia da retenção e comportamento de consumo digital, me entregue:
+1. DIAGNÓSTICO DE SATISFAÇÃO PREMATURA: Por que conteúdos ultra-educativos ou muito completos tendem a gerar picos de salvamentos/comentários, mas paralisam a ação de clique? O que esse post resolveu na cabeça do usuário antes de ele chegar à CTA?
+2. A BRECHA DA NECESSIDADE: Como reestruturar a entrega do conhecimento para que o post ensine o "O QUÊ" (gerando autoridade e salvamentos) sem entregar o "COMO" completo (que é o que exige o clique no link ou a ferramenta)?
+3. TÁTICA DE TENSÃO NARRATIVA: Dê 2 exemplos de ganchos de transição que criam uma dependência direta entre o conteúdo lido e a ação no link da bio.
+
+Seja focado em posicionamento comercial e construção de necessidade de compra.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve identificar que o post entregou valor suficiente para acalmar a ansiedade da audiência, removendo o incentivo imediato de buscar a planilha/solução no link.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir "entregar menos valor" ou "fazer conteúdos superficiais e ruins", corrija-a: "Ajuste a abordagem. O objetivo não é criar conteúdo ruim, mas sim criar tensão narrativa onde o conteúdo gera a consciência do problema e a isca/link entrega a solução prática".
+
+Próximo passo
+Guarde esse insight para a próxima aula, onde o foco será a engenharia de ganchos e CTAs para transformar intenção em conversão direta.

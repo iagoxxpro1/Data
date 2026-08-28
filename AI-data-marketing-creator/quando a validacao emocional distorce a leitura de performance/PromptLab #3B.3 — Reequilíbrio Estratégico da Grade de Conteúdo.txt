@@ -1,0 +1,33 @@
+PromptLab #3B.3 — Reequilíbrio Estratégico da Grade de Conteúdo
+"Você não precisa banir os conteúdos que o seu público ama e que trazem alcance; você só precisa usá-los como a porta de entrada para o que realmente converte."
+
+Objetivo
+Propor uma reestruturação simples da distribuição da grade de conteúdo, equilibrando os posts de Atração/Atenção com os posts de Conversão/Ação de forma sustentável e sem desperdiçar a audiência conquistada. Este prompt atua como um Planejador de Mídia e Growth Strategist.
+
+O que preparar antes de copiar
+O Diagnóstico Executado: Ter rodado os PromptLabs #3B.1 e #3B.2 no chat.
+A Proporção Atual de Posts: A frequência com que os diferentes formatos são publicados hoje.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no mesmo chat dos prompts anteriores.
+
+Dado o diagnóstico do viés de validação emocional e o padrão histórico de vendas, me ajude a definir uma REESTRUTURAÇÃO RÁPIDA DA GRADE DE CONTEÚDO para os próximos 30 dias.
+
+CONTEXTO DE DISTRIBUIÇÃO ATUAL:
+- Proporção Atual de Formatos: [INSIRA A PROPORÇÃO: ex: 3 posts de atração inspiracional para cada 1 de chamada direta]
+- Meta Comercial do Próximo Ciclo: [INSIRA A META: ex: Manter atração de topo sem deixar a esteira de vendas do e-book parar]
+
+Com base no conceito de ecossistema integrado de conteúdo, me entregue:
+1. NOVA PROPORÇÃO EDITORIAL (O Mix Ideal): Proponha um novo mix percentual de distribuição semanal de conteúdos (dividido em Topo/Atração e Fundo/Conversão) para equilibrar caixa e engajamento.
+2. A TÁTICA DA PONTE (Ancoragem): Como podemos usar a alta atração dos conteúdos inspiracionais para "passar o bastão" imediatamente para a oferta de conversão (ex: Stories, DMs, automações), sem precisar mudar a essência visual do post?
+3. REGRA DE DECISÃO SEMANAL: Crie 1 regra objetiva de checagem pré-publicação para garantir que a escolha dos temas da próxima semana seja baseada na meta de caixa, e não na busca por curtidas.
+
+Seja prático, objetivo e focado em execução de negócio viável.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve sugerir um mix equilibrado (ex: a regra 60/40 ou 50/50), com estratégias concretas de integração (ex: usar o post inspiracional para gerar o topo do funil e direcionar via Stories/Direct para a oferta que converte).
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir parar completamente de fazer conteúdos de topo/alcance, corrija-a: "Ajuste o plano. O topo de funil é necessário para oxigenar a conta; o objetivo é conectar a atração com a conversão, não eliminar o alcance".
+
+Próximo passo
+Aplique essa nova proporção editorial no seu calendário do próximo mês e utilize as métricas financeiras reais para validar a mudança de governança.

@@ -1,0 +1,34 @@
+PromptLab #4B.2 — Filtro de Decisão Editorial Pré e Pós-Publicação
+"Ter dados no dashboard é inútil se você não tiver um filtro de perguntas simples para barrar os impulsos do seu ego antes de criar o próximo post."
+
+Objetivo
+Transformar o diagnóstico histórico em um filtro operacional prático composto por 3 a 5 perguntas estratégicas. Este instrumento servirá como uma matriz de checagem pré-publicação para que o criador não cometa novamente o erro de produzir conteúdo por validação emocional.
+
+O que preparar antes de copiar
+A Classificação Executada: Ter rodado o PromptLab #4B.1 no mesmo caderno.
+O Padrão Histórico: Mapear a recorrência dos erros do criador/empresa contidos nas fontes.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no Google NotebookLM.
+
+Com base no padrão identificado no histórico de dados e na classificação dos sinais de performance deste caderno, construa o FILTRO DECISIONAL OPERACIONAL do projeto.
+
+CONTEXTO DA OPERAÇÃO:
+- Projeto / Nicho: [INSIRA O NICHO: ex: Projeto de Vendas do E-book da Camila]
+
+Gere uma matriz de governança contendo:
+1. CHECKLIST DE PERGUNTAS DECISIONAIS (3 a 5 perguntas): Crie um filtro simples e direto com as perguntas cruciais que o criador DEVE se fazer antes de aprovar o tema do próximo conteúdo ou antes de interpretar o resultado de um post recente.
+2. ESTRUTURA DO FILTRO (3 Camadas): As perguntas devem ser desenhadas para separar imediatamente se o post em planejamento/análise é:
+   - Camada 1: Busca por Vaidade / Dopamina (Validação social).
+   - Camada 2: Execução de Estratégia (Foco em conversão e caixa).
+   - Camada 3: Reação a Ruído (Pânico injustificado por oscilação de alcance).
+3. REGRA DE BLOQUEIO EDITORIAL: Defina a condição exata sob a qual um tema de post deve ser sumariamente REJEITADO da pauta por ser puramente focado em vaidade.
+
+Apresente o resultado em formato de guia limpo e direto para ser salvo como nota de referência contínua.
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve entregar um checklist acionável e focado nas decisões diárias da conta (ex: "Esta chamada exige uma ação ativa do leitor ou busca apenas elogios na legenda?").
+
+Atenção (Sinal Vermelho)
+Se as perguntas parecerem genéricas ou teóricas demais, reorienta-a: "Ancore as perguntas diretamente na prevenção dos erros históricos registrados nos posts deste caderno".
+
+Próximo passo
+Salve este resultado como nota fixa no NotebookLM e exporte para o seu repositório de trabalho (Notion, Docs ou bloco de notas).

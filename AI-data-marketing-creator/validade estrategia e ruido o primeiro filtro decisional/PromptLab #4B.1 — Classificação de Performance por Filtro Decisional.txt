@@ -1,0 +1,45 @@
+PromptLab #4B.1 — Classificação de Performance por Filtro Decisional
+"Métrica de vaidade massageia o ego, ruído do algoritmo gera distração, mas apenas o sinal de estratégia indica que o dinheiro está entrando no caixa."
+
+Objetivo
+Classificar rigorosamente os indicadores de performance de cada publicação do histórico em três categorias fundamentais (Vaidade, Estratégia e Ruído), forçando a IA a ancorar cada conclusão estritamente nos documentos carregados no caderno.
+
+O que preparar antes de copiar
+📋 O que subir no NotebookLM antes de começar: Abra o seu caderno no Google NotebookLM e adicione à seção de Fontes (Sources) os seguintes documentos:
+
+Documento 1 — Dados dos Posts (Obrigatório): Tabela ou texto simples contendo o histórico dos 5 posts da Camila (formato, visualizações, curtidas, comentários, cliques e vendas do e-book).
+
+Documento 2 — Síntese dos Padrões (Recomendado): Resumo do padrão identificado nas Aulas 1 a 3 sobre o que converte mais (chamada direta) versus o que gera apenas engajamento emocional (look inspiracional).
+
+Documento 3 — Conceito do Filtro Decisional (Opcional): A definição do filtro das 3 camadas (Vaidade, Estratégia e Ruído) extraída do material de apoio.
+
+Fontes Anexadas: Verificar se o documento com o histórico de dados dos posts está devidamente selecionado no NotebookLM.
+
+A Definição dos Conceitos: Ter clareza da diferença entre métrica de vaidade (engajamento sem venda), estratégia (ação de compra) e ruído (oscilação de alcance).
+
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no painel do Google NotebookLM.
+
+Você é um auditor de inteligência de dados e estrategista de growth marketing operando dentro deste caderno de fontes. Com base EXCLUSIVAMENTE nos documentos e dados anexados neste notebook, realize a CLASSIFICAÇÃO DOS SINAIS DE PERFORMANCE dos conteúdos analisados.
+
+CONTEXTO E CATEGORIAS DE ANÁLISE:
+- Projeto / Criador: [INSIRA O PROJETO/NOME: ex: Camila — Moda Acessível / E-book R$ 97]
+- Métrica de Vaidade: Indicador que gera sensação de sucesso social/público, mas não indica avanço real em direção à venda do produto.
+- Métrica de Estratégia: Sinal claro que indica comportamento ativo do público em direção à compra do produto.
+- Ruído de Plataforma: Oscilação ou movimento de alcance do algoritmo que não representa mudança real no comportamento de compra.
+
+Com base nas fontes carregadas, me entregue:
+1. TABELA DE CLASSIFICAÇÃO POR POST: Monte uma tabela organizada contendo as colunas: [Conteúdo / Post], [Sinal de Vaidade Identificado], [Sinal de Estratégia Identificado] e [Ruído de Algoritmo Observado].
+2. ANÁLISE DE ANCORAGEM: Explique em 1 parágrafo por que o sinal classificado como "Estratégia" é o único indicador confiável de saúde comercial desta conta.
+3. CITAÇÃO DIRETA DE FONTES: Garanta que todas as classificações venham estritamente acompanhadas das citações das fontes anexadas neste caderno.
+
+Seja analítico, frio e focado em governança de dados brutos.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? O NotebookLM deve gerar a tabela detalhada e exibir as âncoras/números de citação clicáveis (ex: [1], [2]) direcionando para os trechos exatos dos documentos.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar inventar conceitos ou buscar dados fora do caderno, imponha a restrição: "Responda utilizando estritamente as informações presentes nos arquivos deste notebook".
+
+Próximo passo
+Clique em "Salvar como nota" no NotebookLM e execute o PromptLab #4B.2 para transformar a classificação em um checklist decisional pré-post.

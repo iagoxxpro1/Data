@@ -1,0 +1,33 @@
+PromptLab #3A.3 — Otimização de Baixo Esforço para Página de Destino
+Ajustar o título e remover um campo desnecessário do formulário custa zero reais e pode dobrar a taxa de conversão da página na mesma tarde.
+
+Objetivo
+Definir micro-ajustes rápidos na landing page para aumentar a taxa de conversão sem a necessidade de refazer o design ou a estrutura do site do zero. Este prompt atua como um Especialista em Otimização de Conversão de Baixo Impacto Operacional.
+
+O que preparar antes de copiar
+O Diagnóstico Executado Ter rodado os PromptLabs #3A.1 e #3A.2 no chat.
+As Métricas Atuais Taxa de conversão e taxa de rejeição atuais da página.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no mesmo chat dos prompts anteriores.
+
+Dado o diagnóstico de rejeição e a quebra de continuidade narrativa identificados na página, me ajude a definir um plano de ajustes rápidos de baixo esforço.
+
+MÉTRICAS A MOVER
+- Reduzir Taxa de Rejeição Atual de [INSIRA A REJEIÇÃO ATUAL ex 76%]
+- Aumentar Taxa de Conversão Atual de [INSIRA A CONVERSÃO ATUAL ex 2,2%]
+
+Com base na premissa de iteração rápida e mínimo esforço técnico, me entregue
+1. TRÊS AJUSTES DE BAIXO ESFORÇO TÉCNICO Sugira 3 modificações simples na página (ajustes de texto na headline, hierarquia visual da primeira dobra ou redução de fricção no formulário) para testar imediatamente.
+2. RESTRICIONAMENTO DE DESIGN Garanta que nenhuma das sugestões exija redesenhar a landing page do zero, mudar de plataforma ou criar novos elementos gráficos complexos.
+3. TESTE DE IMPACTO IMEDIATO Qual dessas 3 mudanças tem o maior potencial de reduzir o abandono imediato da página nos primeiros 10 segundos
+
+Seja prático, objetivo e focado em vitórias rápidas de CRO.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo A IA deve focar em ajustes acionáveis em poucos minutos (ex mudar a chamada do botão, alinhar a headline ao vídeo ou pedir apenas o e-mail em vez de nome + e-mail).
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir contratar um designer, trocar de plataforma de hospedagem ou refazer a página inteira, ela violou a instrução. Corrija-a Refaça. Forneça apenas alterações de texto ou remoção de elementos que eu possa aplicar em menos de 10 minutos.
+
+Próximo passo
+Aplique a mudança de texto ou remoção de fricção sugerida na sua landing page e acompanhe a alteração na taxa de conversão durante os próximos 100 visitantes.

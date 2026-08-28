@@ -1,0 +1,21 @@
+Etapa 3. Filtrar Sinais (Vaidade, Estratégia ou Ruído)
+O seu perfil não pode tomar decisões com base em oscilações normais de algoritmo. Nesta etapa, você submete seus dados ao Filtro Decisional para categorizar quais métricas devem ser perseguidas e quais devem ser ignoradas.
+
+Prompt da Etapa 3 (Continue no mesmo chat):
+
+text
+Copiar
+Com base nas análises anteriores do meu perfil, vamos estruturar o meu FILTRO DECISIONAL DE PERFORMANCE.
+
+Classifique os indicadores observados no meu histórico nas 3 categorias fundamentais:
+- VAIDADE: Métricas que geram sensação de sucesso social, mas deixam o caixa zerado.
+- ESTRATÉGIA: Sinais que indicam comportamento ativo do público rumo ao objetivo do negócio.
+- RUÍDO: Movimentos de algoritmo da plataforma que não representam mudança real de consumo.
+
+Entregue o seguinte bloco estruturado:
+1. TABELA DE CLASSIFICAÇÃO DOS SINAIS: Uma tabela organizando as métricas do meu perfil nessas 3 categorias com base na minha oferta atual.
+2. CHECKLIST PRÉ-POST (3 a 5 perguntas): As perguntas objetivas que devo me fazer antes de aprovar a pauta de um conteúdo para garantir que ele não é uma busca por validação emocional.
+3. REGRA DE BLOQUEIO EDITORIAL: A condição exata para rejeitar um tema de post por ser puramente focado em vaidade.
+Ação: Salve a tabela e o checklist no bloco Filtro Decisional e Anti-Vaidade do seu documento.
+
+CTA de avanço: Filtro de métricas estabelecido. Vamos consolidar as regras de governança e repactuação da sua grade para os próximos 30 dias.

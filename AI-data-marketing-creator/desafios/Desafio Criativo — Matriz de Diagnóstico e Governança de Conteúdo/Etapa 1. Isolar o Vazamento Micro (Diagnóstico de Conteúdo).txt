@@ -1,0 +1,28 @@
+Etapa 1. Isolar o Vazamento Micro (Diagnóstico de Conteúdo)
+Antes de olhar a conta como um todo, você precisa de clareza sobre como uma peça específica perde leitores. Conteúdos com boa atração costumam falhar por fricção na transição entre o interesse do meio do funil e a ação de conversão no fundo.
+
+Prompt da Etapa 1 (Copie e cole na sua IA):
+
+text
+Copiar
+Você é um estrategista sênior de growth e cientista de dados operando como auditor analítico. Vamos realizar um DIAGNÓSTICO DE VAZAMENTO DE FUNIL de um conteúdo específico da minha conta para identificar onde a jornada do leitor quebrou.
+
+DADOS DE PERFORMANCE DA PEÇA SELECIONADA:
+- Formato e Tema do Conteúdo: [INSIRA O FORMATO E O TEMA]
+- Alcance / Visualizações: [INSIRA O NÚMERO]
+- Engajamento de Topo (Curtidas / Reações): [INSIRA O NÚMERO]
+- Engajamento de Meio (Comentários / Salvamentos): [INSIRA O NÚMERO]
+- Objetivo Comercial do Post: [INSIRA O OBJETIVO — ex: cliques na bio, DMs, cadastros]
+- Resultado Final de Ação: [INSIRA OS RESULTADOS REALMENTE ATINGIDOS]
+- Fricção de Bastidor (Onde estava o link/oferta): [EX: link exclusivo na bio sem CTA clara no áudio]
+
+Sua tarefa é organizar essas informações e me entregar:
+1. Mapeamento de Métricas por Etapa: Avalie o desempenho nas camadas de ATENÇÃO, INTENÇÃO e AÇÃO.
+2. Localização do Gargalo Principal: Indique em qual transição ocorreu a maior quebra percentual de retenção.
+3. Análise de Fricção Cognitiva: Explique qual obstáculo comportamental ou de cópia fez o leitor desistir da conversão.
+4. Micro-Ajuste de Menor Esforço: Sugira a alteração mais rápida e simples de testar na próxima publicação para estancar esse vazamento.
+
+Seja analítico, direto e sem jargões genéricos.
+Ação: No seu Google Drive ou OneDrive, crie um documento chamado Matriz de Diagnóstico e Governança | Creator Data Marketing System. Cole o resultado deste prompt no bloco Diagnóstico de Vazamento Micro.
+
+CTA de avanço: Vazamento pontual localizado. Agora vamos ampliar a visão e auditar a coerência comercial do seu histórico de publicações.
