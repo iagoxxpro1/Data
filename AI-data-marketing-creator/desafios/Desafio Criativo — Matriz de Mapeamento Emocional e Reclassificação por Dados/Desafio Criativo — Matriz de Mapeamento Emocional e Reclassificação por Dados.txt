@@ -1,0 +1,30 @@
+Desafio Criativo — Matriz de Mapeamento Emocional e Reclassificação por Dados
+O que você vai fazer
+Neste desafio integrado, você vai auditar a engenharia das suas decisões recentes de conteúdo para romper com a dependência da validação emocional e estabelecer um critério rigoroso de governança guiado por dados. Você vai sair da reatividade de publicar por aplausos superficiais e construir uma matriz de reclassificação que separa o que traz retorno comercial do que é puramente ruído social.
+
+O objetivo não é apenas identificar erros passados, mas sim estancar o vazamento de margem da sua operação, reclassificando o seu histórico sob a ótica da Métrica Mãe e estabelecendo uma régua numérica para embasar cada próxima escolha de pauta.
+
+Ao final, você terá construído a Matriz de Mapeamento Emocional e Reclassificação por Dados, documentada e pronta para ser a fundação do seu sistema decisional.
+
+O que guia este desafio
+Você usa exclusivamente
+
+A honestidade radical ao admitir onde o seu egodopamina guiou a escolha de formatos.
+O framework da diferenciação entre Sensação (validação pública) e Evidência (comportamento ativo de compra).
+A IA como parceira analítica para modelar riscos e calibrar parâmetros numéricos de decisão.
+Como o desafio funciona
+O desafio é dividido em etapas sequenciais, executadas fora da plataforma, no LLM de sua preferência. Você deve
+
+Escolher um único LLM (ChatGPT, Gemini, Copilot, Claude ou similar).
+Criar um único chat focado nesta tarefa.
+Usar esse mesmo chat do início ao fim para acumular o contexto do seu projeto.
+Registrar cada resultado em um documento no Google Docs ou Microsoft Word (Online). (Atenção A plataforma não executa o desafio e somente aceitará a submissão de links com acesso público do Google Docs ou Word.)
+Estrutura de cada etapa
+Cada etapa contém
+
+Uma instrução clara do que observar ou decidir.
+O prompt exato para organizar seu pensamento no LLM.
+Uma ação prática obrigatória no seu Documento de Entrega.
+Um avanço consciente (CTA) para a próxima etapa.
+Regras essenciais
+⚠️ Não troque de chat no meio do desafio. Todo o contexto sobre o seu histórico de posts, picos de dopamina e réguas de conversão deve permanecer ativo e acumulado no mesmo histórico da IA.

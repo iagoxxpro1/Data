@@ -1,0 +1,33 @@
+PromptLab #1C.3 — Filtro da Pausa Estratégica Pré-Repetição
+"A diferença entre um profissional de dados e um produtor de conteúdo amador é uma pausa de 3 minutos para checar a Métrica Mãe antes de apertar o botão de publicar."
+
+Objetivo
+Estruturar um filtro rápido com perguntas de validação pré-postagem para barrar a repetição automática de temas de alto engajamento superficial, garantindo que o próximo conteúdo seja uma escolha intencional de negócio. Este prompt atua como um Diretor de Operações de Conteúdo.
+
+O que preparar antes de copiar
+O Diagnóstico das Aulas Anteriores: Ter executado os PromptLabs #1C.1 e #1C.2.
+O Próximo Tema em Planejamento: O conteúdo que você está tentado a repetir na sua grade.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute no chat.
+
+Dado o diagnóstico de repetição viciosa que realizamos, me ajude a construir o PROTOCOLO DA PAUSA ESTRATÉGICA antes de aprovar a repetição de qualquer formato na minha grade.
+
+CONTEXTO DE APROVAÇÃO:
+- Formato a Ser Avaliado: [INSIRA O FORMATO QUE VOCÊ PENSA EM REPETIR: ex: Post de treino pesado / Post inspiracional]
+- Objetivo Comercial da Conta: [INSIRA A OFERTA FINAL: ex: Vender consultoria de treino]
+
+Com base na governança anti-vaidade, me entregue:
+1. CHECKLIST DE PAUSA ESTRATÉGICA (3 Perguntas Cruciais): Crie 3 perguntas objetivas que o criador deve responder antes de repetir um formato de alta tração pública.
+2. CRITÉRIO DE REJEIÇÃO IMEDIATA: Defina a condição matemática/operacional exata sob a qual a repetição de um post viral deve ser PROIBIDA na grade por ausência de tração comercial.
+3. REENQUADRAMENTO DE CONVERSÃO: Se o criador optar por publicar o formato mais curtido mesmo assim, qual elemento obrigatorio de oferta (CTA / Gancho / Link) deve ser inserido para forçar a conversão de fundo?
+
+Seja prático, direto e focado em proteção de margem e caixa.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve gerar um checklist direto para barrar decisões automatizadas, oferecendo uma trava para garantir que, caso o post viral seja mantido, ele venha acompanhado de uma ponte direta para a conversão.
+
+Atenção (Sinal Vermelho)
+Se as perguntas forem genéricas como "este post é bom?", exija especificidade: "Refaça as perguntas focando na diferenciação entre métricas de vaidade e avanço de leads no funil".
+
+Próximo passo
+Utilize este checklist sempre que estiver montando o seu calendário editorial semanal para proteger seu tempo e seu orçamento.

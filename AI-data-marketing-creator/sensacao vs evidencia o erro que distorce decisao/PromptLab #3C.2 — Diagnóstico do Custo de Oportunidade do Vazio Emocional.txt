@@ -1,0 +1,33 @@
+PromptLab #3C.2 — Diagnóstico do Custo de Oportunidade do Vazio Emocional
+"Quando você escolhe o caminho da Sensação, você ganha palmas imediatas no feed, mas perde a oportunidade de construir um fluxo previsível de clientes no seu caixa."
+
+Objetivo
+Expor o prejuízo financeiro e operacional de tomar decisões de pauta guiado apenas por métricas de Sensação, demonstrando como a ilusão do topo do funil cega o criador para os formatos de alta Evidência e conversão real. Este prompt atua como um Consultor de Custo de Oportunidade e Estratégia Comercial.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #3C.1 no mesmo chat.
+Os Formatos Mapeados: O conteúdo de Sensação (curtidas altas/vendas nulas) vs. o conteúdo de Evidência (curtidas baixas/vendas altas).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base na classificação de Sensação vs. Evidência que acabamos de realizar, vamos analisar o CUSTO DE OPORTUNIDADE DE UMA DECISÃO EDITORIAL ERRADA.
+
+CONTEXTO DA DECISÃO EDITORIAL:
+- Escolha Guiada por Sensação: [FORMATO DE ATRAÇÃO: ex: Continuar produzindo apenas o vídeo de treino pesado devido às 14 mil curtidas]
+- Escolha Guiada por Evidência: [FORMATO DE CONVERSÃO: ex: Escalar a produção de vídeos educativos/técnicos sobre dores e correções com base nas 9 DMs e 740 salvamentos]
+
+Com base em visão estratégica de negócios e psicologia de consumo, me entregue:
+1. O DIAGNÓSTICO DO CEGO EDITORIAL: Se o criador tivesse tomado a decisão de pauta olhando estritamente para a Sensação (curtidas e aplausos), qual formato ele teria escolhido repetir?
+2. O CUSTO DE OPORTUNIDADE FINANCEIRO: Qual oportunidade comercial, autoridade técnica e pipeline de clientes ele teria matado ao ignorar a Evidência do formato técnico/educativo?
+3. A DIFERENÇA DE CONSCIÊNCIA DO LEAD: Explique por que o leitor que consome um conteúdo de Evidência está massivamente mais próximo do momento de compra do que o leitor que consome apenas a Sensação estritamente estética.
+
+Seja pragmático, analítico e focado na construção de pipeline de vendas.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve provar matematicamente e comportamentalmente que insistir no vídeo estético significa abrir mão de leads qualificados (as 9 DMs do vídeo B) para colecionar aplausos de curiosos que jamais contratarão a consultoria.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar sugerir um "meio-termo" morno sem enfatizar o erro de leitura, reorienta-a: "Seja explícito em mostrar a perda financeira direta que ocorre quando um gestor prefere o formato mais curtido ao formato que mais converte".
+
+Próximo passo
+Salve essa reflexão e, caso queira levar uma pergunta prática de checagem imediata para o seu dia a dia, execute o PromptLab #3C.3.

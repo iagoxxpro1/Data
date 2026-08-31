@@ -1,0 +1,38 @@
+PromptLab #1C.1 — Leitura de Padrões e Identificação de Repetição Automática
+"Quando você repete um formato só porque ele viraliza ou traz curtidas, você para de gerenciar o seu negócio e passa a trabalhar como um escravo da dopamina imediata."
+
+Objetivo
+Cruzar uma sequência de publicações recentes para extrair a discrepância entre o engajamento de vaidade (curtidas) e a conversão de faturamento (leads/vendas), revelando o vício em repetir padrões que não trazem resultado comercial. Este prompt atua como um Auditor de Performance e Growth Strategist.
+
+O que preparar antes de copiar
+O Histórico Recente (Ex: 5 Posts): O tema/estilo de cada publicação, o volume de curtidas e os resultados diretos de negócio atingidos (mensagens no Direct, pedidos de orçamento ou vendas).
+O Objetivo Primário de Negócio: O produto, serviço ou consultoria que a conta busca vender.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute na sua IA de preferência.
+
+Você é um estrategista de growth marketing e auditor de inteligência de dados operando em um ecossistema B2B/B2C. Vamos analisar o HISTÓRICO RECENTE DE PUBLICAÇÕES de um mesmo perfil para identificar padrões de repetição automática e desalinhamento comercial.
+
+CONTEXTO OPERACIONAL E HISTÓRICO:
+- Objetivo Principal de Negócio: [INSIRA SEU OBJETIVO: ex: vender consultoria de treino personalizado]
+- Registro dos Últimos [N] Posts:
+  - Post 1: [Formato / Tema] | [Volume de Curtidas] | [Resultado de Negócio: DMs / Vendas]
+  - Post 2: [Formato / Tema] | [Volume de Curtidas] | [Resultado de Negócio: DMs / Vendas]
+  - Post 3: [Formato / Tema] | [Volume de Curtidas] | [Resultado de Negócio: DMs / Vendas]
+  - Post 4: [Formato / Tema] | [Volume de Curtidas] | [Resultado de Negócio: DMs / Vendas]
+  - Post 5: [Formato / Tema] | [Volume de Curtidas] | [Resultado de Negócio: DMs / Vendas]
+
+Com base na relação entre tração pública vs. conversão privada, me entregue:
+1. MAPEAMENTO DE CONTRADIÇÃO: Aponta de forma clara a discrepância entre o formato que gera mais curtidas e o formato que realmente traz resultados de conversão para o objetivo de negócio.
+2. ANÁLISE DE EFICIÊNCIA COMPARATIVA: Qual post entregou a melhor relação de eficiência entre engajamento público e retorno real de leads?
+3. O DIAGNÓSTICO DO HÁBITO EDITORIAL: Existe evidência nos dados de que este perfil está publicando um formato por vício de tração (curtidas altas) em vez de utilidade comercial?
+
+Seja analítico, cirúrgico e focado em governança de métricas de caixa.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve explicitar imediatamente a contradição (ex: "O Post 3 teve 80% a menos de curtidas, mas gerou 100% dos leads de consultoria real do período").
+
+Atenção (Sinal Vermelho)
+Se a IA não destacar a falha da repetibilidade do post mais curtido, reoriente-a: "Force a análise sobre qual conteúdo teve o maior retorno direto para a meta financeira do negócio, ignorando curtidas isoladas".
+
+Próximo passo
+Mantenha a conversa aberta na mesma janela e rode o PromptLab #1C.2 para investigar o viés psicológico que motivou essa decisão.

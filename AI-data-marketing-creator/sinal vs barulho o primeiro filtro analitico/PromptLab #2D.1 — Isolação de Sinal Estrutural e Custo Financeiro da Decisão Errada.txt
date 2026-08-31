@@ -1,0 +1,50 @@
+PromptLab #2D.1 — Isolação de Sinal Estrutural e Custo Financeiro da Decisão Errada
+"Olhar apenas para o pico de cliques de um post viral sem filtrar o ruído de conversão é a maneira mais rápida de cortar o orçamento do formato que realmente sustenta a sua empresa."
+
+Objetivo
+Processar uma matriz histórica de dados multicanal para isolar o Sinal Estrutural (a combinação exata de formato + canal que entrega conversão consistente) expurgando semanas atípicas (virais, Black Friday, sazonalidade). O prompt calcula simultaneamente a projeção da perda financeira em receita real ($) de uma decisão guiada por vaidade versus a manutenção do sinal verdadeiro. Este prompt atua como um Cientista de Dados de Growth e CFO Analítico.
+
+O que preparar antes de copiar
+Os Dados Históricos Rotulados por Semana: O registro semanal contendo Formato, Canal de Publicação, Volume de Cliques, Conversoes/Mensagens, Vendas Finais e o Rótulo de Contexto (ex: normal, viral, Black Friday).
+O Ticket Médio: O valor médio ($) de venda do produto/serviço para a modelagem do impacto financeiro.
+A Tentação Editorial: A mudança estratégica que parece atraente apenas devido a um pico isolado de alcance/cliques.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados e estrategista executivo de growth marketing (CFO Analítico). Vamos processar um HISTÓRICO DE DADOS MULTICANAL de 12 semanas para separar o Sinal Estrutural de conversão do Ruído/Sazonalidade e calcular o custo financeiro de uma decisão editorial errada.
+
+DADOS DO PROJETO E HISTÓRICO DAS 12 SEMANAS:
+- Produto / Ticket Médio: [INSIRA O PRODUTO E TICKET MÉDIO: ex: Sérum Facial com Ticket Médio de R$ 89]
+- Canais de Distribuição: [INSIRA OS CANAIS: ex: Instagram (IG) e TikTok (TK)]
+- Canal de Conversão Final: [INSIRA O CANAL: ex: WhatsApp e Link da Bio]
+- Mudança Considerada pela Gestão: [INSIRA A MUDANÇA: ex: Realocar 70% do conteúdo para o formato Antes/Depois devido ao pico de cliques da S6]
+
+MATRIZ SEMANAL DE DADOS:
+- S1: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S2: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S3: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S4: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S5: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S6: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Viral
+- S7: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S8: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S9: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+- S10: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Black Friday
+- S11: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Black Friday
+- S12: [Formato/Canal] | [Cliques] | [Msgs/Leads] | [Vendas] | [% Conversão] | Contexto: Normal
+
+Atuando como auditor analítico de alto nível, entregue EXATAMENTE ESTES 3 PROCESSAMENTOS:
+1. IDENTIFICAÇÃO DO SINAL ESTRUTURAL: Identifique qual COMBINAÇÃO ESPECÍFICA de [Formato + Canal] possui taxa de conversão estruturalmente consistente. Expurgue da análise as semanas de contexto especial (Viral e Black Friday). Analise a diferença entre usar o mesmo formato em canais diferentes (ex: IG vs. TK).
+2. MODELAGEM DO IMPACTO FINANCEIRO EM RECEITA (R$): Calcule a diferença de receita acumulada em R$ (multiplicando pelo Ticket Médio) entre a aposta na mudança sugerida pela gestão VERSUS a manutenção da combinação de maior sinal estrutural, utilizando as semanas normais como base.
+3. CRITÉRIO PRELIMINAR DE VALIDAÇÃO: Indique em números a taxa média de conversão da combinação campeã versus a taxa média do formato viral em semanas normais.
+
+Seja matemático, cirúrgico e sem rodeios. Force os cálculos de receita em valores monetários exatos.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar que o formato Tutorial IG em semanas normais (ex: S1 3,4%, S5 3,9%, S8 3,9%) é a única combinação estrutural. Deve explicitar que o mesmo formato em outro canal (ex: Tutorial TK, S3 = 1,4%) não performa igual, provando que o sinal é a combinação [Formato + Canal]. Deve também apresentar a perda de receita modelada em valores monetários reais.
+
+Atenção (Sinal Vermelho)
+Se a IA não trouxer o valor da diferença de faturamento em Reais (R$), force o cálculo: "Converta a diferença total de unidades de vendas em receita monetária multiplicando rigorosamente pelo ticket médio informado".
+
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #2D.2 para extrair os parâmetros numéricos calibrados de governança.

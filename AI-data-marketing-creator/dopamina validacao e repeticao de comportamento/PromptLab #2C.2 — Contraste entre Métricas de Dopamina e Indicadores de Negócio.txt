@@ -1,0 +1,33 @@
+PromptLab #2C.2 — Contraste entre Métricas de Dopamina e Indicadores de Negócio
+"Uma curtida exige um milissegundo de impulso e custo zero do leitor; uma mensagem de orçamento exige intenção real e quebra de fricção. Comparar as duas no mesmo nível é suicídio comercial."
+
+Objetivo
+Confrontar a assimetria comportamental entre as métricas de vaidade rápida (curtidas/views) e as métricas de negócio real (DMs/leads/vendas), explicando por que os dados que realmente colocam dinheiro no caixa demoram mais para responder e perdem a disputa na cabeça do criador não preparado. Este prompt atua como um Arquiteto de Funil de Vendas.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #2C.1 na mesma janela do chat.
+O Produto/Serviço: A oferta pretendida e o canal de conversão final (ex: direct, formulário, WhatsApp).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base na reconstrução do ciclo de recompensa que acabamos de realizar, vamos mapear a ASSIMETRIA DE TEMPO E ESFORÇO entre as métricas de vaidade e os indicadores reais de negócio.
+
+CONTEXTO DA OFERTA E MÉTRICAS:
+- Ação de Vaidade (Dopamina Rápida): [MÉTRICA SUPERFICIAL: ex: Curtidas e visualizações no vídeo]
+- Ação de Negócio (Conversão Lenta): [MÉTRICA MÃE: ex: Mensagens no Direct pedindo consultoria de treino]
+
+Com base na psicologia de fricção do usuário e engenharia de vendas, me entregue:
+1. O QUADRO DE DADOS REAIS DE GOVERNANÇA: Quais indicadores específicos deveriam ter sido consultados obrigatoriamente no painel antes de tomar a decisão de repetir a peça?
+2. A ASSIMETRIA DE ESFORÇO DO USUÁRIO: Explique por que dar um "like" e enviar uma "DM de contratação" pertencem a níveis de consciência e esforço completamente opostos na jornada do cliente.
+3. A LUTA DE TEMPO DA DOPAMINA: Por que os dados de negócio (leads/vendas) demoram mais tempo para responder no funil do que os picos imediatos de curtidas, e como isso engana o cérebro do criador nas primeiras 2 horas pós-post?
+
+Seja objetivo, analítico e focado em maturidade comercial.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve explicar com clareza a lacuna de tempo (lag time) entre o consumo de um conteúdo e a tomada de decisão de compra, provando que avaliar um post apenas 30 minutos após a publicação mede apenas ruído social, e não valor de negócio.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir que a solução é "postar mais para ver se a DM responde mais rápido", force a correção: "Foque na disciplina de janela de análise de dados. A checagem de métricas financeiras exige maturidade e janelas de avaliação mais longas".
+
+Próximo passo
+Guarde esse diagnóstico e, caso deseje criar um filtro pessoal rápido de checagem compulsiva, rode o PromptLab #2C.3.

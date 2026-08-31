@@ -1,0 +1,30 @@
+PromptLab #2D.2 — Definição de Parâmetros Operacionais Calibrados de Governança
+"Governança de marketing não é um conselho genérico de livro; é uma régua matemática calibrada com a volatilidade real do seu próprio histórico."
+
+Objetivo
+Traduzir os dados auditados em um conjunto de parâmetros numéricos calibrados específicos para a conta. O prompt entrega 3 regras numéricas (tempo de confirmação, tolerância de oscilação e gatilho de degradação) para eliminar o viés subjetivo na tomada de decisão editorial. Este prompt atua como um Diretor de Operações e BI.
+
+O que preparar antes de copiar
+A Auditoria Executada: Ter rodado o PromptLab #2D.1 no mesmo chat.
+A Combinação de Sinal Estrutural Mapeada: Os dados do formato e canal campeões.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base na análise matemática do histórico que você acabou de realizar, construa o PARÂMETRO OPERACIONAL CALIBRADO DE GOVERNANÇA específico para este projeto.
+
+Elimine qualquer recomendação genérica de marketing e entregue CRITÉRIOS NUMÉRICOS EXATOS calibrados com o histórico de dados fornecido:
+
+1. REGRA DE CONFIRMAÇÃO DE SINAL (Tempo e Taxa): Defina exatamente quantas semanas consecutivas e acima de qual taxa percentual de conversão mínima uma nova combinação de [Formato + Canal] precisa sustentar para ser considerada "Sinal Estrutural" (e não apenas sorte ou variação pontual).
+2. MARGEM DE TOLERÂNCIA DE OSCILAÇÃO (Algoritmo): Qual percentual de variação semanal no volume bruto de CLIQUES entre semanas do mesmo formato deve ser IGNORADO pela equipe por ser apenas oscilação normal da plataforma, sem indicar perda de eficiência?
+3. GATILHO DE ALERTA DE DEGRADAÇÃO (Gatilho de Queda): Defina a métrica exata (em semanas consecutivas e limite inferior de taxa de conversão) que acionará o alerta de que a combinação campeã está realmente perdendo eficiência estrutural e precisa de ajustes.
+
+Apresente os 3 critérios em formato de tabela e lista de execução direta, usando exclusivamente os números reais do histórico.
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar regras matemáticas específicas (ex: "1. Confirmação: 3 semanas consecutivas acima de 3,2% de conversão; 2. Margem de Oscilação: Variação de cliques até 25% deve ser ignorada; 3. Gatilho de Alerta: 2 semanas consecutivas abaixo de 2,8% de conversão").
+
+Atenção (Sinal Vermelho)
+Se a IA responder com frases vagas como "você deve acompanhar semanalmente", reoriente-a: "Forneça limites numéricos exatos para cada um dos 3 itens. Exijo percentuais e número de semanas explicitados".
+
+Próximo passo
+Copie essa régua de governança para o seu manual de processos e use o PromptLab #2D.3 para aplicar a mesma engenharia no seu projeto pessoal.

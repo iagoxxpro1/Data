@@ -1,0 +1,45 @@
+PromptLab #3C.1 — Classificação de Métricas: Sensation vs. Evidence
+"Sensação é o aplauso passageiro da plateia; Evidência é a prova documental de que o leitor deu um passo em direção ao seu caixa."
+
+Objetivo
+Auditar dois conteúdos em confronto direto para classificar cada métrica (curtidas, tipos de comentários, salvamentos e DMs) sob a dicotomia de Sensação (reação emocional sem mudança comportamental) ou Evidência (sinal de avanço na jornada de compra). Este prompt atua como um Auditor de Inteligência de Dados e Growth Strategist.
+
+O que preparar antes de copiar
+Os Dados do Vídeo A (Sensação/Topo): Curtidas, tom dos comentários, salvamentos e conversões de DMs.
+Os Dados do Vídeo B (Evidência/Meio-Fundo): Curtidas, tom dos comentários, salvamentos e conversões de DMs.
+O Objetivo Principal de Negócio: O produto ou serviço que a conta busca vender (ex: consultoria de treino personalizado).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute na sua IA de preferência.
+
+Você é um auditor sênior de inteligência de dados e estrategista de growth marketing. Vamos realizar um DIAGNÓSTICO DE CLASSIFICAÇÃO DE MÉTRICAS (Sensação vs. Evidência) comparando dois conteúdos com desempenhos aparentemente opostos.
+
+DADOS DOS CONTEÚDOS EM CONFRONTO:
+- Objetivo de Negócio: [INSIRA SEU OBJETIVO: ex: vender consultoria de treino personalizado]
+
+CONTEÚDO A (Formato Estético / Viral):
+- Visualizações/Curtidas: [INSIRA O VOLUME: ex: 14.000 curtidas]
+- Perfil dos Comentários: [INSIRA O TOM: ex: 310 comentários do tipo "monstro" e "que shape"]
+- Salvamentos: [INSIRA O VOLUME: ex: 180 salvamentos]
+- Conversão Direta (DMs/Leads): [INSIRA O VOLUME: ex: 1 DM sobre consultoria]
+
+CONTEÚDO B (Formato Técnico / Educativo):
+- Visualizações/Curtidas: [INSIRA O VOLUME: ex: 1.900 curtidas]
+- Perfil dos Comentários: [INSIRA O TOM: ex: 62 comentários do tipo "finalmente entendi" e "vou tentar"]
+- Salvamentos: [INSIRA O VOLUME: ex: 740 salvamentos]
+- Conversão Direta (DMs/Leads): [INSIRA O VOLUME: ex: 9 DMs sobre consultoria]
+
+Com base na relação entre validação emocional vs. intenção comercial, me entregue:
+1. MATRIZ DE CLASSIFICAÇÃO ITEM A ITEM: Para cada métrica de cada conteúdo, classifique se ela representa SENSAÇÃO (reação imediata sem mudança real de comportamento) ou EVIDÊNCIA (sinal de avanço real rumo ao objetivo de negócio).
+2. O VEREDITO DA EVIDÊNCIA REAL: Qual dos dois conteúdos entregou o maior volume de Evidência Real de negócio, demonstrando a diferença entre tração de salvamentos/DMs e tração de curtidas superficiais?
+3. ANÁLISE DE INTENÇÃO DE SALVAMENTO: Explique o que o volume de salvamentos do Conteúdo B indica sobre a psicologia da audiência e o seu nível de consciência de compra.
+
+Seja analítico, cirúrgico e focado em governança de dados brutos.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve classificar curtidas e elogios genéricos do Conteúdo A como Sensação (dopamina) e destacar o volume de salvamentos (740) + DMs (9) do Conteúdo B como a Evidência definitiva de intenção comercial.
+
+Atenção (Sinal Vermelho)
+Se a IA considerar as 14.000 curtidas do Conteúdo A como "sucesso de marca", corrija-a na hora: "Foque a análise estritamente na meta financeira de conversão de consultorias. Isóle as curtidas apenas como ruído de atenção estática".
+
+Próximo passo
+Mantenha a conversa aberta no mesmo chat e execute o PromptLab #3C.2 para mapear o custo de oportunidade de tomar decisões baseadas apenas na Sensação.

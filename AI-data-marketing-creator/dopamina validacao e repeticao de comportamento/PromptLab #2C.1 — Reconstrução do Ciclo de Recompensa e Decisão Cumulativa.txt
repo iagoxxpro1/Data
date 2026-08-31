@@ -1,0 +1,39 @@
+PromptLab #2C.1 — Reconstrução do Ciclo de Recompensa e Decisão Cumulativa
+"A decisão de repetir um conteúdo ruim para o seu caixa raramente acontece em um sobressalto; ela é construída dose por dose, a cada notificação e checada impulsiva no feed."
+
+Objetivo
+Auditar a linha do tempo emocional do criador/gestor nas horas seguintes à publicação de um conteúdo, revelando como a busca por dopamina imediata (curtidas/visualizações) antecipou e viciou a decisão de repetir o formato antes mesmo da checagem da Métrica Mãe de negócio. Este prompt atua como um Consultor de Ciências Comportamentais e Decisão Executiva.
+
+O que preparar antes de copiar
+O Registro da Linha do Tempo: Os horários das checadas após a publicação, o volume de engajamento público (curtidas/views) e o sentimento ou pensamento associado a cada atualização.
+O Objetivo Primário de Negócio: O indicador real de faturamento/leads que foi completamente ignorado durante a checagem impulsiva.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um especialista em ciências comportamentais, psicologia de incentivos e tomada de decisão executiva aplicadas ao marketing digital. Vamos mapear o RECONSTRUTOR DO CICLO DE RECOMPENSA de uma decisão editorial tomada sob efeito de validação emocional.
+
+MINHA LINHA DO TEMPO DE CHECADAS APÓS A PUBLICAÇÃO:
+- Horário 1: [HORÁRIO] | [NÚMERO DE ENG. PÚBLICO] | Reação Emocional/Pensamento: [DESCREVA]
+- Horário 2: [HORÁRIO] | [NÚMERO DE ENG. PÚBLICO] | Reação Emocional/Pensamento: [DESCREVA]
+- Horário 3: [HORÁRIO] | [NÚMERO DE ENG. PÚBLICO] | Reação Emocional/Pensamento: [DESCREVA]
+- Horário 4: [HORÁRIO] | [NÚMERO DE ENG. PÚBLICO] | Reação Emocional/Pensamento: [DESCREVA E INSIRA A DECISÃO DE REPETIR]
+
+DADOS DE NEGÓCIO IGNORADOS DURANTE O PROCESSO:
+- Objetivo Principal de Faturamento: [INSIRA O OBJETIVO: ex: vender consultoria de treino personalizado]
+- Métrica Mãe de Negócio Ignorada: [INSIRA O INDICADOR: ex: volume de mensagens na DM sobre orçamentos]
+
+Com base na mecânica de reforço positivo das redes sociais, me entregue:
+1. DIAGNÓSTICO DO CICLO DE DOPAMINA: Como cada atualização do aplicativo alimentou o loop de recompensa e criou um viés de confirmação de que o conteúdo era um "sucesso"?
+2. O MOMENTO EXATO DA DECISÃO CUMULATIVA: Demonstre por que a decisão de repetir o formato não foi um evento isolado, mas sim um processo cumulativo construído ao longo das checadas.
+3. A CEGUEIRA DE CAIXA: Por que a ausência de checagem da Métrica Mãe não gerou desconforto racional antes da decisão de gravar um novo conteúdo igual?
+
+Seja analítico, cirúrgico e focado na mecânica de governança comportamental.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve identificar que a decisão de repetir o formato foi validada dose a dose a cada checada visual, provando que a pausa estratégica de governança precisa ocorrer antes da primeira checada compulsiva.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar romantizar o resultado do post pelo alcance alto, corrija-a: "Reoriente a análise. O objetivo não é avaliar se o post foi bonito, mas sim expor o vício comportamental de tomar decisões editoriais sem consultar dados financeiros".
+
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #2C.2 na sequência para contrapor os dados de dopamina aos dados de negócio.

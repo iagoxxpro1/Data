@@ -1,0 +1,37 @@
+PromptLab #1D.3 — Mapeamento do Próprio Dashboard e Métricas Ocultas
+"Os dados que salvam o seu mês de faturamento raramente estão na primeira tela do aplicativo; eles costumam estar escondidos nos relatórios de tráfego e no seu CRM."
+
+Objetivo
+Permitir que o aluno insira os seus próprios dados de campanha para realizar a triagem completa do seu dashboard pessoal, identificando qual métrica crucial de fundo de funil (fora das telas primárias das redes sociais) ele deveria estar monitorando para garantir a lucratividade. Este prompt atua como um Arquiteto de Analytics e Business Intelligence.
+
+O que preparar antes de copiar
+Os Seus Dados Reais de Campanha: Levantar os números de impressões, curtidas, comentários, salvamentos, cliques, mensagens, visitas no site via GA4 e vendas reais do seu projeto.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, substitua os valores entre os colchetes ([...]) com os seus dados operacionais reais e execute.
+
+Atuando como meu consultor de Business Intelligence e Growth, ajude-me a mapear os dados reais da minha última campanha para identificar métricas ocultas de alto valor comercial.
+
+MEU CONTEXTO E DADOS OPERACIONAIS REAIS:
+- Objetivo Comercial Principal: [DESCREVA SEU OBJETIVO: ex: vender curso B2B / captar agendamentos]
+- Impressões / Alcance: [INSIRA O NÚMERO]
+- Curtidas / Reações: [INSIRA O NÚMERO]
+- Comentários (Perfil Dominante): [INSIRA NÚMERO E TIPO]
+- Salvamentos / Compartilhamentos: [INSIRA OS NÚMEROS]
+- Cliques no Link / Chamadas na Bio: [INSIRA O NÚMERO]
+- Conversas em Direct / WhatsApp Iniciadas: [INSIRA O NÚMERO]
+- Visitas na Página de Destino (GA4 / Source Instagram): [INSIRA O NÚMERO OU MARQUE "NÃO MONITORO"]
+- Conversões Finais Realizadas: [INSIRA O NÚMERO DE VENDAS/CADASTROS]
+
+Com base no meu ecossistema real, me entregue:
+1. MATRIZ PERSONALIZADA DE DASHBOARD: Classifique minhas métricas em Vaidade, Atenção Qualificada e Evidência em formato de tabela.
+2. A MÉTRICA OCULTA DE FUNDO (A Métrica Escondida): Indique qual é a métrica mais importante para o sucesso do meu objetivo comercial que provavelmente NÃO ESTÁ na primeira tela do meu painel das redes sociais (ex: dados de GA4, CRM ou taxa de resposta de WhatsApp).
+3. PLANO DE MONITORAMENTO: Qual é a ferramenta externa exata onde devo buscar esse dado oculto na próxima semana para não tomar decisões baseadas apenas na tela do aplicativo?
+
+Seja prático, objetivo e focado em inteligência de negócios.
+Copiado
+Check de qualidade e próximo passo
+Atenção (Sinal Vermelho)
+Como saber se deu certo? A IA deve gerar a matriz personalizada com os seus dados e indicar ferramentas de bastidor (como Session Source do GA4, taxa de conversão de carrinho ou tempo de resposta do WhatsApp) como as métricas decisivas que não aparecem na tela do Instagram.
+Se a IA não mencionar o GA4, CRM ou métricas de destino fora das redes sociais, exija profundidade: "Aprofunde o ponto 2. Indique a métrica técnica de destino (fora do Instagram) que valida o tráfego real recebido".
+Próximo passo
+Configure o acompanhamento dessa métrica oculta no seu painel de trabalho e use-a como critério de sucesso para a sua próxima campanha.

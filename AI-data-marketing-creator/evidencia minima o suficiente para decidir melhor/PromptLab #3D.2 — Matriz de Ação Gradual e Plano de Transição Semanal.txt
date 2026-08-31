@@ -1,0 +1,33 @@
+PromptLab #3D.2 — Matriz de Ação Gradual e Plano de Transição Semanal
+"Uma decisão de dados bem planejada não é um evento de 'tudo ou nada'; é uma escada rolante onde cada degrau de investimento depende da confirmação do degrau anterior."
+
+Objetivo
+Converter o cálculo de evidência mínima em um plano operacional de transição gradual de 4 semanas, definindo a porcentagem de alocação de pauta, a meta mínima de conversão exigida para o avanço de etapa e o gatilho imediato de contenção de danos. Este prompt atua como um Diretor de Operações e Gestor de Projetos de Growth.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #3D.1 na mesma janela do chat.
+A Duração do Ciclo: O horizonte de planejamento (ex: próximas 4 semanas).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base na modelagem financeira de risco e na evidência mínima que você acabou de calcular, construa o PLANO DE AÇÃO GRADUAL DE TRANSIÇÃO para as próximas 4 semanas da minha operação.
+
+Transforme a análise estratégica em uma matriz operacional de execução para a equipe:
+
+1. TABELA DO PLANO DE TRANSIÇÃO DE 4 SEMANAS: Monte uma tabela detalhada contendo as seguintes colunas:
+   - [Semana do Ciclo] (S13, S14, S15 e S16).
+   - [Percentual de Alocação do Formato Campeão] (Ex: 40%, 40%, 70%, 70%).
+   - [Meta Mínima de Taxa de Conversão para Avançar] (A barra de corte para aprovar o próximo degrau).
+   - [Gatilho de Alerta / Abandono] (A taxa que paralisa a expansão e aciona a revisão do plano).
+2. PROTOCOLO DE TRANSIÇÃO: Descreva em 3 tópicos curtos o que a equipe deve fazer caso a taxa de conversão da semana fique na zona cinzenta (entre a Meta de Avanço e o Gatilho de Alerta).
+
+Apresente a tabela e o protocolo de forma extremamente limpa, prática e pronta para ser colada na pauta da equipe.
+Copiado
+Check de qualidade e próximo passo
+A IA deve gerar uma tabela progressiva clara (ex: S13: 40% com meta ≥ 3,4%; S14: 40% com meta ≥ 3,4%; S15: sobe para 70% se S13 e S14 baterem a meta; Gatilho de Alerta: conversão < 3,2% em qualquer semana recua para 40%).
+
+Atenção (Sinal Vermelho)
+Se a IA não definir a meta e o gatilho com números percentuais exatos, reoriente-a: "Preencha a tabela obrigatoriamente com porcentagens exatas para as metas e para os gatilhos de alerta de cada semana".
+
+Próximo passo
+Copie essa matriz e salve-a como o entregável prático do seu projeto. Se desejar adaptar este modelo para uma nova tomada de decisão do seu negócio pessoal, execute o PromptLab #3D.3.

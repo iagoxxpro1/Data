@@ -1,0 +1,34 @@
+PromptLab #1D.2 — Localização de Gargalo por Perda Percentual de Funil
+"Identificar onde o volume despenca drasticamente entre o clique e a compra é o que separa o palpite de um ajuste de engenharia de conversão."
+
+Objetivo
+Cruzar as métricas já triadas para calcular e apontar em qual transição da jornada ocorreu a maior queda percentual de volume (ex: da intenção no clique para a conversão na página), diagnosticando se a falha é do conteúdo, do caminho de tráfego ou da página de destino. Este prompt atua como um Especialista em CRO e Funis de Vendas.
+
+O que preparar antes de copiar
+A Triagem Executada: Ter rodado o PromptLab #1D.1 no mesmo chat.
+Os Dados de Transição: O número de cliques gerados versus o número de conversões e mensagens recebidas.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute na mesma conversa do prompt anterior.
+
+Com base na triagem de métricas que acabamos de realizar, vamos fazer um DIAGNÓSTICO DE LOCALIZAÇÃO DE GARGALO para identificar em qual transição da jornada o volume despencou.
+
+DADOS DE TRANSIÇÃO DO MEU FUNIL:
+- Volume de Cliques / Intenção Gerada: [INSIRA O NÚMERO: ex: 3.100 cliques no link]
+- Volume de Conversões Finais Realizadas: [INSIRA O NÚMERO: ex: 20 vendas totais (8 pelo site + 12 pelo WhatsApp)]
+
+Com base nos princípios de CRO e análise de fricção da jornada, me entregue:
+1. TAXA DE CONVERSÃO DA TRANSIÇÃO: Calcule a porcentagem de conversão exata entre a Métrica de Atenção Qualificada (cliques no link) e a Métrica de Evidência (vendas e atendimentos).
+2. DIAGNÓSTICO DO GARGALO PRINCIPAL: Aponte em qual das 3 camadas operacionais está o verdadeiro problema que travou o resultado:
+   - Problema no Conteúdo (A peça atraiu o público errado ou não criou consciência de valor?).
+   - Problema no Caminho/Fricção (O processo de transição do Instagram para o canal final é confuso/lento?).
+   - Problema na Página de Destino/Atendimento (A oferta, a promessa ou a experiência do site/WhatsApp é fraca?).
+3. HIPÓTESE DE RECUPERAÇÃO: Qual é a principal suspeita comportamental que explica por que a maioria expressiva das pessoas que clicaram não avançou para a compra?
+
+Seja analítico, direto e sem rodeios.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve calcular a taxa de conversão (ex: 20 vendas de 3.100 cliques = ~0,64%) e apontar claramente que uma perda tão drástica após o clique indica falha de continuidade narrativa na landing page ou no atendimento de WhatsApp, e não na atração do vídeo.
+Atenção (Sinal Vermelho)
+Se a IA disser que o problema foi "o Reels ter pouca curtida", corrija-a: "Ignore as curtidas. Concentre a análise exclusivamente na grande quebra percentual entre os 3.100 cliques e as 20 vendas efetuadas".
+Próximo passo
+Guarde essa localização de gargalo e, caso deseje rodar uma auditoria completa substituindo com os seus dados reais de operação, execute o PromptLab #1D.3.

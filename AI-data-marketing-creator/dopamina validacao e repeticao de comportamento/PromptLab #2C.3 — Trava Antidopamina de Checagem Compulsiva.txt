@@ -1,0 +1,32 @@
+PromptLab #2C.3 — Trava Antidopamina de Checagem Compulsiva
+"Se você não consegue controlar o impulso de abrir o aplicativo de 15 em 15 minutos, crie um protocolo mental que force a sua razão a entrar em cena antes da sua emoção."
+
+Objetivo
+Estruturar um mini-protocolo de 3 perguntas de autocontrole para serem aplicadas pelo aluno sempre que se pegar atualizando a página de notificações compulsivamente após uma publicação. Este prompt atua como um Coach de Produtividade Executiva e Governança Pessoal.
+
+O que preparar antes de copiar
+O Diagnóstico Executado: Ter rodado os PromptLabs #2C.1 e #2C.2.
+O Vício Observado: O comportamento pessoal de abrir o painel repetidamente por validação.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute.
+
+Com base em todo o ciclo de recompensa diagnosticado, me ajude a criar uma TRAVA ANTIDOPAMINA DE CHECAGEM COMPULSIVA para ser usada no meu dia a dia de operação.
+
+CONTEXTO DE USO:
+- Comportamento a Interromper: A checagem diária e repetitiva do painel de notificações nas primeiras horas pós-publicação.
+
+Me entregue:
+1. PROTOCOLO DE PAUSA MENTAL (3 Perguntas Rápidas): Crie 3 perguntas curtas e provocativas para eu me fazer no exato momento em que me pegar abrindo o aplicativo para checar curtidas.
+2. A REGRA DA JANELA MÍNIMA DE ANÁLISE: Defina a janela mínima de tempo (em horas) que devo aguardar antes de abrir o painel para olhar dados de intenção/ação sem contaminar a tomada de decisão.
+3. A FRASE DE BLINDAGEM DE EGO: Uma declaração em 1 frase para colocar no topo da área de trabalho do meu computador lembrando o meu objetivo financeiro real.
+
+Seja direto, prático e focado em disciplina operacional de alto desempenho.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve entregar um checklist mental conciso (ex: "1. Esta checada vai mudar o que estou fazendo agora? 2. Eu estou buscando faturamento ou aplauso? 3. A Métrica Mãe de negócio já teve tempo de responder?").
+
+Atenção (Sinal Vermelho)
+Se as perguntas forem longas ou complexas demais, exija simplicidade: "Reduza o protocolo para 3 perguntas ultra-diretas que possam ser lidas em 10 segundos na tela do celular".
+
+Próximo passo
+Anote o protocolo no bloco de notas do celular ou fixe no monitor de trabalho para usar na próxima postagem.

@@ -1,0 +1,50 @@
+PromptLab #4C.3 — Gerador do Dashboard Visual em HTML
+"Transforme a sua estratégia de dados em uma ferramenta visual interativa e offline que você pode abrir no seu navegador a qualquer momento."
+
+Objetivo
+Utilizar o ChatGPT para transformar todo o aprendizado e o checklist do curso em uma aplicação web estática (página HTML/CSS interativa de arquivo único), permitindo que o aluno tenha um painel visual personalizado para consultar métricas, caminhos de Analytics e travas anti-vaidade.
+
+O que preparar antes de copiar
+O Ambiente: Abrir uma nova janela no ChatGPT (ou Claude/Gemini).
+O Checklist do NotebookLM: Ter os dados e caminhos de métricas prontos para serem estruturados na página.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no ChatGPT.
+
+Atue como um desenvolvedor Front-end e UX Designer especializado em dashboards de dados. Crie um arquivo HTML de página única (single-page) que funcione como um CHECKLIST VISUAL DE ANÁLISE DE CONTEÚDO E GOVERNANÇA DE MÉTRICAS.
+
+ESTRUTURA OBRIGATÓRIA DA PÁGINA:
+1. CABEÇALHO E DIAGNÓSTICO:
+   - Título principal: "Painel de Governança Editorial — Sensação vs. Evidência".
+   - Subtítulo com a Pergunta da Pausa Estratégica de destaque.
+
+2. SEÇÃO 1: TIPOS DE CONTEÚDO (Duas colunas/cards visuais):
+   - Coluna A (Alerta / Sensação): Mapeamento dos conteúdos de topo/estéticos que geram curtidas vadias e pouca conversão.
+   - Coluna B (Ativo / Evidência): Mapeamento dos conteúdos técnicos/educativos que geram salvamentos, DMs e caixa real.
+
+3. SEÇÃO 2: TABELA DE MÉTRICAS E CAMINHOS DE ANALYTICS (Tabela de 3 colunas):
+   - Coluna 1: Nome da Métrica.
+   - Coluna 2: Classificação (Sensação vs. Evidência).
+   - Coluna 3: Caminho Exato da Ferramenta de Análise.
+
+DADOS DA TABELA DE MÉTRICAS:
+- Curtidas: SENSAÇÃO -> Instagram > Insights > Conteúdo > Seleciona o Post > Curtidas.
+- Comentários Emocionais (Elogios): SENSAÇÃO -> Instagram > Insights > Conteúdo > Seleciona o Post > Comentarios.
+- Salvamentos: EVIDÊNCIA POSSÍVEL -> Instagram > Insights > Conteúdo > Seleciona o Post > Salvamentos.
+- DMs de Negócio / Orçamento: EVIDÊNCIA REAL -> Instagram > Direct > Filtra por período pós-publicação.
+- Cliques no Link da Bio: EVIDÊNCIA -> Instagram > Insights > Perfil > Cliques no link.
+- Visitas na Landing Page (Instagram): EVIDÊNCIA -> GA4 > Relatórios > Aquisição > Aquisição de tráfego > Session Source = instagram.
+
+DIRETRIZES DE DESIGN E CÓDIGO:
+- Estilo: Design limpo, profissional, fonte sans-serif moderna, fundo claro.
+- Paleta de Cores: Cores suaves de alerta para Sensação (Laranja/Amarelo suave) e cores de aprovação para Evidência (Verde suave).
+- Requisitos Técnicos: Arquivo único (HTML + CSS inline no `<style>`), responsivo, sem dependências de frameworks externos ou bibliotecas JS, pronto para salvar como `.html` e rodar em qualquer navegador offline.
+
+Entregue apenas o bloco de código HTML/CSS completo dentro de uma caixa de código.
+Check de qualidade e próximo passo
+Como saber se deu certo? O ChatGPT deve entregar um bloco de código unificado iniciado com <!DOCTYPE html>. Ao copiar o código, colar num bloco de notas, salvar como checklist_analise.html e dar um duplo clique, o navegador abrirá um dashboard visual impecável.
+
+Atenção (Sinal Vermelho)
+Se o ChatGPT entregar o código cortado ou incompleto, solicite: "Continue o código do ponto exato onde parou até fechar as tags e ".
+
+Próximo passo
+Salve o arquivo .html na pasta do seu projeto e use-o como seu painel diário de consulta antes de aprovar novos conteúdos para publicação.

@@ -1,0 +1,33 @@
+PromptLab #1C.2 — Diagnóstico da Psicologia da Repetição
+"O maior perigo de um viral de topo de funil é ele criar na sua cabeça a ilusão de que a estratégia está funcionando, enquanto o seu caixa continua vazio."
+
+Objetivo
+Expor os gatilhos emocionais e as falsas expectativas que fazem o criador/gestor insistir no erro, repetindo postagens de topo de funil só porque entregaram volume, sem checar se trouxeram negócios reais. Este prompt atua como um Consultor de Processos Decisórios.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter rodado o PromptLab #1C.1 no mesmo chat.
+O Padrão Vicioso Mapeado: O formato que mais gera curtidas vadias e que foi repetido em sequência.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute no mesmo chat da conversa.
+
+Com base na contradição que acabamos de identificar no histórico de posts, vamos investigar a PSICOLOGIA DA DECISÃO EDITORIAL que levou a essa repetição viciosa.
+
+CONTEXTO DO ERRO DE REPETIÇÃO:
+- Formato Repetido (Tração Pública / Caixa Vazio): [DESCREVA O FORMATO: ex: Vídeo de treino pesado e estético com milhares de curtidas e zero DMs]
+- Formato Negligenciado (Tração Baixa / Conversão Real): [DESCREVA O FORMATO: ex: Vídeo educativo sobre técnica com poucas curtidas mas múltiplas DMs de consultoria]
+
+Com base em análise comportamental de decisões de negócios, me entregue:
+1. OS GATILHOS DA REPETIÇÃO: Quais sinais imediatos de feedback social (ex: picos de notificações) provavelmente motivaram a decisão de continuar repetindo o formato mais curtido, sem antes avaliar o impacto no caixa?
+2. A ILUSÃO DE EXPECTATIVA: Como a alta performance visual do primeiro post criou uma dependência psicológica que cegou a leitura do resultado comercial nos posts seguintes?
+3. A PAUSA DE CHECAGEM: Quais 2 perguntas críticas de governança deveriam ter sido feitas antes de aprovar a publicação do segundo ou terceiro post da mesma série?
+
+Seja pragmático, crítico e focado na mecânica da tomada de decisão.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve mostrar que o criador caiu na armadilha do reforço positivo imediato (notificações do post 1), repetindo a ação por dopamina e ignorando a checagem do objetivo final.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar justificar a repetição como "construção de marca", corrija-a: "Ajuste o foco. Se a peça não constrói a consciência necessária para a oferta final, ela é apenas ruído e desperdício de recurso".
+
+Próximo passo
+Salve essas reflexões e, se desejar gerar uma trava pré-publicação de rápida execução para o seu dia a dia, execute o PromptLab #1C.3.

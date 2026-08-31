@@ -1,0 +1,43 @@
+PromptLab #1D.1 — Triagem de Dashboard: Vaidade, Atenção Qualificada e Evidência
+"Abrir o dashboard e comemorar o número mais alto da tela é o primeiro passo para tomar decisões cegas. O verdadeiro analista procura a métrica de evidência, não o pico de alcance."
+
+Objetivo
+Mapear e classificar cada métrica de um dashboard de campanha sob 3 categorias funcionais (Vaidade, Atenção Qualificada ou Evidência) com base no objetivo financeiro real do negócio, ensinando o criador a filtrar o ruído antes de iniciar qualquer diagnóstico. Este prompt atua como um Cientista de Dados de Growth e Analista de Métricas.
+
+O que preparar antes de copiar
+O Objetivo Financeiro/Comercial: A meta real de conversão do projeto (ex: vendas diretas pelo e-commerce e fechamentos via WhatsApp).
+O Levantamento de Métricas: Os números recentes extraídos do painel (views, curtidas, comentários, salvamentos, cliques no link, DMs/WhatsApp e conversões finais).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados e estrategista sênior de growth marketing especializado em e-commerce e vendas digitais. Vamos realizar uma TRIAGEM DE DASHBOARD para classificar e isolar quais métricas do meu painel representam movimento comercial real e quais representam apenas ruído de atração.
+
+MEU CONTEXTO OPERACIONAL E DADOS DO DASHBOARD:
+- Objetivo de Negócio: [INSIRA O OBJETIVO REAL: ex: gerar vendas do sérum facial via link da bio e atendimentos no WhatsApp]
+- Peça / Campanha Analisada: [INSIRA O FORMATO: ex: Reel de transformação / Stories de Tutorial]
+
+MÉTRICAS REGISTRADAS NO PAINEL:
+- Visualizações / Impressões: [INSIRA O NÚMERO]
+- Curtidas / Reações: [INSIRA O NÚMERO]
+- Comentários Públicos: [INSIRA O NÚMERO E O PERFIL DOS COMENTÁRIOS]
+- Salvamentos: [INSIRA O NÚMERO]
+- Cliques no Link da Bio / Oferta: [INSIRA O NÚMERO]
+- Conversas Iniciadas no Direct / WhatsApp: [INSIRA O NÚMERO]
+- Conversões / Vendas Finais Concretizadas: [INSIRA O NÚMERO]
+
+Com base na hierarquia de métricas orientadas a resultado comercial, me entregue:
+1. MATRIZ DE TRIAGEM EM TABELA: Monte uma tabela organizando todas as métricas em 3 colunas ou categorias:
+   - VAIDADE (Reação visível e atraente, mas sem conexão direta com o objetivo financeiro).
+   - ATENÇÃO QUALIFICADA (Sinal de interesse/retenção relevante que demonstra intenção, mas ainda não é conversão).
+   - EVIDÊNCIA (Comportamento ativo do leitor diretamente atrelado à meta de faturamento).
+2. JUSTIFICATIVA ESTRATÉGICA: Justifique a classificação de cada item com base estrita no meu objetivo comercial de vendas.
+3. O ALERTA DO SALVAMENTO: Explique o significado de um volume alto de salvamentos acompanhado de um baixo volume de conversão final na minha oferta.
+
+Seja analítico, cirúrgico e focado em inteligência de dados de negócios.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve gerar uma tabela de 7 linhas, classificando visualizações e curtidas como Vaidade, salvamentos e cliques como Atenção Qualificada, e mensagens de WhatsApp + Vendas como a Evidência real do negócio.
+Atenção (Sinal Vermelho)
+Se a IA classificar salvamentos como "evidência direta de venda", reoriente-a imediatamente: "Classifique salvamentos apenas como Atenção Qualificada. Salvamento indica interesse em consultar depois, não decisão de compra efetuada".
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #1D.2 na sequência para localizar em qual transição do funil ocorreu o gargalo.

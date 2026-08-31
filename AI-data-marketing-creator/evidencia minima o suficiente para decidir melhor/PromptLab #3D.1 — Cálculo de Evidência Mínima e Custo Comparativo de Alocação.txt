@@ -1,0 +1,41 @@
+PromptLab #3D.1 — Cálculo de Evidência Mínima e Custo Comparativo de Alocação
+"Quanto maior for a escala de uma decisão de orçamento ou pauta, maior deve ser o volume de evidências acumuladas antes de virar a chave, evitando que um movimento brusco destrua a margem do negócio."
+
+Objetivo
+Confrontar dois cenários de tomada de decisão (Realocação Brusca Imediata vs. Transição Gradual com Validação) para calcular o risco financeiro e o custo de oportunidade monetário de cada caminho, determinando com exatidão a Evidência Mínima (em semanas adicionais) necessária para autorizar uma mudança editorial de alto impacto (ex: 70% da pauta). Este prompt atua como um CFO Analítico e Estrategista de Risco.
+
+O que preparar antes de copiar
+O Critério de Sinal Já Atendido: O parâmetro numérico validado na Aula 2 (ex: 3 semanas consecutivas com conversão ≥ 3,4%).
+A Mudança de Escala Acelerada (Cenário A): A realocação de alto impacto pretendida (ex: ir direto para 70% do orçamento/pauta no formato campeão).
+A Transição Gradual (Cenário B): O teste intermediário controlado (ex: ir para 40% nas próximas 2 semanas e só expandir para 70% após confirmação).
+As Métricas Financeiras de Base: Média histórica de vendas semanais e o Ticket Médio do produto.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) na mesma conversa da aula anterior e execute no seu modelo de IA de preferência.
+
+Você é um CFO analítico e estrategista sênior de growth marketing. Com base no critério de sinal de conversão que você definiu na análise anterior, vamos calcular a EVIDÊNCIA MÍNIMA NECESSÁRIA para autorizar uma decisão de grande escala no meu projeto.
+
+STATUS DO SINAL E DADOS DE BASE:
+- Critério Atendido nas Fontes: [INSIRA O STATUS: ex: Tutorial IG atendeu 3 semanas consecutivas normais com conversão >= 3,4% e média de 3,73%]
+- Média Histórica de Vendas Semanal do Sinal: [INSIRA O VOLUME: ex: 31 vendas/semana]
+- Ticket Médio do Produto: [INSIRA O VALOR: ex: R$ 89]
+
+A gestão deseja tomar a decisão de realocar 70% de todo o conteúdo/orçamento para esta combinação campeã AGORA. Preciso que você compare DOIS CENÁRIOS financeiramente:
+- CENÁRIO A (Ação Imediata de Alto Impacto): Realocação imediata de 70% da pauta para o formato campeão já na próxima semana.
+- CENÁRIO B (Transição Gradual com Validação): Início com 40% da pauta nas próximas 2 semanas para coletar mais dados, expandindo para 70% apenas se a conversão se mantiver estável.
+
+Com base na gestão de risco e preservação de margem, me entregue:
+1. MODELAGEM DO RISCO FINANCEIRO (R$): Se o formato apresentar uma queda inesperada de performance na próxima semana, qual é o prejuízo financeiro estimado em R$ do Cenário A versus o Cenário B?
+2. MODELAGEM DO CUSTO DE OPORTUNIDADE (R$): Qual é o valor monetário exato deixado na mesa no Cenário B por esperar 2 semanas a mais antes de atingir a escala total de 70%?
+3. A EVIDÊNCIA MÍNIMA NECESSÁRIA: Com base no confronto entre o Risco e o Custo de Oportunidade, qual é o número MÍNIMO de semanas adicionais de consistência acima do critério exigido para justificar tecnicamente a migração para 70% (em vez de parar em 40%)?
+
+Seja cirúrgico, analítico e expresse todas as perdas e ganhos em Reais (R$).
+Copiado
+Check de qualidade e próximo passo
+A IA deve demonstrar que o risco financeiro de alocar 70% imediatamente e ter que corrigir a rota após uma queda de performance é superior ao custo de oportunidade de agir de forma gradual a 40%, recomendando explicitamente semanas adicionais de validação antes da escala máxima.
+
+Atenção (Sinal Vermelho)
+Se a IA trouxer respostas teóricas sem os cálculos em dinheiro real (R$), force a execução: "Converta os riscos e custos de oportunidade em valores monetários em Reais (R$), utilizando o ticket médio e as médias de venda fornecidas".
+
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #3D.2 para transformar essa evidência mínima em um plano de ação semanal.
+

@@ -1,0 +1,30 @@
+PromptLab #4C.2 — A Pergunta-Chave da Pausa Estratégica Pre-Repetição
+"Uma única pergunta feita no momento certo vale mais do que dez relatórios de métricas lidos depois que o dinheiro já foi jogado fora."
+
+Objetivo
+Transformar a síntese documental do NotebookLM em uma única pergunta-filtro de alta precisão. Essa pergunta será usada pelo criador/gestor como a "trava de freio" obrigatória antes de aprovar a repetição de qualquer formato na sua pauta editorial.
+
+O que preparar antes de copiar
+A Síntese Executada: Ter rodado o PromptLab #4C.1 no NotebookLM.
+As Fontes Ativas: O histórico consolidado do caderno.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no Google NotebookLM.
+
+Com base no checklist de governança e no histórico de análises consolidado neste notebook, formule A PERGUNTA DA PAUSA ESTRATÉGICA do projeto.
+
+CONTEXTO DA DECISÃO:
+- Momento de Aplicação: A ser feita pelo criador/gestor no exato instante em que ele estiver tentado a repetir um formato de conteúdo só porque ele teve alto engajamento no post anterior.
+
+Entregue:
+1. A PERGUNTA DEFINITIVA DE PAUSA: Formulada em uma única frase forte e direta, que force o criador a checar EVIDÊNCIA de negócio antes de se deixar levar pela SENSAÇÃO de curtidas.
+2. A MECÂNICA DA VERIFICAÇÃO: Explique em 2 linhas o que conta como "Sim" (aprova repetição) e o que conta como "Não" (barração de pauta) com base nas fontes.
+
+Apresente a resposta de forma minimalista e direta.
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve formular uma pergunta que contrapõe a reatividade do engajamento à Métrica Mãe do negócio (ex: "Este formato gerou alguma DM ou ação real de consultoria no post anterior, ou eu quero repeti-lo apenas porque ele me deu curtidas?").
+
+Atenção (Sinal Vermelho)
+Se a pergunta for abstrata ou teórica, exija objetividade: "Reescreva a pergunta em até 15 palavras focando estritamente no conflito entre DMs/Vendas e Curtidas/Elogios".
+
+Próximo passo
+Copie a pergunta e prepare-se para usar o PromptLab #4C.3 (Bônus) no ChatGPT para construir o seu Dashboard Visual em HTML.

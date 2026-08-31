@@ -1,0 +1,45 @@
+PromptLab #4C.1 — Consolidação de Descobertas em Checklist de Evidências
+"O papel de um banco de inteligência de dados não é gerar mais teorias, mas sim consolidar relatórios passados em um checklist simples de tomada de decisão diária."
+
+Objetivo
+Sintetizar todas as análises acumuladas nos 3 arquivos .txt do NotebookLM, gerando um checklist de 3 partes (Sensação vs. Evidência vs. Métricas Chave) que sirva como matriz de checagem pré-publicação, ancorando cada conclusão em citações diretas das fontes.
+
+O que preparar antes de copiar
+0. O que subir no NotebookLM antes de começar Antes de executar os prompts no Google NotebookLM, prepare 3 arquivos de texto simples (.txt) com o histórico das aulas anteriores e adicione-os à área de Fontes (Sources) do seu caderno:
+
+Aula1.txt — Contendo o histórico dos 5 posts e a análise da repetição viciosa por curtidas.
+Aula2.txt — Contendo a linha do tempo das checadas compulsivas e o diagnóstico da decisão acumulada por dopamina.
+Aula3.txt — Contendo a comparação entre o Vídeo A (Estético/Sensação) e o Vídeo B (Técnico/Evidência).
+1. O que preparar ANTES de copiar
+
+Os 3 Arquivos Anexados: Garantir que Aula1.txt, Aula2.txt e Aula3.txt estejam selecionados no NotebookLM.
+O Foco do Negócio: O objetivo comercial unificado do projeto (ex: venda de consultoria de treino personalizado).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute no painel do Google NotebookLM.
+
+Você é um auditor de inteligência de dados e estrategista de growth marketing operando dentro das fontes deste caderno. Com base EXCLUSIVAMENTE nas três análises fornecidas nos arquivos anexados, consolide as descobertas em um CHECKLIST DE GOVERNANÇA EDITORIAL.
+
+CONTEXTO E OBJETIVO DO PROJETO:
+- Projeto / Criador: [INSIRA O PROJETO/NOME: ex: Rafael — Fitness / Consultoria de Treino]
+- Objetivo Principal de Negócio: [INSIRA O OBJETIVO: ex: Vender consultoria de treino personalizado]
+
+Organize a resposta estritamente em um CHECKLIST dividido nas seguintes 3 seções:
+
+1. CONTEÚDOS DE SENSAÇÃO (Risco de Ilusão):
+   - Mapeie os formatos que geraram alta tração pública (curtidas/elogios), mas baixa/nula conversão comercial nas fontes.
+
+2. CONTEÚDOS DE EVIDÊNCIA (Foco em Caixa):
+   - Mapeie os formatos que geraram tração de intenção real (salvamentos/DMs) e avançaram o leitor na jornada de compra.
+
+3. TABELA DE MÉTRICAS DO PROJETO:
+   - Liste as métricas específicas registradas nos arquivos, classificando-as em SENSAÇÃO ou EVIDÊNCIA e explicando o motivo comercial da classificação.
+
+Garante que todas as conclusões sejam estritamente embasadas nas evidências e citações das fontes deste caderno.
+Check de qualidade e próximo passo
+Como saber se deu certo? O NotebookLM deve gerar a resposta acompanhada dos números de citação clicáveis (ex: [1], [2]), comprovando que buscou as informações nas análises do ChatGPT, Claude e Gemini.
+
+Atenção (Sinal Vermelho)
+Se o modelo inventar conceitos que não estavam nos arquivos .txt, exija a restrição: "Responda utilizando estritamente as informações e dados fornecidos nas fontes deste caderno".
+
+Próximo passo
+Clique em "Salvar como nota" no NotebookLM e execute o PromptLab #4C.2 para extrair a pergunta da pausa estratégica.

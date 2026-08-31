@@ -1,0 +1,42 @@
+PromptLab #4D.3 — Framework Genérico Anti-Procrastinação e Corte de Sinal
+"Sem uma regra prévia de congelamento e abandono, a sua equipe ficará paralisada pelo medo na hora de expandir e cega pelo apego na hora de cortar."
+
+Objetivo
+Permitir que o aluno aplique o teste de estresse de cenários e a calibração da régua de corte (Revisão vs. Abandono) para qualquer plano estratégico do seu projeto pessoal, blindando a operação contra a procrastinação e contra o apego a formatos decadentes. Este prompt atua como um Framework Universal de Governança de Decisão.
+
+O que preparar antes de copiar
+O Plano do Seu Projeto: As metas em etapas (porcentagem de realocação, meta de conversão para avançar e gatilho de alerta).
+O Histórico do Formato Analisado: O volume de semanas positivas já registradas no seu negócio.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha os valores e variáveis do seu projeto pessoal e execute no seu modelo de IA.
+
+Atuando como meu consultor de governança e growth marketing, ajude-me a calibrar meu plano operacional contra a procrastinação e a definir minha régua de corte de sinal.
+
+DADOS DA MINHA OPERAÇÃO E PLANO:
+- Plano de Transição Aprovado: [DESCREVA O PLANO: ex: Alocar 40% da verba/pauta no Canal X durante 2 semanas, expandindo para 80% se a taxa de conversão for >= 4%]
+- Gatilho de Alerta Atual: [INSIRA A TAXA DE ALERTA: ex: Conversão abaixo de 3% em qualquer semana]
+- Base Histórica de Sinal do Projeto: [DESCREVA O HISTÓRICO: ex: 3 semanas confirmadas com média de 4,2% de conversão]
+
+PROCESSE OS SEGUINTES CENÁRIOS E DADOS PARA O MEU NEGÓCIO:
+- Cenário A (Instabilidade): A primeira semana do teste bate a meta, mas a segunda semana cai abaixo do gatilho de alerta.
+- Cenário B (Falha Dupla): As duas semanas do teste caem abaixo do gatilho de alerta.
+- Cenário C (Sucesso Duplo): As duas semanas do teste batem a meta estipulada com folga.
+- Cenário D (Procrastinação): O teste é aprovado em ambas as semanas, mas a equipe adia a expansão alegando que "quer observar mais um mês".
+
+Me entregue:
+1. CLASSIFICAÇÃO DOS CENÁRIOS: Identifique para cada cenário o que é Paciência Analítica, Ação Obrigatória ou Procrastinação Editorial, informando o comando operacional imediato para cada um.
+2. A AÇÃO NO CUSTO DE ALERTA (Cenário B): Se o gatilho de alerta for acionado, isso exige o descarte definitivo do formato ou apenas a revisão/congelamento da expansão? Justifique comparando com a base histórica positiva.
+3. RÉGUA NUMÉRICA DE CORTE: Defina em números exatos para o meu projeto:
+   - Condição de REVISÃO DE PLANO (Número de semanas consecutivas e limite inferior de conversão para congelamento temporário).
+   - Condição de ABANDONO ESTRUTURAL (Número de semanas consecutivas e limite inferior de conversão para descarte definitivo do formato).
+
+Seja analítico, direto e focado em manter a disciplina operacional do meu projeto.
+Copiado
+Check de qualidade e próximo passo
+A IA deve retornar a classificação fria dos 4 cenários para a sua empresa e entregar os limites numéricos exatos para congelar o plano ou abandonar a estratégia.
+
+Atenção (Sinal Vermelho)
+Se a IA omitir as porcentagens ou prazos da régua numérica de corte, exija: "Preencha a régua de corte estritamente com dados numéricos de semanas e percentuais de conversão".
+
+Próximo passo
+Integre este framework ao seu processo de tomada de decisão e apresente os critérios de parada e expansão à sua equipe antes do início do próximo ciclo.

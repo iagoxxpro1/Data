@@ -1,0 +1,45 @@
+PromptLab #4D.1 — Diagnóstico de Cenários: Paciência Analítica vs. Procrastinação
+"Esperar por dados adicionais quando o gatilho exige cautela é maturidade analítica; hesitar para agir quando o sinal já foi atendido é pura procrastinação fantasiada de prudência."
+
+Objetivo
+Submeter os cenários hipotéticos de execução do plano a um teste de estresse de governança, diferenciando com precisão matemática a Paciência Analítica (pausa intencional para coleta de dados) da Procrastinação Editorial (inércia por busca de certeza absoluta), definindo a conduta exata diante do acionamento de gatilhos de alerta. Este prompt atua como um Diretor de Governança e CFO Analítico.
+
+O que preparar antes de copiar
+O Plano Gradual Aprovado: A meta de transição (ex: 40% em S13/S14 e 70% em S15 caso a conversão fique ≥ 3,4%).
+Os Cenários de Validação (S13 e S14):
+Cenário 1: S13 confirma (3,7%) e S14 oscila para baixo (2,8%).
+Cenário 2: S13 (2,9%) e S14 (2,7%) falham — Gatilho de Alerta ativado.
+Cenário 3: S13 (3,5%) e S14 (3,6%) confirmam com folga.
+Cenário 4: Inação da gestão — Não implementar nem os 40% por medo/busca de certeza.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto na mesma conversa das aulas anteriores e execute na sua IA de preferência.
+
+Você é um auditor de governança e CFO analítico. Continuando o acompanhamento do plano da Be Beauty, vamos analisar QUATRO CENÁRIOS POSSÍVEIS de execução nas próximas semanas para distinguir rigorosamente PACIÊNCIA ANALÍTICA de PROCRASTINAÇÃO EDITORIAL.
+
+DADOS DO PLANO APROVADO:
+- Etapa Atual: 40% de Tutorial IG em S13 e S14.
+- Regra de Escala: Expandir para 70% na S15 APENAS se S13 e S14 confirmarem conversão >= 3,4% (com média >= 3,6%).
+- Base Histórica de Sinal Já Validada: S1 (3,4%), S5 (3,9%) e S8 (3,9%).
+
+AVALIE OS SEGUINTES 4 CENÁRIOS OPERACIONAIS:
+- CENÁRIO 1 (Oscilação Parcial): S13 entrega 3,7% e S14 entrega 2,8%.
+- CENÁRIO 2 (Gatilho de Alerta Ativado): S13 entrega 2,9% e S14 entrega 2,7%.
+- CENÁRIO 3 (Confirmação Total): S13 entrega 3,5% e S14 entrega 3,6%.
+- CENÁRIO 4 (Inércia por Busca de Certeza): A gestora não aplica a realocação de 40% em S13 mesmo com o sinal validado desde a Aula 2, alegando que "precisa de mais certeza".
+
+Com base na teoria de tomada de decisão sob incerteza, me entregue:
+1. CLASSIFICAÇÃO DE CONDUTA POR CENÁRIO: Para cada um dos 4 cenários, classifique a pausa ou ação em "PACIÊNCIA ANALÍTICA" ou "PROCRASTINAÇÃO EDITORIAL", justificando com a lógica de dados do projeto.
+2. A DECISÃO TÁTICA CORRETA: Qual é a orientação exata de execução que a equipe deve seguir em cada um dos 4 cenários?
+3. O REENQUADRAMENTO DO GATILHO (Cenário 2): O acionamento do gatilho de alerta no Cenário 2 exige o abandono definitivo do formato Tutorial IG ou apenas a revisão/congelamento do plano de expansão? Justifique com base nas 3 semanas históricas positivas versus as 2 semanas negativas.
+
+Seja cirúrgico, direto e focado em governança rigorosa de decisões.
+Copiado
+Check de qualidade e próximo passo
+A IA deve classificar os Cenários 1 e 2 como Paciência Analítica (pausa intencional / controle de risco), o Cenário 3 como Ação de Escala Improrrogável, e o Cenário 4 como Procrastinação Pura (falha de governança). Deve explicitar que o Cenário 2 exige congelamento do plano, não abandono do formato.
+
+Atenção (Sinal Vermelho)
+Se a IA considerar o Cenário 4 como "prudência aceitável", corrija-a: "Ajuste o diagnóstico. Hesitar em agir quando o critério numérico pré-estabelecido foi atingido é descumprimento de protocolo de dados (procrastinação)".
+
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #4D.2 para estabelecer a régua matemática entre revisão de plano e abandono definitivo.
+

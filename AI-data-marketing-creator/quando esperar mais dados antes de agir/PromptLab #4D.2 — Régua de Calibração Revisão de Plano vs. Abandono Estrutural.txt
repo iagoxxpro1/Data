@@ -1,0 +1,30 @@
+PromptLab #4D.2 — Régua de Calibração: Revisão de Plano vs. Abandono Estrutural
+"Existe uma fronteira matemática clara entre um formato que está passando por ruído temporário de algoritmo e um formato cujo sinal de conversão morreu definitivamente."
+
+Objetivo
+Estabelecer com precisão matemática os limites numéricos (número de semanas consecutivas e taxa de conversão piso) que separam um Ajuste de Rota/Revisão (congelamento temporário) de um Abandono Estrutural (descarte definitivo do formato como canal campeão). Este prompt atua como um Cientista de Dados de Growth.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #4D.1 no mesmo chat.
+O Histórico Positivo Validado: As 3 semanas originais de tração comprovada (3,4%, 3,9% e 3,9%).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base no histórico real e no comportamento dos cenários analisados, precisamos estabelecer a RÉGUA DEFINITIVA DE CALIBRAÇÃO para separar a REVISÃO DE PLANO do ABANDONO ESTRUTURAL.
+
+Sabendo que o formato campeão possui um histórico de 3 semanas consolidadas (3,4%, 3,9% e 3,9%), defina em números exatos para este projeto:
+
+1. CRITÉRIO DE REVISÃO DE PLANO (Sinal Amarelo): Defina a condição numérica exata (em número de semanas consecutivas e taxa de conversão abaixo de qual limite) que indica que a expansão deve ser CONGELADA para coleta de dados, sem remover o formato do mix.
+2. CRITÉRIO DE ABANDONO ESTRUTURAL (Sinal Vermelho): Defina a condição numérica exata (em número de semanas consecutivas e taxa de conversão limite) em que a evidência negativa supera formalmente o histórico positivo, exigindo o DESCARTE DEFINITIVO do formato como sinal campeão.
+3. A MATRIZ DE DECRETO: Explique por que, matematicamente, o número de semanas exigido para o Abandono Estrutural precisa ser superior ao histórico de semanas positivas já acumuladas no projeto.
+
+Entregue as duas réguas com números explícitos e sem rodeios conceituais.
+Copiado
+Check de qualidade e próximo passo
+A IA deve estabelecer a Revisão de Plano em 2 semanas consecutivas abaixo de 3,2% (gatilho de alerta), e o Abandono Estrutural em torno de 4 semanas consecutivas abaixo de 3,2% (momento em que as 4 semanas ruins superam a base histórica de 3 semanas boas).
+
+Atenção (Sinal Vermelho)
+Se a IA não entregar os números e semanas exatos, reoriente-a: "Forneça os critérios obrigatoriamente em formato numérico explicito (ex: N semanas consecutivas abaixo de X%)".
+
+Próximo passo
+Guarde essa régua de calibração para fechar o manual de governança do seu projeto e execute o PromptLab #4D.3 para aplicar esse framework na sua empresa.

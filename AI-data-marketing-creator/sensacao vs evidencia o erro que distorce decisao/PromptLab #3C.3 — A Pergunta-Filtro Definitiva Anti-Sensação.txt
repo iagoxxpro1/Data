@@ -1,0 +1,31 @@
+PromptLab #3C.3 — A Pergunta-Filtro Definitiva Anti-Sensação
+"Se você não consegue explicar como uma métrica aproxima o leitor do seu produto, você não está olhando para uma evidência — está olhando para um espelho de vaidade."
+
+Objetivo
+Entregar uma única pergunta-filtro de alta precisão para o aluno aplicar em qualquer dashboard ou relatório de métricas antes de comemorar um resultado superficial, separando instantaneamente a Sensação da Evidência. Este prompt atua como um Diretor de Inteligência de Dados.
+
+O que preparar antes de copiar
+O Diagnóstico Executado: Ter rodado os PromptLabs #3C.1 e #3C.2.
+A Métrica em Análise: O número que você está prestes a avaliar na sua conta.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute.
+
+Com base no conceito de Sensação vs. Evidência que desenvolvemos, me entregue A PERGUNTA-FILTRO DEFINITIVA para eu aplicar na minha rotina de análise de dados.
+
+CONTEXTO DE APLICAÇÃO:
+- Aplicação: Usar em qualquer relatório de postagem antes de considerar uma métrica como prova de sucesso comercial.
+
+Me entregue:
+1. A PERGUNTA UNIFICADA DE GOVERNANÇA: Formulada em 1 única frase forte, provocativa e inquestionável, que force o criador a separar Sensação de Evidência antes de tomar qualquer decisão de pauta.
+2. O TESTE DA RESPOSTA: Explique em 2 tópicos rápidos como identificar se a resposta a essa pergunta aponta para Sensação (ruído) ou para Evidência (caixa).
+
+Seja cirúrgico, minimalista e direto ao ponto.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve entregar uma pergunta direta e implacável (ex: "Esta métrica prova que o leitor quer resolver o problema dele com o meu produto ou prova apenas que ele achou o meu post legal?").
+
+Atenção (Sinal Vermelho)
+Se a IA entregar um texto longo ou com múltiplas perguntas, exija síntese: "Resuma a entrega em estritamente UMA pergunta única de 10 a 15 palavras".
+
+Próximo passo
+Cole essa pergunta no topo das suas planilhas de relatórios para usá-la como filtro definitivo antes de aprovar os temas do próximo mês.

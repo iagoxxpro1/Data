@@ -1,0 +1,40 @@
+PromptLab #3D.3 — Framework Genérico de Cálculo de Evidência Mínima
+"Quanto mais difícil ou custoso for reverter uma decisão de conteúdo ou mídia, maior deve ser a barreira de dados exigida para dar o próximo passo."
+
+Objetivo
+Permitir que o aluno aplique a lógica do cálculo de Evidência Mínima e a construção da Matriz Gradual para qualquer decisão de grande porte da sua própria empresa (ex: aumentar verba de tráfego, mudar de canal principal ou alterar a esteira de produtos). Este prompt atua como um Framework Universal de Governança e Risco de Growth.
+
+O que preparar antes de copiar
+O Status Atual do Seu Projeto: O critério de sinal já validado na sua operação.
+A Decisão de Escala em Pauta: A alteração relevante que está sendo considerada (ex: migrar 80% do investimento para um novo canal, trocar a oferta de topo).
+Os Seus Dados Monetários: O Ticket Médio e a média de resultados por semana da sua empresa.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha os valores e variáveis do seu projeto pessoal e execute no seu modelo de IA.
+
+Atuando como meu consultor de inteligência financeira e growth, ajude-me a calcular a EVIDÊNCIA MÍNIMA necessária para autorizar uma mudança de grande porte no meu projeto.
+
+DADOS DA MINHA OPERAÇÃO E DECISÃO:
+- Status do Sinal Atual: [INSIRA O STATUS: ex: Formato X já atingiu 2 semanas consecutivas com taxa de leads de 5%]
+- Mudança de Grande Escala em Pauta: [DESCREVA A DECISÃO: ex: Aumentar o investimento no canal Y para 80% de toda a pauta]
+- Média Histórica de Conversão/Vendas do Projeto: [INSIRA A MÉDIA SEMANAL: ex: 15 vendas/semana]
+- Ticket Médio do Produto/Serviço: [INSIRA O VALOR EM R$]
+
+Processe a comparação entre dois caminhos operacionais:
+- CENÁRIO A (Ação Acelerada Directa): Aplicar a mudança máxima de [percentual/mudança total] já no próximo ciclo.
+- CENÁRIO B (Transição Controlada Gradual): Testar um percentual intermediário de [insira um percentual menor, ex: 30% a 40%] durante [N semanas], colher dados e só então avançar para a mudança máxima.
+
+Me entregue:
+1. ANÁLISE COMPARATIVA FINANCEIRA: Calcule o Risco Financeiro (Cenário A) versus o Custo de Oportunidade (Cenário B) expressos em valores monetários reais (R$).
+2. DETERMINAÇÃO DA EVIDÊNCIA MÍNIMA: Com base no equilíbrio dos riscos, qual é o número exato de semanas adicionais exigidas para justificar a escala total?
+3. MATRIZ DE TRANSIÇÃO GRADUAL: Uma tabela de 4 semanas com a alocação gradual, meta de conversão para cada etapa e o gatilho de alerta para paralisação.
+
+Seja analítico, matemático e focado na proteção do caixa da minha empresa.
+Copiado
+Check de qualidade e próximo passo
+A IA deve calcular o confronto monetário real para o seu negócio e entregar uma tabela de transição gradual que proteja a sua margem de prejuízos em caso de volatilidade.
+
+Atenção (Sinal Vermelho)
+Se a IA não entregar os valores monetários calculados a partir do seu ticket médio, exija: "Refaça os itens 1 e 2 multiplicando os cenários de perda e ganho pelo ticket médio fornecido".
+
+Próximo passo
+Apresente esta matriz de transição gradual à sua equipe ou sócios antes de aprovar qualquer realocação relevante de orçamento ou tempo de produção.

@@ -1,0 +1,45 @@
+PromptLab #2D.3 — Matriz Genérica de Governança e Isolação de Sinal
+"O que separa um analista sênior de um criador amador é o tempo gasto rotulando o contexto de cada semana antes de tirar conclusões precipitadas sobre os números."
+
+Objetivo
+Permitir que o aluno adapte a metodologia de auditoria multicanal e isolamento de sinal estrutural para a sua própria realidade comercial. O prompt guia a submissão dos dados pessoais rotulados por contexto para obter a projeção de faturamento e a régua de governança calibrada. Este prompt atua como um Framework Universal de Data-Driven Marketing.
+
+O que preparar antes de copiar
+O Levantamento do Projeto Próprio: Histórico semanal (mínimo 6 a 12 semanas) com Formato, Canal de Postagem, Cliques/Alcance, Conversões/Leads no canal de venda, Vendas Finais e Rótulos de Contexto (normal, promoção, feriado, viral, problema técnico).
+O Ticket Médio: O valor monetário do seu produto/serviço.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e os dados do seu projeto e execute.
+
+Atuando como meu cientista de dados e consultor de growth marketing, ajude-me a isolar o SINAL ESTRUTURAL do meu negócio e criar meu parâmetro de governança.
+
+DADOS DA MINHA OPERAÇÃO:
+- Objetivo de Negócio: [INSIRA SEU OBJETIVO: ex: Vender consultorias B2B / Captar alunos para curso]
+- Ticket Médio do Produto: [INSIRA O TICKET MÉDIO EM R$]
+- Canais de Distribuição: [INSIRA OS CANAIS: ex: Instagram, LinkedIn, YouTube]
+- Canal de Conversão Principal: [INSIRA O CANAL: ex: WhatsApp, Página de Vendas, Direct]
+- Decisão / Mudança que estou considerando: [DESCREVA A MUDANÇA QUE PARECE ATRAENTE PELOS DADOS]
+
+HISTÓRICO SEMANAL DO MEU PROJETO:
+- S1: [Formato] | [Canal] | [Cliques/Alcance] | [Conversões/Leads] | [Vendas] | Contexto: [Normal/Promoção/Viral/Sazonal]
+- S2: [Formato] | [Canal] | [Cliques/Alcance] | [Conversões/Leads] | [Vendas] | Contexto: [Normal/Promoção/Viral/Sazonal]
+- S3: [Formato] | [Canal] | [Cliques/Alcance] | [Conversões/Leads] | [Vendas] | Contexto: [Normal/Promoção/Viral/Sazonal]
+- S4: [Formato] | [Canal] | [Cliques/Alcance] | [Conversões/Leads] | [Vendas] | Contexto: [Normal/Promoção/Viral/Sazonal]
+- S5: [Formato] | [Canal] | [Cliques/Alcance] | [Conversões/Leads] | [Vendas] | Contexto: [Normal/Promoção/Viral/Sazonal]
+- S6: [Formato] | [Canal] | [Cliques/Alcance] | [Conversões/Leads] | [Vendas] | Contexto: [Normal/Promoção/Viral/Sazonal]
+(Adicione mais semanas se houver)
+
+Com base nos meus dados reais, me entregue:
+1. ISOLAMENTO DO SINAL ESTRUTURAL: Qual combinação de [Formato + Canal] possui a taxa de conversão mais consistente, excluindo semanas de contexto especial?
+2. IMPACTO FINANCEIRO DA DECISÃO (R$): Calcule a diferença estimada de resultado monetário entre a mudança que estou considerando VERSUS a manutenção do meu sinal estrutural.
+3. MÉTRICA CALIBRADA DO MEU PROJETO: Defina o parâmetro operacional em número de semanas e percentual de conversão que devo adotar para confirmar sinal versus ruído na minha operação.
+
+Seja analítico, matemático e focado na proteção do caixa do meu projeto.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar o sinal real expurgando variações sazonais do seu histórico, apresentando o cálculo do impacto financeiro na moeda do seu país (R$) e entregando as métricas numéricas de governança.
+
+Atenção (Sinal Vermelho)
+Se os dados semanais submetidos não possuírem rótulo de contexto, a IA poderá misturar virais com semanas normais. Se isso ocorrer, adicione os rótulos e peça: "Reexecute o cálculo expurgando estritamente as semanas rotuladas fora do padrão normal".
+
+Próximo passo
+Documente as métricas de confirmação e alerta no seu painel de gestão para conduzir as próximas reuniões de aprovação editorial com dados frios.
