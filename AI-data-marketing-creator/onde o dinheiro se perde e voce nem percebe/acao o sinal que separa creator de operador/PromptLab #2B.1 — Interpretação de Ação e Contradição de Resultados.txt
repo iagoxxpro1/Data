@@ -1,0 +1,48 @@
+PromptLab #2B.1 — Interpretação de Ação e Contradição de Resultados
+"Quando um post com a metade do engajamento vende dez vezes mais do que o seu maior viral, o seu dashboard não está quebrado — ele está te mostrando a diferença entre audiência e clientes."
+
+Objetivo
+Interpretar a aparente contradição entre dois conteúdos onde o post de menor engajamento público gerou um volume expressivamente maior de conversões e vendas. Este prompt atua como um Cientista de Dados de Growth e Analista Comportamental de Vendas.
+
+O que preparar antes de copiar
+Os Dados do Post 1 (Viral/Inspiracional): Alcance/views, curtidas, comentários, cliques no link e vendas/conversões.
+Os Dados do Post 2 (Direto/Conversão): As mesmas métricas da peça focada em venda/ação direta.
+O Objetivo de Negócio Comum: A oferta ou produto que ambos buscavam vender (ex: e-book por R$ 97).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados e estrategista sênior de growth marketing. Vamos analisar uma CONTRADIÇÃO DE RESULTADOS entre dois conteúdos que buscavam o mesmo objetivo comercial, mas entregaram métricas inversamente proporcionais entre engajamento e conversão.
+
+DADOS DOS DOIS CONTEÚDOS:
+- Objetivo Comercial Comum: [INSIRA O OBJETIVO: ex: Vender e-book por R$ 97 via link na bio]
+- Nicho / Formato: [INSIRA O NICHO E FORMATO: ex: Reels de Moda Acessível]
+
+POST 1 (Inspiracional / Alto Engajamento e Baixa Conversão):
+- Visualizações/Alcance: [INSIRA O NÚMERO: ex: 290.000 views]
+- Curtidas: [INSIRA O NÚMERO: ex: 34.000 curtidas]
+- Comentários: [INSIRA O NÚMERO: ex: 2.100 comentários]
+- Cliques no Link: [INSIRA O NÚMERO: ex: 420 cliques]
+- Conversões / Vendas Finais: [INSIRA O NÚMERO: ex: 3 vendas]
+
+POST 2 (Chamada Direta / Menor Engajamento e Alta Conversão):
+- Visualizações/Alcance: [INSIRA O NÚMERO: ex: 140.000 views]
+- Curtidas: [INSIRA O NÚMERO: ex: 12.000 curtidas]
+- Comentários: [INSIRA O NÚMERO: ex: 680 comentários]
+- Cliques no Link: [INSIRA O NÚMERO: ex: 1.340 cliques]
+- Conversões / Vendas Finais: [INSIRA O NÚMERO: ex: 41 vendas]
+
+Com base na psicologia de comportamento ativo vs. passivo, me entregue:
+1. DIAGNÓSTICO DA CONTRADIÇÃO: O que essa discrepância nos dados indica sobre o perfil de público que cada post atraiu e como o formato da mensagem filtrou a intenção real de compra?
+2. ANÁLISE DE COMPORTAMENTO ATIVO: Por que o Post 2, mesmo entregando menos da metade das visualizações e curtidas do Post 1, foi capaz de gerar um volume de cliques e vendas massivamente superior?
+3. O FILTRO DE QUALIFICAÇÃO: Como a clareza da intenção comercial no Post 2 funcionou como um "filtro de qualificação" da audiência, afastando curiosos e atraindo compradores prontas para agir?
+
+Seja analítico, direto e focado no comportamento do consumidor. Elimine teorias de algoritmo.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve explicar que conteúdos virais/inspiracionais atraem consumo passivo (admiração), enquanto chamadas diretas com intenção clara filtram apenas leads qualificados com disposição imediata para compra.
+
+Atenção (Sinal Vermelho)
+Se a IA considerar o Post 1 como "melhor por ter mais engajamento e alcance", corrija-a: "Reavalie os dados. O objetivo do projeto é o resultado financeiro final e a conversão em vendas, não o alcance bruto".
+
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #2B.2 para mapear o espectro completo de micro-ações relevantes.

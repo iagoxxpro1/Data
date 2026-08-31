@@ -1,0 +1,40 @@
+PromptLab #4A.2 — Construção do Mapa do Vazamento Personalizado
+"Ferramenta de análise boa é aquela que vira checklist diário. Se o diagnóstico não virar um mapa de consulta rápida, ele vira apenas arquivo morto."
+
+Objetivo
+Transformar as conclusões dos documentos em um Mapa do Vazamento personalizado. Este prompt estrutura um guia com 3 seções (Atenção, Intenção e Ação), listando os sinais de alerta observados no projeto e as perguntas de checagem para próximos conteúdos.
+
+O que preparar antes de copiar
+A Síntese Anterior: Ter executado o PromptLab #4A.1 no NotebookLM.
+As Fontes Anexadas: Garantir que o histórico do projeto continue ativo no caderno.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto e execute no Google NotebookLM.
+
+Com base na síntese de diagnóstico e nos dados dos documentos deste notebook, construa o MAPA DO VAZAMENTO personalizado para a operação do projeto.
+
+CONTEXTO DA OPERAÇÃO:
+- Projeto: [INSIRA O PROJETO: ex: Operação de Conteúdo de Finanças do Lucas]
+
+Monte o mapa estruturado rigorosamente em 3 seções baseadas nas etapas da jornada:
+
+SEÇÃO 1 — CAMADA DE ATENÇÃO (TOPO):
+- Sinais de Vazamento Registrados: (Os padrões e métricas dos documentos que indicaram falha de atenção/atração).
+- Perguntas de Auditoria Pré-Publicação: (3 perguntas que o criador deve se fazer antes de postar para validar esta camada).
+
+SEÇÃO 2 — CAMADA DE INTENÇÃO (MEIO):
+- Sinais de Vazamento Registrados: (Os padrões nos dados que indicaram engajamento passivo sem intenção de avanço).
+- Perguntas de Auditoria Pré-Publicação: (3 perguntas para checar se o conteúdo gera desejo real de ação).
+
+SEÇÃO 3 — CAMADA DE AÇÃO (FUNDO):
+- Sinais de Vazamento Registrados: (As barreiras de cliques e conversões identificadas na landing page ou CTA).
+- Perguntas de Auditoria Pré-Publicação: (3 perguntas para garantir mínima fricção na chamada final).
+
+Apresente o mapa em formato limpo e estruturado para ser salvo como guia definitivo do projeto.
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve gerar um mapa operacional totalmente focado nas métricas e erros reais cometidos nos posts analisados, criando perguntas de checagem práticas.
+
+Atenção (Sinal Vermelho)
+Se o mapa parecer genérico demais, corrija-a: "Ancore todas as perguntas e sinais de alerta diretamente nos erros e números específicos observados nos documentos deste notebook".
+
+Próximo passo
+Clique em "Salvar como nota" dentro da interface do NotebookLM para transformar esse resultado na sua matriz de referência do curso.

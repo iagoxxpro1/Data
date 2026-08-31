@@ -1,0 +1,33 @@
+PromptLab #2B.3 — Isolamento de Elementos Geradores de Ação
+"Não se trata de parar de criar conteúdo bonito, mas de aprender a inserir os gatilhos certos que fazem a audiência agir em vez de apenas admirar."
+
+Objetivo
+Isolar os elementos de roteiro, mensagem e posicionamento da peça de alta conversão (Post 2) para entender o que exatamente motivou a audiência a tomar a decisão de compra. Este prompt atua como um Copywriter Sênior de Resposta Direta.
+
+O que preparar antes de copiar
+O Formato dos Dois Posts: As características do Post 1 (inspiracional) vs. Post 2 (chamada direta).
+As Métricas de Ação: O volume de cliques e vendas de ambos.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no mesmo chat dos prompts anteriores.
+
+Dado o diagnóstico de performance dos dois conteúdos, me ajude a ISOLAR OS ELEMENTOS DE NARRATIVA E COPYWRITING que fizeram o Post 2 gerar 10x mais vendas que o Post 1.
+
+COMPARAÇÃO DE ABORDAGENS:
+- Post 1 (Inspiracional): [DESCREVA O FORMATO: ex: Look inspiracional focado em atração e estética]
+- Post 2 (Direto): [DESCREVA O FORMATO: ex: Chamada direta para a solução do e-book de moda acessível]
+
+Com base nas técnicas de copywriting de resposta direta e psicologia de decisão, me entregue:
+1. OS 3 PILARES DA AÇÃO NO POST 2: Quais foram os 3 elementos específicos de mensagem, enquadramento de dor ou chamada para ação no Post 2 que ativaram o comportamento ativo do leitor?
+2. A FALHA DE TRANSIÇÃO NO POST 1: Por que a estética inspiracional do Post 1, apesar de atrair 290 mil pessoas, falhou em criar a consciência de necessidade do produto?
+3. O MODELO DE REPLICABILIDADE: Como podemos aplicar esses mesmos gatilhos de ação direta em futuros conteúdos sem perder a capacidade de atrair novos leitores?
+
+Seja pragmático, analítico e focado em engenharia de mensagem comercial.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve mapear a clareza da proposta de valor, a urgência e a ausência de ruído na oferta do Post 2 como os motores de conversão.
+
+Atenção (Sinal Vermelho)
+Se a IA responder com generalismos como "o Post 2 vendeu mais porque tinha uma CTA no final", exija profundidade: "Aprofunde o diagnóstico. Analise a construção do problema, a clareza da oferta e a psicologia do lead durante o consumo da mensagem".
+
+Próximo passo
+Documente esses 3 pilares e aplique essa mesma estrutura de mensagem de resposta direta no próximo conteúdo focado em conversão da sua esteira.

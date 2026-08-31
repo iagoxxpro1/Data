@@ -1,0 +1,36 @@
+PromptLab #2B.2 — Mapeamento do Espectro de Micro-Ações de Conversão
+"Venda é a ação máxima, mas ela é precedida por uma série de micro-ações que provam que o seu leitor está descendo a ladeira do funil."
+
+Objetivo
+Refinar o conceito de "Ação" dentro da jornada do cliente, mapeando tanto a conversão direta (venda) quanto as micro-ações intermediárias (cliques, DMs, salvamentos qualificados) que indicam avanço real em direção ao objetivo comercial. Este prompt atua como um Arquiteto de Funil de Vendas.
+
+O que preparar antes de copiar
+A Análise Anterior: Ter executado o PromptLab #2B.1 na mesma conversa.
+O Produto/Oferta: O objetivo final da campanha e os canais de interação disponíveis.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute na mesma conversa do prompt anterior.
+
+Com base na análise de contradição de resultados que acabamos de realizar, vamos mapear o ESPECTRO COMPLETO DE AÇÕES RELEVANTES para esta operação.
+
+CONTEXTO DA OFERTA:
+- Produto / Objetivo Final: [INSIRA O PRODUTO/OBJETIVO: ex: Venda do e-book por R$ 97]
+- Canais de Interação: [INSIRA OS CANAIS: ex: Link na bio, caixa de perguntas nos Stories, DMs, salvamentos de posts]
+
+Com base na jornada de decisão do comprador, me entregue:
+1. MATRIZ DE HIERARQUIA DE AÇÕES (4 Níveis): Defina e classifique quais comportamentos do público devem ser considerados avanços reais na jornada, dividindo em:
+   - Ação Final Macro (A conversão principal).
+   - Micro-Ação de Alta Intenção (Ações imediatas pré-compra).
+   - Micro-Ação de Média Intenção (Sinais de interesse ativo de longo prazo).
+   - Ruído / Engajamento Passivo (Ações que não indicam avanço comercial).
+2. O SINAL SECUNDÁRIO MAIS VALIOSO: Qual é a micro-ação mais importante para monitorar nesta conta quando uma venda direta não acontece imediatamente?
+
+Apresente o resultado em tópicos claros e organizados por ordem de valor comercial.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve construir uma escala lógica mostrando que clicar no link, enviar uma DM com dúvida de compra ou salvar o post de oferta têm valor comercial imensamente superior a uma curtida ou comentário elogioso.
+
+Atenção (Sinal Vermelho)
+Se a IA colocar curtidas ou comentários genéricos como "ação de alta intenção", corrija-a: "Ajuste a matriz. Considere engajamento público genérico apenas como topo de funil, isolando alta intenção em ações privadas ou direcionadas à oferta".
+
+Próximo passo
+Guarde essa matriz e, se desejar identificar os elementos específicos de copy que geraram o pico de ação no Post 2, rode o PromptLab #2B.3.

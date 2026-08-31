@@ -1,0 +1,28 @@
+PromptLab #4A.3 — Consulta Rápida de Histórico e Padrões de Longo Prazo
+"O valor de um ecossistema de dados não está em olhar um post isolado, mas sim em perguntar à IA qual é o padrão que se repete nos seus últimos 6 meses de operação."
+
+Objetivo
+Demonstrar o uso do NotebookLM como uma base de conhecimento e consulta contínua de longo prazo. Este prompt varre o histórico documental para localizar reincidências de vazamento e identificar padrões de diferenciação entre conteúdos de alta e baixa performance.
+
+O que preparar antes de copiar
+O Caderno Alimentado: O NotebookLM com múltiplas análises e histórico de conteúdos carregado.
+A Pergunta de Comparação: O ponto específico do funil ou padrão de post que você deseja auditar.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no Google NotebookLM.
+
+Atuando como meu assistente de inteligência de dados de longo prazo, consulte todo o histórico de análises e métricas anexado neste notebook para responder:
+
+PERGUNTAS DE AUDITORIA HISTÓRICA:
+1. RECORRÊNCIA DE VAZAMENTO: Analisando todo o histórico de conteúdos fornecido, em qual das 3 etapas da jornada (Atenção, Intenção ou Ação) o vazamento de audiência ocorre com maior frequência?
+2. PADRÃO DE DIFERENCIAÇÃO: Comparando a peça de melhor desempenho em conversão [ex: Post 3 / Conteúdo X] com as peças de menor conversão [ex: Posts 1 e 2], quais foram os elementos de dados e estruturação que realmente diferenciaram os resultados?
+3. DIRETRIZ DE CRESCIMENTO: Qual é a principal recomendação orientada por dados que devo seguir para garantir que os próximos conteúdos não repitam o gargalo mais frequente?
+
+Seja sintético, direto e cite os trechos das fontes que sustentam a sua conclusão.
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve apontar o comportamento padrão e indicar exatamente em quais documentos/posts encontrou a evidência de sucesso ou falha.
+
+Atenção (Sinal Vermelho)
+Se a resposta for genérica por falta de dados no notebook, a própria IA deve avisar: "Com base nas fontes atuais, o volume de posts ainda é reduzido para mapear uma tendência longa". Esse é o comportamento correto do NotebookLM.
+
+Próximo passo
+Continue alimentando este mesmo caderno do NotebookLM semanalmente com os novos relatórios dos seus posts para criar um banco de inteligência viva do seu projeto.

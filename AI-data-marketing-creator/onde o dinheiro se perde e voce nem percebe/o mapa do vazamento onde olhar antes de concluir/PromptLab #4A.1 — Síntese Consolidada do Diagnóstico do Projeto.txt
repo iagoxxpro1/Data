@@ -1,0 +1,43 @@
+PromptLab #4A.1 — Síntese Consolidada do Diagnóstico do Projeto
+"O verdadeiro poder da IA de fonte fechada não é inventar respostas, mas sim cruzar múltiplos relatórios históricos e apontar a verdade nua e crua sem alucinar."
+
+Objetivo
+Consolidar o diagnóstico completo do ecossistema a partir dos documentos reais carregados no NotebookLM, identificando em qual etapa da jornada (Atenção, Intenção ou Ação) ocorreu o vazamento em cada conteúdo e extraindo a hipótese principal com citação direta de fontes.
+
+O que preparar antes de copiar
+📋 O que subir no NotebookLM antes de começar: Antes de executar os prompts, você precisa criar um novo caderno no Google NotebookLM e alimentar a área de Fontes (Sources) com os seguintes documentos do seu projeto:
+
+Documento 1 — Métricas dos Posts (Obrigatório): Um texto simples ou tabela contendo os dados brutos dos 3 Reels analisados (visualizações, engajamento, cliques e conversões).
+
+Documento 2 — Resumo dos Diagnósticos (Recomendado): As sínteses e análises já geradas nas aulas anteriores pelo ChatGPT, Claude e Gemini sobre cada conteúdo.
+
+Documento 3 — Mapa de Mapeamento de Vazamento (Opcional): As 3 perguntas e critérios de checagem extraídos do material de apoio.
+
+Fontes Carregadas: Certificar-se de que os documentos com os dados e relatórios dos 3 posts foram anexados ao NotebookLM.
+
+A Pauta da Aula: Ter clareza de que o modelo deve consultar exclusivamente o contexto dos arquivos do projeto.
+
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu projeto e execute no seu painel do Google NotebookLM.
+
+Você é um estrategista de growth marketing e cientista de dados operando como auditor analítico deste projeto. Com base EXCLUSIVAMENTE nos documentos e fontes carregados neste notebook, realize um diagnóstico consolidado de crescimento do projeto.
+
+CONTEXTO DO PROJETO E FONTES:
+- Criador / Projeto Analisado: [INSIRA O NOME/NICHO: ex: Lucas, criador de Finanças Pessoais]
+- Peças Analisadas nas Fontes: [INSIRA O MATERIAL: ex: Os 3 Reels de análise do funil]
+
+Com base na relação de dados contida nos arquivos anexados, me entregue:
+1. MATRIZ CONSOLIDADA EM TABELA: Monte uma tabela organizando os conteúdos analisados contendo as colunas: [Conteúdo / Post], [Etapa do Vazamento: Atenção, Intenção ou Ação], [Métrica Chave da Quebra] e [Principal Hipótese Levantada].
+2. ANÁLISE DE DIAGNÓSTICO GLOBAL: Sintetize em 2 parágrafos o que esse conjunto de dados revela sobre o principal gargalo de crescimento da conta como um todo neste momento.
+3. ANCORAGEM DE FONTES: Garanta que todas as conclusões sejam estritamente embasadas nos dados fornecidos nos documentos do notebook.
+
+Seja direto, analítico e focado em síntese executiva de dados.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? O NotebookLM deve gerar a tabela e exibir números de citação clicáveis (ex: [1], [2]) que mostram exatamente em qual trecho dos seus documentos ele buscou aquela informação.
+
+Atenção (Sinal Vermelho)
+Se a IA trouxer dados externos ou conceitos que não estavam nos seus documentos, force a restrição: "Responda utilizando estritamente os fatos e números presentes nas fontes deste caderno".
+
+Próximo passo
+Mantenha a resposta salva nas notas do NotebookLM e execute o PromptLab #4A.2 para transformar a síntese em um instrumento prático de consulta.
