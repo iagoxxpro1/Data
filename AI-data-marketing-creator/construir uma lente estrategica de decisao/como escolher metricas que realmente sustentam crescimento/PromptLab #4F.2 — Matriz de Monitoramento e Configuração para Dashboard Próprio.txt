@@ -1,0 +1,40 @@
+PromptLab #4F.2 — Matriz de Monitoramento e Configuração para Dashboard Próprio
+"Ter uma matriz de monitoramento personalizada pronta para alimentar suas planilhas é a ponte final entre a teoria de dados e a governança diária do seu negócio."
+
+Objetivo
+Transformar as métricas e os limites de alerta definidos para o projeto pessoal em uma matriz operacional estruturada. Esta matriz é pronta para ser colada na aba de "Limites de Referência" das planilhas de gestão ou configurada na formatação condicional das suas ferramentas. Este prompt atua como um Diretor de BI e Operações.
+
+O que preparar antes de copiar
+A Calibração do Projeto Executada: Ter o resultado do PromptLab #4F.1 no mesmo chat.
+As Taxas e Limites do Seu Negócio: O inventário de taxas aprovado no prompt anterior.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base no mapeamento de métricas e nos limites de alerta que você acabou de calibrar para o meu projeto, construa a MINHA TABELA DE MONITORAMENTO SEMANAL DA JORNADA.
+
+Estruture a entregável pronta para eu utilizar no meu dia a dia de operação:
+
+1. TABELA DE MONITORAMENTO DO PROJETO (4 Colunas):
+   - Coluna 1: Taxa de Conversão da Jornada (Ex: Alcance -> Clique, Contato -> Venda).
+   - Coluna 2: Valor de Referência Saudável (%).
+   - Coluna 3: Limite de Alerta / Piso Vermelho (%).
+   - Coluna 4: O que Investigar/Corrigir quando o Alerta for Ativado (Comando tático direto para o meu nicho).
+
+2. CONFIGURAÇÃO DE REGRAS DE CORES (Formatação Condicional):
+   - Defina as 3 faixas numéricas de cor para preencher a minha planilha:
+     - Verde (Saudável / Performance Normal).
+     - Amarelo (Atenção / Oscilação Leve).
+     - Vermelho (Alerta Disparado / Ação Imediata).
+
+3. CHECKLIST DA ROTINA SEMANAL: Uma instrução em 3 passos simples sobre qual dia da semana devo preencher a tabela e quanto tempo dedicar ao diagnóstico.
+
+Apresente o resultado em formato visual limpo e pronto para cópia.
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar uma tabela customizada para o seu nicho e a regra de faixas numéricas para configurar a formatação condicional (Verde, Amarelo e Vermelho) no Google Sheets ou Excel.
+
+Atenção (Sinal Vermelho)
+Se a coluna "O que Investigar" trouxer recomendações genéricas, exija especificidade: "Ajuste os comandos da Coluna 4 para ações específicas relacionadas aos meus canais e produtos informados".
+
+Próximo passo
+Cole esses limites na aba de referências das suas planilhas de controle e ative a formatação condicional para visualizar automaticamente quando uma taxa entrar em risco.

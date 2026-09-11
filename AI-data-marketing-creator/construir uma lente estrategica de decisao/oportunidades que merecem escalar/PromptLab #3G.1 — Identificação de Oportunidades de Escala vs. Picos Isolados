@@ -1,0 +1,44 @@
+PromptLab #3G.1 — Identificação de Oportunidades de Escala vs. Picos Isolados
+"Escala de verdade não é um pico de um dia que estoura o servidor e morre na segunda-feira; é a consistência de indicadores saudáveis subindo lado a lado por semanas consecutivas."
+
+Objetivo
+Auditar a matriz histórica de 12 semanas para isolar as Oportunidades de Escala Real (períodos com progressão consistente de eficiência e caixa por pelo menos 2 a 3 semanas consecutivas) e diferenciá-las de Picos Isolados ou Anomalias, identificando o padrão comportamental exato que deve ser replicado na pauta editorial. Este prompt atua como um Cientista de Dados de Growth e Engenheiro de Escala.
+
+O que preparar antes de copiar
+O Histórico Completo de 12 Semanas: A matriz com faturamento (Métrica Mãe) e as taxas de transição de cada etapa.
+A Regra de Escala Real: Progressão consistente e saudável de todas as etapas da jornada por 2 ou mais semanas consecutivas.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados de growth marketing e engenheiro de escala de negócios. Vamos analisar um histórico longitudinal de 12 semanas para identificar OPORTUNIDADES DE ESCALA ESTRUTURAL e diferenciá-las de picos isolados de atração.
+
+MATRIZ HISTÓRICA COMPLETA DE 12 SEMANAS:
+- S1: R$ 5.607 | Taxas: 2,60% / 0,20% / 2,76% / 32,6%
+- S2: R$ 5.073 | Taxas: 2,30% / 0,196% / 2,71% / 33,0%
+- S3: R$ 4.094 | Taxas: 1,95% / 0,160% / 2,53% / 33,8%
+- S4: R$ 3.916 | Taxas: 1,90% / 0,155% / 2,52% / 33,8%
+- S5: R$ 5.162 | Taxas: 2,41% / 0,188% / 2,75% / 32,9%
+- S6: R$ 5.874 | Taxas: 2,56% / 0,201% / 2,84% / 34,0%
+- S7: R$ 6.141 | Taxas: 2,60% / 0,204% / 2,91% / 34,0%
+- S8: R$ 6.497 | Taxas: 2,66% / 0,212% / 2,97% / 34,3%
+- S9: R$ 5.073 | Taxas: 2,39% / 0,190% / 2,73% / 31,0%
+- S10: R$ 4.806 | Taxas: 2,31% / 0,183% / 2,71% / 31,7%
+- S11: R$ 5.963 | Taxas: 2,56% / 0,203% / 2,89% / 33,3%
+- S12: R$ 6.853 | Taxas: 2,69% / 0,220% / 3,03% / 34,3%
+*(Legenda das taxas: Alcance->Clique / Alcance->WA / Clique->Venda / WA->Venda)*
+
+Atuando como auditor analítico, responda EXATAMENTE A ESTES 3 PROCESSAMENTOS:
+1. MAPEAMENTO DAS JANELAS DE ESCALA: Identifique os períodos específicos do histórico que representam Oportunidades de Escala Verdadeira — caracterizadas pela subida consistente e simultânea do faturamento e das taxas de conversão por pelo menos 2 semanas consecutivas.
+2. DIFERENCIAÇÃO DE PICOS E ANOMALIAS: Aponte quais momentos do histórico representaram picos isolados, recuperação pontual ou vales de queda estrutural.
+3. PADRÃO COMPORTAMENTAL REPLICÁVEL: Para a principal janela de escala identificada, descreva qual foi o comportamento de funil que a caracterizou (ex: como as taxas de topo, meio e fundo se comportaram) e o que a equipe deve replicar na operação para estender esse ciclo.
+
+Seja analítico, cirúrgico e focado em escala previsível de negócios.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar o bloco S6 a S8 como a principal Janela de Escala Estrutural (3 semanas seguidas de crescimento contínuo de faturamento e expansão saudável de todas as taxas), e o bloco S11 a S12 como a segunda rampa de aceleração. Deve apontar que o bloco S3-S4 foi um vale de degradação e destacar que o padrão de S6-S8 (crescimento orgânico e harmônico de topo, meio e fundo) é a fórmula a ser replicada.
+
+Atenção (Sinal Vermelho)
+Se a IA considerar semanas isoladas como "escala", reoriente-a: "Ajuste a análise. Exijo ao menos 2 a 3 semanas consecutivas de crescimento sustentado nas taxas e no faturamento para classificar como Oportunidade de Escala".
+
+Próximo passo
+Guarde esse padrão de escala para servir de modelo nas próximas campanhas e avance para a Aula 4 para consolidar a matriz de decisão contínua do curso.

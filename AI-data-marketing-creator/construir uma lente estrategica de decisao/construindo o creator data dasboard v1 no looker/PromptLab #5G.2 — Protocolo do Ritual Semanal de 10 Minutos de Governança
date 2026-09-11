@@ -1,0 +1,33 @@
+PromptLab #5G.2 — Protocolo do Ritual Semanal de 10 Minutos de Governança
+"Inteligência de dados não requer horas de reuniões exaustivas sobre planilhas; exige apenas um ritual semanal de 10 minutos com a sequência certa de leitura e as perguntas certas na IA."
+
+Objetivo
+Estruturar o passo a passo do Ritual Semanal de Governança por Dados (coleta de insumos, sequência de leitura do dashboard e acionamento da IA), garantindo que a gestão mantenha o sistema operacional ativo com o menor atrito de tempo possível. Este prompt atua como um Diretor de Operações e Engenheiro de Processos.
+
+O que preparar antes de copiar
+A Matriz de Métricas e o Dashboard: A planilha de acompanhamento semanal configurada com as réguas de cor e limites de alerta.
+O Tempo de Execução: Janela de 10 minutos por semana.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto e execute na sua IA de preferência.
+
+Você é um diretor de operações e especialista em processos de inteligência de negócios. Vamos estruturar o PROTOCOLO DO RITUAL SEMANAL DE 10 MINUTOS DE GOVERNANÇA POR DADOS para a Be Beauty (e adaptável para qualquer projeto digital).
+
+Defina um procedimento operacional padrão (SOP) minimalista, dividido em 3 Passos Cronometrados, que a gestão possa executar semanalmente sem atrito:
+
+1. PASSO 1: ALIMENTAÇÃO DE DADOS (2 Minutos):
+   - Quais são os exatos 5 números de volume bruto que o gestor deve extrair das plataformas e colar na planilha?
+2. PASSO 2: LEITURA HIERÁRQUICA DO DASHBOARD (5 Minutos):
+   - Qual é a ordem exata de leitura dos elementos do painel (Métrica Mãe -> Taxas de Transição -> Cores dos Alertas -> Comparativo Preditivo)? Explique o que procurar em cada camada em menos de 1 minuto.
+3. PASSO 3: ROTEIRO DE ACIONAMENTO DA IA (3 Minutos):
+   - Qual é o prompt de comando direto que o gestor deve colar na IA caso a planilha dispare um Alerta Amarelo/Vermelho para transformar o diagnóstico em plano de ação imediato?
+
+Apresente o protocolo em formato de checklist de execução direta, pronto para ser colado no topo do painel de controle da empresa.
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar um protocolo limpo de 3 etapas com minutagem definida: - Preenchimento (2 min): Inserir os 5 volumes brutos no Sheets (Alcance, Cliques, Mensagens, Vendas Link, Vendas WA). - Varredura (5 min): Checar Métrica Mãe -> Verificar cores das 4 taxas -> Confrontar com o Mapa Preditivo. - Acionamento do Prompt (3 min): Se houver alerta, colar a linha da semana no prompt de diagnóstico e extrair o comando de mitigação.
+
+Atenção (Sinal Vermelho)
+Se a IA criar um processo longo e burocrático, reoriente-a: "Simplifique o procedimento para garantir que o ciclo completo possa ser executado rigorosamente em até 10 minutos por semana".
+
+Próximo passo
+Cole este checklist na primeira aba das suas planilhas de gestão de dados. Você concluiu com sucesso a arquitetura completa de prompts do Módulo 3!

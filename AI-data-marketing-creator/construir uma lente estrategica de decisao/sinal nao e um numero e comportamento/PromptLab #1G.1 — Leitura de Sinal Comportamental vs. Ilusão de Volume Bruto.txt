@@ -1,0 +1,35 @@
+PromptLab #1G.1 — Leitura de Sinal Comportamental vs. Ilusão de Volume Bruto
+"Dois períodos com o mesmo volume de alcance podem esconder realidades comerciais opostas; olhar para a métrica de vaidade faz você achar que a distribuição vai bem, enquanto a taxa de conversão avisa que o seu público parou de se importar."
+
+Objetivo
+Confrontar dois períodos com volume de distribuição/alcance idêntico para decodificar a mudança invisível no comportamento do público, revelando o erro de diagnosticar a saúde da conta por métricas brutas e demonstrando como as taxas de transição sinalizam a estagnação antes que a queda de faturamento aconteça. Este prompt atua como um Cientista de Dados de Growth e Analista de Comportamento.
+
+O que preparar antes de copiar
+Os Dados de Dois Períodos de Volume Similar: Alcance, cliques, contatos/mensagens, vendas finais e taxas percentuais calculadas para o Período 1 e Período 2.
+A Métrica de Volume Comparada: O alcance ou número de impressões que permaneceu aparentemente estável entre os dois momentos.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados de growth marketing e analista sênior de comportamento do consumidor. Vamos realizar uma LEITURA DE SINAL COMPORTAMENTAL comparando dois períodos que possuem volume bruto de distribuição similar, mas comportamentos de transição totalmente opostos.
+
+CONTEXTO E DADOS COMPARATIVOS:
+- Período 1 (Ex: Semana 1): Alcance: [46.000] | Cliques no Link: [1.196] | Contatos WA: [92] | Vendas Totais: [63]
+  - Taxas do Período 1: Alcance -> Clique: [2,60%] | Alcance -> WA: [0,20%]
+- Período 2 (Ex: Semana 3): Alcance: [44.500] | Cliques no Link: [868] | Contatos WA: [71] | Vendas Totais: [46]
+  - Taxas do Período 2: Alcance -> Clique: [1,95%] | Alcance -> WA: [0,16%]
+
+Atuando como auditor analítico, responda EXATAMENTE A ESTES TRÊS PROCESSAMENTOS:
+1. DECODIFICAÇÃO DO COMPORTAMENTO DO PÚBLICO: O que a queda desproporcional nas taxas de transição (mesmo com o alcance quase idêntico) estava sinalizando de diferente sobre a reação da audiência ao conteúdo no Período 2?
+2. A ILUSÃO DA MÉTRICA DE VOLUME: Se o gestor estivesse olhando apenas para a métrica de topo (alcance bruto de ~45k), qual conclusão totalmente equivocada ele teria tirado sobre a saúde da distribuição e do conteúdo?
+3. O SINAL ANTECIPADO DO SISTEMA: O que a variação da taxa Alcance -> Clique (de 2,60% para 1,95%) revelou sobre o estado do funil ANTES que o faturamento final mostrasse qualquer impacto?
+
+Seja analítico, cirúrgico e focado em engenharia de sinais comportamentais.
+Copiado
+Check de qualidade e próximo passo
+A IA deve constatar que o alcance praticamente idêntico (46k -> 44,5k, variação irrisória de 3,2%) mascara uma perda brutal de tração de intenção no Período 2, provando que a audiência continuava visualizando o post, mas parou de agir. Deve explicitar que a queda na taxa de clique de 2,60% para 1,95% foi o alarme antecipado de exaustão de pauta/CTA.
+
+Atenção (Sinal Vermelho)
+Se a IA disser que "o problema foi o alcance ter caído 1,5k", corrija-a: "Ajuste o foco. A oscilação de 3,2% em alcance é ruído de algoritmo. A quebra real e desproporcional ocorreu na taxa de conversão do clique, que despencou 25% em eficiência".
+
+Próximo passo
+Mantenha o chat aberto na mesma janela e execute o PromptLab #1G.2 para mapear a janela de antecedência do sinal (lag time).

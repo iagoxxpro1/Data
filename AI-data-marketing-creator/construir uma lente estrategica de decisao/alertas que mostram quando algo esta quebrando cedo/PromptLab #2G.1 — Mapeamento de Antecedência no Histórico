@@ -1,0 +1,43 @@
+PromptLab #2G.1 — Mapeamento de Antecedência no Histórico
+"Em uma operação orientada a dados, a taxa de transição é o sismógrafo do negócio: ela treme 1 ou 2 semanas antes da estrutura de faturamento desabar ou explodir em vendas."
+
+Objetivo
+Auditar um histórico longitudinal de 12 semanas para isolar a taxa de transição que funciona como Indicador Antecedente (Leading Indicator), calculando a janela exata de antecedência (em número de semanas) que ela oferece em relação às oscilações de faturamento, e separando-a dos Indicadores Retardatários (Lagging Indicators). Este prompt atua como um Cientista de Dados de Growth e Engenheiro de Analytics.
+
+O que preparar antes de copiar
+O Histórico Completo de Semanas (12 Semanas): As taxas de conversão de topo, meio e fundo de cada semana acompanhadas da Métrica Mãe (faturamento monetário).
+Os Pontos de Inflexão do Histórico: Mapear os ciclos de queda, recuperação e estabilização para o modelo comparar.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados de growth marketing e especialista em engenharia de analytics. Vamos realizar um MAPEAMENTO DE ANTECEDÊNCIA DE ALERTAS processando um histórico longitudinal de 12 semanas para isolar a taxa de transição que atua como indicador antecedente de caixa.
+
+MATRIZ HISTÓRICA COMPLETA DE 12 SEMANAS:
+- S1: Alcance->Clique: 2,60% | Alcance->WA: 0,20% | Clique->Venda: 2,76% | WA->Venda: 32,6% | Faturamento: R$ 5.607
+- S2: Alcance->Clique: 2,30% | Alcance->WA: 0,196% | Clique->Venda: 2,71% | WA->Venda: 33,0% | Faturamento: R$ 5.073
+- S3: Alcance->Clique: 1,95% | Alcance->WA: 0,160% | Clique->Venda: 2,53% | WA->Venda: 33,8% | Faturamento: R$ 4.094
+- S4: Alcance->Clique: 1,90% | Alcance->WA: 0,155% | Clique->Venda: 2,52% | WA->Venda: 33,8% | Faturamento: R$ 3.916
+- S5: Alcance->Clique: 2,41% | Alcance->WA: 0,188% | Clique->Venda: 2,75% | WA->Venda: 32,9% | Faturamento: R$ 5.162
+- S6: Alcance->Clique: 2,56% | Alcance->WA: 0,201% | Clique->Venda: 2,84% | WA->Venda: 34,0% | Faturamento: R$ 5.874
+- S7: Alcance->Clique: 2,60% | Alcance->WA: 0,204% | Clique->Venda: 2,91% | WA->Venda: 34,0% | Faturamento: R$ 6.141
+- S8: Alcance->Clique: 2,66% | Alcance->WA: 0,212% | Clique->Venda: 2,97% | WA->Venda: 34,3% | Faturamento: R$ 6.497
+- S9: Alcance->Clique: 2,39% | Alcance->WA: 0,190% | Clique->Venda: 2,73% | WA->Venda: 31,0% | Faturamento: R$ 5.073
+- S10: Alcance->Clique: 2,31% | Alcance->WA: 0,183% | Clique->Venda: 2,71% | WA->Venda: 31,7% | Faturamento: R$ 4.806
+- S11: Alcance->Clique: 2,56% | Alcance->WA: 0,203% | Clique->Venda: 2,89% | WA->Venda: 33,3% | Faturamento: R$ 5.963
+- S12: Alcance->Clique: 2,69% | Alcance->WA: 0,220% | Clique->Venda: 3,03% | WA->Venda: 34,3% | Faturamento: R$ 6.853
+
+Atuando como auditor técnico de inteligência de dados, responda EXATAMENTE A ESTES 3 PROCESSAMENTOS:
+1. IDENTIFICAÇÃO DO INDICADOR ANTECEDENTE (Sinal Primário): Em cada momento em que o faturamento mudou significativamente (curva de queda em S2->S3 e desaceleração em S9->S10), qual foi a PRIMEIRA taxa de transição a piscar o sinal amarelo?
+2. MENSURAÇÃO DA JANELA DE ANTECEDÊNCIA (Lead Time): Com quantas semanas de antecedência em relação ao fundo do vale no faturamento o indicador antecedente mostrou o primeiro desvio?
+3. CLASSIFICAÇÃO DOS INDICADORES RETARDATÁRIOS: Quais taxas só alteraram seus percentuais depois que o faturamento já havia se movido ou permaneceram estáveis devido à eficiência do canal final?
+
+Seja analítico, cirúrgico e focado em governança de antecedência de dados.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar de forma inquestionável que a taxa Alcance -> Clique é o indicador antecedente absoluto do negócio (caiu na S2 para 2,30% antes do tombo financeiro da S3, e caiu na S9 para 2,39% antes do vale da S10). Deve demonstrar que as taxas de fundo (WA -> Venda) atua como indicador retardatário/estável.
+
+Atenção (Sinal Vermelho)
+Se a IA considerar que a taxa do WhatsApp foi a causa das quedas, reoriente-a: "Ajuste o diagnóstico. A conversão do WhatsApp manteve-se em ~33% na S2 e S3. A quebra antecedente ocorreu puramente no clique do topo/meio (2,60% -> 2,30% na S2)".
+
+Próximo passo
+Registre a taxa de clique como o seu indicador primário de alerta e prepare-se para a Aula 3 para definir as regras de automação e gatilhos de mitigação.

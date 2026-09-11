@@ -1,0 +1,34 @@
+PromptLab #1G.2 — Análise de Desfasamento Temporal
+"O valor real de um sistema de inteligência de dados não é dizer que você perdeu faturamento hoje, mas sim apontar o sinal amarelo três semanas antes para dar tempo de corrigir a rota sem perder margem."
+
+Objetivo
+Auditar a progressão de um indicador de transição ao longo de um ciclo temporal para identificar em qual semana exata a luz amarela piscou, comprovando a janela de tempo (delay/lag time) existente entre o surgimento do sinal comportamental e o impacto definitivo no extrato financeiro. Este prompt atua como um Diretor de BI e Gestor de Riscos.
+
+O que preparar antes de copiar
+A Análise Anterior Executada: Ter o resultado do PromptLab #1G.1 na mesma janela do chat.
+A Progressão Temporal (3 Semanas): As taxas calculadas em S1, S2 e S3 com suas respectivas zonas de cor (Verde, Amarelo e Vermelho).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base na leitura do sinal comportamental que acabamos de realizar, vamos fazer uma ANÁLISE DE DESFASAMENTO TEMPORAL (Timing do Sinal vs. Resultado Final) acompanhando a progressão contínua de 3 semanas.
+
+DADOS DA PROGRESSÃO TEMPORAL DAS TAXAS:
+- Semana 1 (S1): Taxa Alcance -> Clique: [2,60%] (Zona Verde — Saudável | Ref: >= 2,50%)
+- Semana 2 (S2): Taxa Alcance -> Clique: [2,30%] (Zona Amarela — Sinal de Alerta Leve | Ref: < 2,50%)
+- Semana 3 (S3): Taxa Alcance -> Clique: [1,95%] (Zona Vermelha — Alerta Crítico Disparado | Piso: < 2,10%)
+
+Processe a auditoria de timing e me entregue:
+1. IDENTIFICAÇÃO DO MOMENTO DO PRIMEIRO SINAL: Em qual semana exata a luz amarela piscou pela primeira vez indicando a perda de eficiência da taxa de conversão?
+2. A JANELA DE ANTECEDÊNCIA (Lag Time): Em qual semana o faturamento total da empresa começou a refletir a queda nos resultados financeiros finais? Qual foi o tamanho da janela de tempo entre o surgimento do sinal e a dor no caixa?
+3. O VALOR OPERACIONAL DA ANTECEDÊNCIA: Explique em 2 tópicos como o acompanhamento de taxas comportamentais em tempo real transforma a gestão de reativa (esperar a perda no final do mês) para proativa (corrigir a pauta na Semana 2).
+
+Apresente o resultado em formato de relatório de governança de timing.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar que a degradação começou na S2 (2,30%, acionando a luz amarela), enquanto o faturamento acumulado só revelou o estrago total na S3. Deve destacar que a diferença de 1 a 2 semanas entre o sinal amarelo da S2 e a queda de caixa da S3 é a Janela de Proteção que permite trocar criativos/CTAs antes de perder receita.
+
+Atenção (Sinal Vermelho)
+Se a IA disser que "o sinal só apareceu na S3", recuse a resposta: "Reorientação: A S2 já havia caído para 2,30%, ficando abaixo do benchmark saudável de 2,50%. O sinal amarelo surgiu na S2, permitindo intervenção preventiva antes do pânico na S3".
+
+Próximo passo
+Salve esse conceito no seu manual de BI e utilize a margem de tempo do sinal amarelo para acionar contramedidas preventivas na sua operação diária.

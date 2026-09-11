@@ -1,0 +1,47 @@
+PromptLab #4G.1 — Matriz de Mapeamento de Sinais Antecipados e Matriz Preditiva
+"Gerenciar a sua operação por dados preditivos significa ler o padrão de transição da semana atual e saber exatamente o que vai acontecer com o seu caixa daqui a 14 dias — antes mesmo do seu faturamento fechar."
+
+Objetivo
+Consolidar o histórico longitudinal do projeto em uma Matriz de Sinais Antecipados, categorizando os intervalos numéricos típicos das taxas de conversão que antecedem ciclos de Crescimento, Estabilidade e Queda, e fornecendo o roteiro de tomada de decisão para a gestão interpretar a semana atual e antecipar o comportamento financeiro. Este prompt atua como um Cientista de Dados de Growth e Diretor de BI.
+
+O que preparar antes de copiar
+O Histórico de 12 Semanas do Projeto: A matriz com as taxas de transição de topo, meio e fundo acompanhadas do faturamento.
+Os Padrões de Inflexão Mapeados: A combinação de taxas que esteve presente no início das rampas de aceleração e dos vales de queda.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados de growth marketing e arquiteto de Business Intelligence. Vamos consolidar o histórico de 12 semanas do meu negócio em um MAPA DE SINAIS ANTECIPADOS para capacitar a gestão a prever a tendência do caixa antes que o faturamento feche.
+
+MATRIZ HISTÓRICA DE REFERÊNCIA (12 Semanas):
+- S1: R$ 5.607 | Taxas: 2,60% / 0,20% / 2,76% / 32,6%
+- S2: R$ 5.073 | Taxas: 2,30% / 0,196% / 2,71% / 33,0%
+- S3: R$ 4.094 | Taxas: 1,95% / 0,160% / 2,53% / 33,8%
+- S4: R$ 3.916 | Taxas: 1,90% / 0,155% / 2,52% / 33,8%
+- S5: R$ 5.162 | Taxas: 2,41% / 0,188% / 2,75% / 32,9%
+- S6: R$ 5.874 | Taxas: 2,56% / 0,201% / 2,84% / 34,0%
+- S7: R$ 6.141 | Taxas: 2,60% / 0,204% / 2,91% / 34,0%
+- S8: R$ 6.497 | Taxas: 2,66% / 0,212% / 2,97% / 34,3%
+- S9: R$ 5.073 | Taxas: 2,39% / 0,190% / 2,73% / 31,0%
+- S10: R$ 4.806 | Taxas: 2,31% / 0,183% / 2,71% / 31,7%
+- S11: R$ 5.963 | Taxas: 2,56% / 0,203% / 2,89% / 33,3%
+- S12: R$ 6.853 | Taxas: 2,69% / 0,220% / 3,03% / 34,3%
+*(Legenda: Alcance->Clique / Alcance->WA / Clique->Venda / WA->Venda)*
+
+Atuando como auditor técnico de inteligência preditiva, entregue EXATAMENTE ESTES TRÊS BLOCOS:
+1. TABELA DO MAPA DE SINAIS ANTECIPADOS (3 Cenários): Monte uma tabela descrevendo a combinação e os intervalos numéricos típicos de cada taxa de conversão nos cenários de:
+   - Padrão Pré-Crescimento (Gatilho de Expansão de Caixa).
+   - Padrão de Estabilidade (Operação Saudável / Cruzeiro).
+   - Padrão Pré-Queda (Sinal Amarelo/Vermelho de Retração).
+2. DISTINÇÃO ENTRE ANTECEDENTES E RETARDATÁRIOS: Destaque explicitamente qual taxa atua como o sismógrafo antecipado primário e quais taxas atuam apenas como confirmadoras retardatórias.
+3. PROTOCOLO OPERACIONAL DE LEITURA DA SEMANA ATUAL: Um passo a passo em 3 etapas de como o gestor deve comparar os dados da semana corrente com essa tabela de referência para classificar a tendência do faturamento da próxima semana.
+
+Seja analítico, cirúrgico e entregue uma ferramenta prática de tomada de decisão.
+Copiado
+Check de qualidade e próximo passo
+A IA deve gerar uma tabela limpa separando os 3 cenários e definindo que o Padrão Pré-Crescimento exige a taxa Alcance -> Clique acima de 2,50% e Alcance -> WA acima de 0,20%, enquanto o Padrão Pré-Queda é marcado por Alcance -> Clique caindo em direção a 2,30% ou menos e Alcance -> WA abaixo de 0,18%. Deve confirmar que as taxas de conversão de fundo (Vendas) funcionam como indicadores retardatários/confirmadores.
+
+Atenção (Sinal Vermelho)
+Se a IA não trouxer os intervalos numéricos explícitos para cada cenário na tabela, exija: "Preencha a tabela obrigatoriamente com as faixas percentuais exatas para cada uma das 4 taxas em todos os 3 cenários".
+
+Próximo passo
+Copie essa tabela preditiva, salve-a como o ativo definitivo do Módulo 3 no seu painel de BI e utilize esse mapa de sinais para auditar os relatórios da sua equipe toda segunda-feira.

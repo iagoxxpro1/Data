@@ -1,0 +1,43 @@
+PromptLab #3F.1 — Diagnóstico de Alerta por Progressão e Teste de Reversão
+"Um único desvio pode ser ruído; uma sequência de 3 semanas em queda constante no mesmo indicador é a prova matemática de que o seu conteúdo saturou e precisa de intervenção de pauta."
+
+Objetivo
+Processar a evolução temporal de 3 semanas consecutivas de uma taxa que atingiu o limite de alerta (piso vermelho), determinando se a queda é oscilação pontual de algoritmo ou quebra estrutural e definindo a hipótese de causa raiz e o teste de reversão para a semana seguinte. Este prompt atua como um Cientista de Dados de Growth e Analista de Performance.
+
+O que preparar antes de copiar
+A Métrica em Alerta e seu Piso: O indicador que cruzou a linha de risco (ex: Alcance -> Clique com piso em 2,10%).
+O Histórico de Progressão (3 Semanas): Alcance, cliques, mensagens, vendas e as taxas percentuais calculadas semana a semana (S1, S2 e S3).
+O Comportamento das Demais Taxas: Identificar quais etapas da jornada permaneceram estáveis para isolar o problema.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute no seu modelo de IA de preferência.
+
+Você é um cientista de dados de growth e estrategista de performance analítica. Nosso sistema de monitoramento semanal disparou um ALERTA VERMELHO em uma das taxas da jornada na S3. Vamos analisar a progressão dos dados para diagnosticar a causa e definir o teste de reversão imediata.
+
+CONTEXTO E DADOS DA PROGRESSÃO (S1, S2 e S3):
+- Taxa em Alerta Disparado: [TAXA EM RISCO: ex: Alcance -> Clique no Link]
+- Limite de Alerta (Piso Vermelho): [VALOR PISO: ex: 2,10%]
+- Progressão Registrada na Taxa: S1: [Ex: 2,60%] → S2: [Ex: 2,30%] → S3: [Ex: 1,95%]
+
+HISTÓRICO COMPLETO DA MATRIZ:
+- Semana 1: Alcance: [46.000] | Cliques: [1.196] | Msgs WA: [92] | Vendas Link: [33] | Vendas WA: [30]
+  - Taxas S1: Alcance->Clique: [2,60%] | Alcance->WA: [0,20%] | Clique->Venda: [2,76%] | WA->Venda: [32,6%]
+- Semana 2: Alcance: [45.000] | Cliques: [1.035] | Msgs WA: [88] | Vendas Link: [28] | Vendas WA: [29]
+  - Taxas S2: Alcance->Clique: [2,30%] | Alcance->WA: [0,20%] | Clique->Venda: [2,71%] | WA->Venda: [33,0%]
+- Semana 3: Alcance: [44.500] | Cliques: [868] | Msgs WA: [71] | Vendas Link: [22] | Vendas WA: [24]
+  - Taxas S3: Alcance->Clique: [1,95%] | Alcance->WA: [0,16%] | Clique->Venda: [2,53%] | WA->Venda: [33,8%]
+
+Atuando como auditor técnico, responda EXATAMENTE A ESTES 3 PROCESSAMENTOS:
+1. CLASSIFICAÇÃO DA NATUREZA DA QUEDA: A partir da progressão linear descendente ao longo de 3 semanas (S1 → S2 → S3), este movimento representa uma VARIAÇÃO PONTUAL DE ALGORITMO ou o INÍCIO DE UMA QUEBRA ESTRUTURAL? Justifique.
+2. ISOLAMENTO DA HIPÓTESE PRINCIPAL: Considerando que o alcance bruto caiu pouquíssimo (de 46k para 44,5k), mas o volume de cliques despencou, enquanto a conversão de fundo (Clique->Venda e WA->Venda) se manteve altamente saudável, qual é a hipótese mais provável de causa no conteúdo/CTA?
+3. O TESTE DE REVERSÃO PARA A SEMANA 4 (S4): Defina o teste prático de pauta/formato a ser executado na S4 para tentar reverter a taxa de volta à referência saudável da S1.
+
+Seja analítico, direto e focado em engenharia de reversão de tráfego.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar que a queda contínua de 2,60% -> 2,30% -> 1,95% com alcance estável não é instabilidade de plataforma, mas sim Início de Quebra Estrutural (Saturação de Criativo/CTA Fraco). Deve destacar que a saúde das taxas de fundo (WhatsApp -> Venda em 33,8%) prova que o produto continua forte e propor um teste direto de CTA e gancho na S4 para recuperar o clique.
+
+Atenção (Sinal Vermelho)
+Se a IA culpar a "queda de alcance de 46k para 44,5k", reoriente-a: "Ajuste o foco. A queda de alcance foi de apenas 3,2%, mas os cliques caíram 27,4%. O problema é puramente a taxa de conversão do clique (mídia/criativo), não a distribuição da plataforma".
+
+Próximo passo
+Execute o teste sugerido na S4 e compare a taxa de conversão com o benchmark da S1 para validar se a retenção de clique foi restabelecida.

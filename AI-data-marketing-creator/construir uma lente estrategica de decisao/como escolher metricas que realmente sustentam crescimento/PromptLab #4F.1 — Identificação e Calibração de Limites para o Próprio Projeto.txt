@@ -1,0 +1,45 @@
+PromptLab #4F.1 — Identificação e Calibração de Limites para o Próprio Projeto
+"Um sistema de monitoramento só se torna verdadeiramente seu quando as taxas de referência e os limites de alerta deixam de ser exemplos didáticos e passam a refletir os números reais da sua própria operação."
+
+Objetivo
+Permitir que o aluno insira o histórico do seu próprio projeto para mapear as métricas da sua jornada (Atenção, Intenção e Ação), calcular suas taxas de conversão de referência e calibrar os limites de alerta numéricos específicos do seu negócio. Este prompt atua como um Cientista de Dados de Growth e Engenheiro de Métricas.
+
+O que preparar antes de copiar
+A Descrição do Projeto: O produto/serviço oferecido, canais de atração e canais de fechamento/conversão.
+O Histórico Disponível (Semanas/Meses): Os números de impressões, cliques, contatos e conversões acumulados no seu negócio.
+O Ticket Médio: O valor monetário por transação/cliente.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu projeto pessoal e execute na sua IA.
+
+Atuando como meu cientista de dados e engenheiro de métricas de growth, ajude-me a mapear e calibrar o SISTEMA DE MONITORAMENTO DE JORNADA do meu próprio projeto.
+
+DADOS DA MINHA OPERAÇÃO E HISTÓRICO:
+- Nome do Projeto / Empresa: [INSIRA O NOME DO SEU PROJETO]
+- Produto / Serviço Oferecido: [INSIRA O QUE VOCÊ VENDE E O TICKET MÉDIO EM R$]
+- Objetivo Principal de Negócio: [INSIRA SEU OBJETIVO REAL]
+- Canais de Distribuição (Atração): [INSIRA OS CANAIS: ex: Instagram, LinkedIn, YouTube]
+- Canais de Conversão (Fechamento): [INSIRA OS CANAIS: ex: Site, WhatsApp, Direct]
+
+HISTÓRICO DISPONÍVEL DE DADOS (Submeta quantas semanas/meses possuir):
+- Período 1: [Alcance/Impressões] | [Cliques/Atração] | [Contatos/Leads] | [Vendas/Ações]
+- Período 2: [Alcance/Impressões] | [Cliques/Atração] | [Contatos/Leads] | [Vendas/Ações]
+- Período 3: [Alcance/Impressões] | [Cliques/Atração] | [Contatos/Leads] | [Vendas/Ações]
+(Se o histórico for muito recente, cole os números acumulados das últimas semanas ou informe "Dados Iniciais")
+
+Com base na governança de dados da minha operação, me entregue:
+1. MAPEAMENTO DE MÉTRICAS DA JORNADA: Identifique as métricas exatas do meu projeto nas etapas de ATENÇÃO (Topo), INTENÇÃO (Meio) e AÇÃO (Fundo), indicando onde encontrar o dado em cada plataforma.
+2. CALIBRAÇÃO DE TAXAS DE CONVERSÃO:
+   - Se o meu histórico for suficiente, calcule os percentuais de REFERÊNCIA SAUDÁVEL e os LIMITES DE ALERTA NUMÉRICOS para cada transição entre etapas.
+   - Se o meu histórico for inicial/insuficiente, forneça os benchmarks de mercado do meu nicho como ponto de partida e indique exatamente com quantas semanas de dados deverei recalibrar os números.
+3. DIAGNÓSTICO DE MATURIDADE DE DADOS: Uma avaliação em 2 frases sobre a confiabilidade atual do meu histórico.
+
+Seja analítico, cirúrgico e focado na construção da régua do meu projeto.
+Copiado
+Check de qualidade e próximo passo
+A IA deve listar onde encontrar cada dado (ex: GA4, Instagram Insights, WhatsApp) e entregar taxas percentuais calibradas com o seu histórico ou benchmarks de mercado bem explicados caso os dados sejam iniciais.
+
+Atenção (Sinal Vermelho)
+Se a IA não der percentuais exatos para as referências e alertas, exija: "Forneça números percentuais exatos para a Referência Saudável e para o Limite de Alerta de cada taxa do meu projeto".
+
+Próximo passo
+Mantenha o chat aberto e execute o PromptLab #4F.2 para gerar a tabela de monitoramento personalizada do seu negócio.

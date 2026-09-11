@@ -1,0 +1,44 @@
+PromptLab #5G.1 — Interpretação do Dashboard e Recomendação Estratégica
+"O maior faturamento da história do negócio só se torna um marco de crescimento contínuo se os indicadores de saúde do funil confirmarem que a estrutura de conversão continua acelerando."
+
+Objetivo
+Processar o fechamento do dashboard da semana mais recente contra a matriz preditiva do histórico completo, diagnosticando o estado atual do sistema (Padrão Pré-Crescimento vs. Pré-Queda) e fornecendo a triagem de comandos táticos para o ciclo seguinte (o que manter, o que ampliar e o que monitorar). Este prompt atua como um Diretor Executivo de Growth e CFO Analítico.
+
+O que preparar antes de copiar
+O Histórico de Referência Mapeado: Ter a matriz de sinais antecedente das aulas anteriores ativa no chat.
+Os Dados Fechados da Semana Atual (Ex: S12): Volume de alcance, cliques, contatos, vendas por canal, faturamento total e as 4 taxas de conversão calculadas.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute no seu modelo de IA de preferência.
+
+Você é um diretor executivo de growth marketing e CFO analítico. Vamos realizar a INTERPRETAÇÃO DO DASHBOARD E RECOMENDAÇÃO TÁTICA para o fechamento da semana mais recente da Be Beauty, confrontando os dados atuais contra o nosso histórico de 12 semanas.
+
+DADOS DA SEMANA MAIS RECENTE (S12):
+- Alcance Total: 49.000
+- Cliques no Link: 1.320
+- Mensagens no WhatsApp: 108
+- Vendas via Link: 40 | Vendas via WhatsApp: 37
+- Faturamento Total: R$ 6.853 (Maior faturamento do histórico)
+- Taxas de Conversão S12:
+  - Alcance -> Clique: 2,69%
+  - Alcance -> WhatsApp: 0,22%
+  - Clique -> Venda: 3,03%
+  - WhatsApp -> Venda: 34,3%
+
+Atuando como conselheiro estratégico do negócio, entregue EXATAMENTE ESTES TRÊS PROCESSAMENTOS:
+1. DIAGNÓSTICO DO ESTADO DO SISTEMA: Com base no confronto entre a S12 e o histórico, as taxas atuais estão mais próximas do Padrão Pré-Crescimento ou Pré-Queda? O faturamento recorde representa uma tendência estrutural saudável ou esconde algum ponto silencioso de atenção?
+2. ANÁLISE DE EFICIÊNCIA DE CANAL: O que o comportamento do WhatsApp (taxa de 34,3% de conversão e volume de 37 vendas) revela sobre o papel desse canal na sustentação da margem da empresa?
+3. COMANDO TÁTICO DE EXECUÇÃO PARA A S13: Entregue a orientação prática dividida rigorosamente em:
+   - O que MANTER (O formato/conteúdo que está sustentando a tração de topo/meio).
+   - O que AMPLIAR (A alavanca de maior eficiência de conversão).
+   - O que MONITORAR (O indicador antecedente primário que confirmará a continuidade da rampa de alta em S13).
+
+Seja analítico, cirúrgico e focado em governança de crescimento contínuo.
+Copiado
+Check de qualidade e próximo passo
+A IA deve classificar a S12 como Padrão Pré-Crescimento Estrutural (todas as taxas acima dos benchmarks de referência, com destaque para a taxa Alcance -> Clique em 2,69% e WhatsApp em 34,3%). Deve recomendar Manter a pauta de atração da S11-S12, Ampliar o direcionamento de tráfego/frequência para o WhatsApp, e Monitorar se a taxa de clique permanece igual ou maior que 2,60% na S13 como trava de segurança.
+
+Atenção (Sinal Vermelho)
+Se a IA disser apenas "parabéns pelo faturamento", exija profundidade: "Refaça a análise explicitando por que as taxas de transição provam que o crescimento de faturamento é estrutural e não apenas um pico de vaidade".
+
+Próximo passo
+Salve essas recomendações para pautar a reunião de planejamento da S13 e execute o PromptLab #5G.2 para institucionalizar o ritual semanal de 10 minutos.
