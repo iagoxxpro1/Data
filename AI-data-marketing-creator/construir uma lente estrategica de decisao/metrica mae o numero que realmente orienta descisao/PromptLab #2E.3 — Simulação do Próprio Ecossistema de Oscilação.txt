@@ -1,0 +1,39 @@
+PromptLab #2E.3 — Simulação do Próprio Ecossistema de Oscilação
+"Treinar a leitura de dados em um cenário simulado do seu próprio negócio é a única forma de não entrar em pânico quando os números reais oscilarem no final do mês."
+
+Objetivo
+Permitir que o aluno monte um cenário de estresse e oscilação com base no seu próprio negócio, utilizando o LLM para mapear onde estariam as causas raízes em caso de queda na sua Métrica Mãe. Este prompt atua como um Framework Universal de Diagnóstico Comercial.
+
+O que preparar antes de copiar
+A Sua Métrica Mãe Real: O número primário que valida seu faturamento/crescimento.
+Seus Canais de Aquisição: De onde vêm seus clientes (ex: Instagram, LinkedIn, Indicação, Tráfego Pago).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto com as informações do seu negócio e execute.
+
+Atuando como meu consultor de Business Intelligence e Growth, ajude-me a rodar uma SIMULAÇÃO DE DIAGNÓSTICO DE OSCILAÇÃO para o meu negócio pessoal.
+
+MEUS DADOS REAIS E CENÁRIO SIMULADO:
+- Nome do Meu Projeto: [INSIRA O NOME DO SEU PROJETO]
+- Minha Métrica Mãe: [INSIRA SUA MÉTRICA MÃE: ex: Faturamento Mensal / Contratos Fechados]
+- Cenário de Queda Simulada: [INSIRA UMA QUEDA HIPOTÉTICA: ex: Queda de 20% na Métrica Mãe neste mês]
+- Comportamento Simulado das Métricas de Apoio:
+  - Taxa de Conversão/Vendas: [INSIRA: ex: Permaneceu igual]
+  - Preço Médio / Ticket: [INSIRA: ex: Permaneceu igual]
+  - Volume de Leads/Cliques no Canal A: [INSIRA: ex: Caiu 50%]
+  - Volume de Leads/Cliques no Canal B: [INSIRA: ex: Teve leve alta de 5%]
+
+Com base na governança de dados do meu ecossistema, me entregue:
+1. LEITURA DE CAUSA RAIZ: Aponte em qual ponto específico da jornada está a falha e por que a queda na Métrica Mãe aconteceu.
+2. CHECKLIST DE INVESTIGAÇÃO (2 a 3 perguntas): Quais são as perguntas de checagem imediata que devo fazer ao meu dashboard de tráfego/mídia antes de alterar qualquer pauta ou oferta.
+3. PROTOCOLO DE REAÇÃO RÁPIDA: Qual é a primeira ação prática para estancar a queda da Métrica Mãe sem desperdiçar recursos.
+
+Seja direto, prático e focado na proteção da margem da minha empresa.
+Copiado
+Check de qualidade e próximo passo
+A IA deve mapear que o produto e a taxa de fechamento continuam performando bem, isolando a perda financeira na queda de volume de tráfego/leads do Canal A, direcionando o foco para a recuperação do topo/meio desse canal específico.
+
+Atenção (Sinal Vermelho)
+Se a IA responder de forma abstrata sem apontar o Canal A como culpado, exija: "Seja explícito em isolar a falha no Canal A com base nos dados que informei".
+
+Próximo passo
+Mantenha este modelo de simulação como um guia no seu manual de operações para ser acionado sempre que um indicador primário oscilar no relatório mensal.

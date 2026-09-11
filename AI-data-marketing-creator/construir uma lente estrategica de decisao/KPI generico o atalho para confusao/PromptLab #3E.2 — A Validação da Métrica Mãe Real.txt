@@ -1,0 +1,33 @@
+PromptLab #3E.2 — A Validação da Métrica Mãe Real
+"Uma Métrica Mãe legítima passa no teste da verdade: se ela sobe, o seu objetivo avança; se ela cai, a sua empresa sente na hora."
+
+Objetivo
+Aplicar o mesmo Teste da Invalidação sobre a Métrica Mãe real do negócio, confirmando que ela possui conexão direta com o comportamento de compra do cliente e orienta decisões práticas sem margem para dubiedade. Este prompt atua como um Cientista de Dados de Negócios.
+
+O que preparar antes de copiar
+A Métrica Mãe Real: O indicador primário de receita/conversão validado na Aula 2.
+O Objetivo Comercial de 90 Dias: A meta quantitativa estipulada.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base no teste da métrica genérica que acabamos de realizar, vamos aplicar o MESMO TESTE DE ESTRESSE na nossa MÉTRICA MÃE REAL para confirmar sua legitimidade técnica.
+
+DADOS DE AVALIAÇÃO:
+- Métrica Mãe Real AVALIADA: [INSIRA A MÉTRICA MÃE: ex: Faturamento total da linha de sérum]
+- Objetivo Comercial de 90 Dias: [INSIRA O OBJETIVO: ex: Aumentar em 30% o faturamento total em 90 dias]
+
+Processe a validação técnica e me entregue:
+1. O TESTE DA RESPOSTA AUTOMÁTICA: Se a [Métrica Mãe Real] crescer 50% no próximo mês, o objetivo de [Objetivo Comercial] avança automaticamente? Explique a relação matemática imediata entre as duas pontas.
+2. CONEXÃO COM O COMPORTAMENTO REAL: Demonstre por que a [Métrica Mãe Real] mede o comportamento ativo de decisão do cliente (compras efetuadas), e não apenas a exposição passiva na plataforma.
+3. ORIENTAÇÃO PRÁTICA DE DECISÃO: Como a leitura desse indicador orienta ações imediatas na operação sem gerar ambiguidades ou interpretações vagas?
+
+Apresente a validação em formato de relatório de aprovação técnica.
+Copiado
+Check de qualidade e próximo passo
+A IA deve confirmar de forma conclusiva que o crescimento da Métrica Mãe impulsiona o objetivo imediatamente, provando que ela mede transações reais e direciona ajustes diretos no canal de vendas.
+
+Atenção (Sinal Vermelho)
+Se a resposta for ambígua ou vacilante, exija clareza: "Se a resposta a qualquer um dos 3 itens for vaga, refaça e ajuste a Métrica Mãe até obter conexão 100% direta com o faturamento".
+
+Próximo passo
+Mantenha esse confronto como um comparativo didático e, caso deseje testar a legitimidade do indicador do seu projeto pessoal, execute o PromptLab #3E.3.

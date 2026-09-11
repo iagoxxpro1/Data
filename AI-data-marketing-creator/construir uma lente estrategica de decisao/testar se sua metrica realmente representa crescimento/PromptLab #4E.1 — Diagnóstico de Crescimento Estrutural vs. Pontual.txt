@@ -1,0 +1,46 @@
+PromptLab #4E.1 — Diagnóstico de Crescimento: Estrutural vs. Pontual
+"Nem todo crescimento de faturamento é saudável; confundir um pico pontual de desconto com uma alavanca estrutural de negócio é o erro que destrói a margem no mês seguinte."
+
+Objetivo
+Confrontar dois cenários de alta na Métrica Mãe para classificar o movimento como Crescimento Estrutural (faturamento subindo acompanhado pela eficiência dos indicadores de causa) ou Crescimento Pontual/Sazonal (faturamento subindo às custas de canibalização de margem ou volume isolado), definindo a conduta tática para cada situação. Este prompt atua como um Cientista de Dados de Growth e CFO Analítico.
+
+O que preparar antes de copiar
+A Métrica Mãe do Negócio: O indicador primário de receita/faturamento.
+Cenário A (Mês/Período 1): Variação na Métrica Mãe acompanhada dos comportamentos da taxa de conversão, ticket médio e distribuição por canais.
+Cenário B (Mês/Período 2): Variação na Métrica Mãe acompanhada dos comportamentos dos mesmos indicadores de causa sob outro contexto.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute na sua IA de preferência.
+
+Você é um cientista de dados de growth marketing e CFO analítico. Vamos avaliar DOIS CENÁRIOS DE CRESCIMENTO de um negócio para classificar a natureza da alta da Métrica Mãe e definir a decisão tática adequada.
+
+CONTEXTO E DADOS DOS CENÁRIOS:
+- Métrica Mãe do Negócio: [INSIRA A MÉTRICA MÃE: ex: Faturamento total da linha de sérum]
+
+CENÁRIO 1 (Ex: Novembro / Ação Promocional):
+- Variação da Métrica Mãe: [INSIRA O RESULTADO: ex: Faturamento +45%]
+- Comportamento do Indicador 1 (Taxa de Conversão): [INSIRA O DADO: ex: Caiu de 3,7% para 2,1%]
+- Comportamento do Indicador 2 (Ticket Médio): [INSIRA O DADO: ex: Caiu devido a desconto de 20% de Black Friday]
+- Comportamento do Indicador 3 (Canais): [INSIRA O DADO: ex: Crescimento concentrado quase todo no Link da Bio]
+
+CENÁRIO 2 (Ex: Março / Operação Regular):
+- Variação da Métrica Mãe: [INSIRA O RESULTADO: ex: Faturamento +28%]
+- Comportamento do Indicador 1 (Taxa de Conversão): [INSIRA O DADO: ex: Subiu de 3,4% para 3,9%]
+- Comportamento do Indicador 2 (Ticket Médio): [INSIRA O DADO: ex: Manteve o valor padrão de R$ 89]
+- Comportamento do Indicador 3 (Canais): [INSIRA O DADO: ex: Crescimento distribuído nos dois canais, com WhatsApp puxando a alta]
+
+Com base em análise de saúde financeira e sustentabilidade de escala, me entregue:
+1. CLASSIFICAÇÃO TÉCNICA DOS CENÁRIOS: Classifique cada cenário em CRESCIMENTO ESTRUTURAL (a Métrica Mãe sobe junto com a eficiência dos indicadores de causa) ou CRESCIMENTO PONTUAL (a Métrica Mãe sobe isoladamente por volume/desconto, comprimindo margem).
+2. O DIAGNÓSTICO DA ILUSÃO DO VOLUME: Explique por que o Cenário 1 (com maior porcentagem de faturamento bruto) não pode ser tratado como tendência de longo prazo nem replicado na rotina semanal.
+3. COMANDO OPERACIONAL: Qual deve ser a instrução da gestão para a equipe de marketing/vendas em cada um dos dois casos?
+
+Seja analítico, cirúrgico e focado na preservação da margem comercial.
+Copiado
+Check de qualidade e próximo passo
+A IA deve classificar Novembro como Crescimento Pontual (métrica mãe subiu por volume bruto via desconto, mas a conversão caiu e o ticket encolheu) e Março como Crescimento Estrutural (faturamento subiu acompanhado por ganhos de conversão e ticket preservado).
+
+Atenção (Sinal Vermelho)
+Se a IA considerar o Cenário 1 melhor apenas por ter +45%, reoriente-a: "Ajuste o diagnóstico. Analise a degradação da taxa de conversão e da margem de preço em Novembro para provar que a alta foi pontual".
+
+Próximo passo
+Mantenha o chat aberto na mesma janela e execute o PromptLab #4E.2 na sequência para estruturar o protocolo de validação contínua.
+

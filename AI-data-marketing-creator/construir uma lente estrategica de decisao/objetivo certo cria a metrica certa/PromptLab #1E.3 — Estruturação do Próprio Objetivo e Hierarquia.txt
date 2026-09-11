@@ -1,0 +1,36 @@
+PromptLab #1E.3 — Estruturação do Próprio Objetivo e Hierarquia
+"A clareza sobre qual indicador paga as suas contas e qual indicador atende apenas ao seu ego é o primeiro passo para construir um sistema de dados profissional."
+
+Objetivo
+Permitir que o aluno aplique a metodologia de estruturação de objetivo SMART e derivação de métricas mães diretamente no seu negócio pessoal, construindo o seu primeiro ativo de governança de dados para os próximos 90 dias. Este prompt atua como um Framework Universal de Planejamento de Growth.
+
+O que preparar antes de copiar
+O Seu Projeto Pessoal: Nome da marca, produto/serviço oferecido e ticket médio.
+Seus Canais Reais de Conversão: Onde as vendas ou captação de leads acontecem no seu dia a dia.
+Sua Lista Atual de Métricas: Os números que você consulta diariamente na sua conta.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto com as informações reais do seu negócio e execute na sua IA.
+
+Atuando como meu consultor de estratégia de crescimento e inteligência de negócios, ajude-me a definir o OBJETIVO MÃE E A HIERARQUIA DE MÉTRICAS do meu próprio projeto para os próximos 90 dias.
+
+DADOS DA MINHA OPERAÇÃO REAIS:
+- Nome do Meu Projeto / Empresa: [INSIRA O NOME DO SEU PROJETO]
+- Produto / Serviço Oferecido: [INSIRA O QUE VOCÊ VENDE E O TICKET MÉDIO]
+- Canais de Venda / Conversão: [INSIRA ONDE AS VENDAS OU LEADS SÃO FECHADOS]
+- Métricas que Acompanho Hoje: [LISTE OS NÚMEROS QUE VOCÊ CONSULTA HOJE]
+
+Com base nas melhores práticas de governança de growth, me entregue:
+1. OBJETIVO MÃE DE 90 DIAS: Um objetivo comercial SMART (Específico, Mensurável e Temporal) focado em crescimento financeiro/operacional real para o meu negócio.
+2. AS 3 A 4 MÉTRICAS MÃES: Os indicadores primários que devem ser acompanhados no topo do meu relatório semanal e a justificativa de cada um.
+3. TABELA DE HIERARQUIA DE MÉTRICAS: Classifique a lista de métricas que informei em Métricas de Objetivo, Métricas de Apoio e Métricas de Atividade, com a justificativa de 1 frase para cada.
+
+Seja direto, pragmático e focado em manter a disciplina comercial da minha empresa.
+Copiado
+Check de qualidade e próximo passo
+A IA deve retornar um objetivo quantitativo ajustado para o seu nicho e uma tabela organizando suas métricas atuais, mostrando visualmente para quais números você deve olhar a partir de agora.
+
+Atenção (Sinal Vermelho)
+Se o objetivo sugerido for genérico (ex: "crescer no mercado"), reoriente a IA: "Refaça o objetivo inserindo uma meta percentual ou financeira específica e um prazo de 90 dias".
+
+Próximo passo
+Cole este objetivo e esta tabela de hierarquia na primeira página do seu documento de acompanhamento de dados para guiar suas reuniões semanais de pauta.

@@ -1,0 +1,37 @@
+PromptLab #1E.1 — Definição de Objetivo de Negócio e Derivação de Métricas Mães
+"Medir atividade sem um objetivo de negócio claro é como acelerar um carro sem volante: você gasta combustível e energia, mas não decide para onde está indo."
+
+Objetivo
+Estruturar um objetivo de negócio específico, mensurável e temporal para os próximos 90 dias, derivando as métricas primárias verdadeiras que respondem diretamente ao crescimento financeiro do projeto e descartando a tentação de acompanhar apenas indicadores de esforço. Este prompt atua como um Diretor de Estratégia B2B/B2C e CFO Analítico.
+
+O que preparar antes de copiar
+A Descrição do Projeto e da Oferta: O produto/serviço vendido e o ticket médio praticado.
+Os Canais de Distribuição e Venda: Onde o tráfego é gerado e onde as transações são fechadas (ex: Link da Bio, WhatsApp, E-commerce).
+O Cenário Atual: As métricas que a conta costuma acompanhar por hábito.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados reais do seu ecossistema e execute no seu modelo de IA de preferência.
+
+Você é um diretor sênior de estratégia de negócios e CFO analítico especializado em growth marketing. Vamos estruturar o OBJETIVO DE NEGÓCIO E DERIVAÇÃO DE MÉTRICAS para um projeto digital que atualmente opera sem direcionamento claro.
+
+CONTEXTO OPERACIONAL E COMERCIAL:
+- Nome do Projeto / Marca: [INSIRA O NOME: ex: Be Beauty]
+- Produto / Oferta Principal: [INSIRA A OFERTA: ex: Sérum facial]
+- Canais de Aquisição e Venda: [INSIRA OS CANAIS: ex: Instagram, TikTok, Link da Bio e WhatsApp]
+- Dados Financeiros / Ticket Médio: [INSIRA DADOS: ex: Ticket médio no site R$ 89; no WhatsApp o cliente compra mais e recompra com ticket maior]
+- Acompanhamento Atual (Hábito): [INSIRA O QUE ACOMPANHA HOJE: ex: Curtidas, seguidores, alcance e cliques ocasionais no link da bio]
+- Estado de Objetivos: Não possui objetivo comercial formalmente definido.
+
+Atuando como consultor executivo, entregue EXATAMENTE ESTES DOIS BLOCOS:
+1. DEFINIÇÃO DO OBJETIVO MÃE DE 90 DIAS: Formule um objetivo de negócio específico, mensurável, atingível e temporal (SMART) focado em crescimento real (receita, margem ou expansão de clientes), eliminando metas abstratas de "visibilidade".
+2. DERIVAÇÃO DAS MÉTRICAS MÃES (3 a 4 indicadores): A partir do objetivo definido, selecione as 3 ou 4 métricas essenciais que devem ser acompanhadas no dashboard. Justifique individualmente por que cada uma delas é uma resposta direta ao objetivo comercial estipulado.
+
+Seja analítico, cirúrgico e focado estritamente em governança de crescimento de caixa.
+Copiado
+Check de qualidade e próximo passo
+A IA deve gerar um objetivo quantitativo claro (ex: "Aumentar a receita total da linha de sérum em 25% nos próximos 90 dias, combinando faturamento do site e do WhatsApp"), derivando métricas como Receita Bruta Total, Taxa de Conversão por Canal, Ticket Médio e Taxa de Recompra.
+
+Atenção (Sinal Vermelho)
+Se a IA incluir seguidores ou curtidas entre as 3 ou 4 métricas principais, reoriente-a: "Remova métricas de vaidade das métricas principais. Mantenha apenas indicadores que comprovem entrada e retenção de receita".
+
+Próximo passo
+Mantenha o chat aberto na mesma janela e execute o PromptLab #1E.2 na sequência para categorizar todas as métricas em uma hierarquia de utilidade.

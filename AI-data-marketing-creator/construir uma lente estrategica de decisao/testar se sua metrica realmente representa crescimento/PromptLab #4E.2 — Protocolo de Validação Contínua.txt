@@ -1,0 +1,36 @@
+PromptLab #4E.2 — Protocolo de Validação Contínua
+"Saber fazer as perguntas certas toda vez que a Métrica Mãe oscila é o que transforma um relatório de marketing em uma ferramenta de governança de negócios."
+
+Objetivo
+Transformar o aprendizado da leitura dos indicadores de causa em um conjunto de 3 perguntas objetivas e encadeadas, servindo como o filtro definitivo para a gestão classificar qualquer oscilação futura do faturamento em tempo real. Este prompt atua como um Diretor de Operações e BI.
+
+O que preparar antes de copiar
+A Análise Anterior Executada: Ter rodado o PromptLab #4E.1 no mesmo chat.
+Os Indicadores de Causa do Projeto: Taxa de conversão, ticket médio e distribuição por canais.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute no mesmo chat da conversa.
+
+Com base no diagnóstico de crescimento estrutural vs. pontual que acabamos de realizar, vamos construir o PROTOCOLO DE VALIDAÇÃO CONTÍNUA para a rotina do meu negócio.
+
+INDICADORES DE CAUSA DO PROJETO:
+- Indicador 1: Taxa de conversão por canal
+- Indicador 2: Ticket médio praticado
+- Indicador 3: Distribuição de vendas por canais de aquisição
+
+Estruture para a gestão do projeto:
+1. TRÊS PERGUNTAS DE FILTRO IMEDIATO: Formuladas em 1 frase direta cada uma, utilizando estritamente os indicadores de causa do projeto. Essas perguntas devem ser feitas obrigatoriamente toda vez que a Métrica Mãe subir ou cair.
+2. RÉGUA DE INTERPRETAÇÃO RÁPIDA:
+   - Se a resposta for "SIM" para as 3 perguntas -> O que significa e qual a ação?
+   - Se a resposta for "NÃO" para 1 ou mais perguntas -> O que significa e qual o alerta?
+3. DECLARAÇÃO DE ENCERRAMENTO DE CURSO: Uma frase síntese para colocar no topo do dashboard da empresa que resuma o compromisso com a governança por dados reais de caixa.
+
+Apresente as perguntas e a régua de forma minimalista, visual e pronta para execução.
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar 3 perguntas objetivas e encadeadas (ex: "1. A taxa de conversão acompanhou a alta do faturamento? 2. O ticket médio se manteve no valor padrão sem canibalização de margem? 3. O crescimento veio de forma equilibrada/sustentável pelos canais de venda?").
+
+Atenção (Sinal Vermelho)
+Se as perguntas forem genéricas como "o marketing foi bom?", exija especificidade: "Reescreva as 3 perguntas mencionando explicitamente taxa de conversão, ticket médio e distribuição por canal".
+
+Próximo passo
+Copie este protocolo de 3 perguntas e salve-o como o checklist definitivo do seu dashboard para guiar todas as análises futuras do seu projeto.

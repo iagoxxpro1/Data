@@ -1,0 +1,42 @@
+PromptLab #1F.1 — Isolamento de Etapa Crítica e Impacto Financeiro da Queda
+"Uma queda de faturamento nunca é um problema homogêneo; diagnosticar exatamente qual etapa da jornada quebrou é a diferença entre aplicar um curativo no lugar certo ou desperdiçar orçamento tentando arrumar o que não estragou."
+
+Objetivo
+Processar o comparativo de métricas de dois meses consecutivos para localizar a etapa exata de maior quebra percentual da jornada (Topo, Meio ou Fundo), calcular o impacto financeiro (R$) das hipóteses levantadas usando o ticket médio e definir o teste prioritário para os próximos 7 dias. Este prompt atua como um Cientista de Dados de Growth e Analista de CRO.
+
+O que preparar antes de copiar
+Os Dados Comparativos de Dois Períodos: O levantamento do mês anterior versus mês atual (alcance, cliques no link, mensagens, vendas por canal e faturamento total).
+O Ticket Médio: O valor médio (R$) por transação.
+A Queda na Métrica Mãe: O percentual total de encolhimento da receita.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute na sua IA de preferência.
+
+Você é um cientista de dados de growth e estrategista analítico de CRO. Vamos realizar uma DIAGNOSE DE QUEBRA DE JORNADA comparando o desempenho de dois meses consecutivos para isolar a causa de uma queda de faturamento e priorizar a solução.
+
+CONTEXTO E DADOS COMPARATIVOS:
+- Produto / Ticket Médio: [INSIRA O PRODUTO E TICKET MÉDIO: ex: Sérum facial com Ticket Médio de R$ 89]
+- Queda Registrada na Métrica Mãe: [INSIRA A QUEDA: ex: Faturamento caiu 38%]
+
+MATRIZ COMPARATIVA (Mês Anterior vs. Mês Atual):
+- Alcance Total / Impressões: [Mês A] → [Mês B] ([Variacão %])
+- Cliques no Link / Atração: [Mês A] → [Mês B] ([Variacão %])
+- Contatos / Mensagens (WhatsApp/Direct): [Mês A] → [Mês B] ([Variacão %])
+- Vendas via Link da Bio: [Mês A] → [Mês B] ([Variacão %])
+- Vendas via Atendimento Direct/WhatsApp: [Mês A] → [Mês B] ([Variacão %])
+- Faturamento Total (R$): [Mês A] → [Mês B] ([Variacão %])
+
+Atuando como auditor analítico, entregue EXATAMENTE ESTES TRÊS PROCESSAMENTOS:
+1. IDENTIFICAÇÃO DA ETAPA CRÍTICA: Identifique em qual etapa específica da jornada (Topo -> Atração de Conteúdo; Meio -> Transição para Clique/Contato; Fundo -> Conversão Final) a queda foi proporcionalmente mais grave. Explique por que uma variação leve no topo não justifica o encolhimento do meio/fundo.
+2. MODELAGEM DO IMPACTO FINANCEIRO (R$): Calcule o impacto financeiro exato das perdas de volume de cliques/leads usando a taxa de conversão histórica do período anterior e o Ticket Médio de [Valor do Ticket].
+3. PLANO DE TESTE PRIORITÁRIO (Próximos 7 dias): Defina exatamente a principal hipótese a ser testada na próxima semana para reverter essa quebra de transição (ex: ajuste de formato, CTA ou oferta).
+
+Seja analítico, cirúrgico e expresse os impactos em valores monetários exatos (R$).
+Copiado
+Check de qualidade e próximo passo
+A IA deve constatar que a queda de alcance (9%) é apenas oscilação normal, mas que a queda nos cliques (36%) e nas mensagens (42%) indica que a quebra está no Meio do Funil (conteúdo/CTA). Deve calcular que a perda dos 450 cliques representa aproximadamente 12 vendas não efetuadas (≈ R$ 1.068,00 perdidos), recomendando um teste direto de CTA nos próximos 7 dias.
+
+Atenção (Sinal Vermelho)
+Se a IA concluir que o problema foi o "alcance ter caído 9%", corrija-a: "Reoriente a análise. Uma queda de 9% em alcance é ruído de plataforma; a quebra real e desproporcional ocorreu na taxa de cliques (36%) e nas mensagens (42%)".
+
+Próximo passo
+Mantenha o chat aberto na mesma janela e execute o PromptLab #1F.2 para investigar o canal de atendimento específico.

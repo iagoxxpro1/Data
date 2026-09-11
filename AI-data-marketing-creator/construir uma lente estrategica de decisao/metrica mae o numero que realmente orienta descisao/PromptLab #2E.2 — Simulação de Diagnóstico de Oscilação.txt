@@ -1,0 +1,35 @@
+PromptLab #2E.2 — Simulação de Diagnóstico de Oscilação
+"A Métrica Mãe sinaliza que existe um problema; as métricas de apoio apontam exatamente em qual sala do seu negócio o incêndio começou."
+
+Objetivo
+Simular um cenário real de oscilação negativa na Métrica Mãe para exercitar o raciocínio analítico, ensinando o criador/gestor a usar os indicadores de apoio para isolar o gargalo (ex: perda de tráfego em um canal específico) antes de tomar qualquer decisão de pauta ou investimento. Este prompt atua como um Especialista em CRO e BI.
+
+O que preparar antes de copiar
+A Métrica Mãe e a Hierarquia Definitiva: Ter rodado o PromptLab #2E.1 no mesmo chat.
+O Cenário de Queda Simulada: Um percentual de queda na Métrica Mãe e os comportamentos variados das métricas de apoio.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute na mesma conversa.
+
+Com base na hierarquia que acabamos de definir, vamos realizar uma SIMULAÇÃO DE DIAGNÓSTICO DE OSCILAÇÃO para testar a nossa capacidade de leitura de dados.
+
+CENÁRIO SIMULADO DE QUEDA:
+- Comportamento da Métrica Mãe: [INSIRA A QUEDA: ex: O Faturamento Total caiu 15% em relação ao mês anterior]
+- Comportamento da Métrica de Apoio 1 (Taxa de Conversão): [DESCREVA: ex: Ficou estável]
+- Comportamento da Métrica de Apoio 2 (Ticket Médio): [DESCREVA: ex: Subiu 8%]
+- Comportamento da Métrica de Apoio 3 (Vendas por Canal): [DESCREVA: ex: Vendas pelo Link da Bio despencaram 40%, enquanto vendas pelo WhatsApp cresceram 12%]
+
+Atuando como consultor sênior de inteligência de negócios, me entregue:
+1. A LEITURA CORRETA DO DIAGNÓSTICO: Explique onde exatamente está a causa do problema e por que a queda da Métrica Mãe NÃO significa que o negócio ou o produto como um todo falharam.
+2. A PRÓXIMA PERGUNTA DE INVESTIGAÇÃO: Qual é a pergunta técnica exata sobre o meio do funil (ou tráfego) que devo fazer antes de alterar qualquer oferta, produto ou preço?
+3. O DIRECIONAMENTO DE CORREÇÃO: Qual deve ser o foco imediato de ação da equipe para recuperar a Métrica Mãe no próximo ciclo?
+
+Seja prático, analítico e focado na resolução de gargalos operacionais.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar que o produto e o atendimento via WhatsApp estão saudáveis (ticket subiu e conversão WhatsApp cresceu), localizando o gargalo exclusivamente na atração/tráfego do Link da Bio, indicando que a pergunta seguinte deve investigar o volume de cliques ou o tráfego gerado para o link.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir "mudar o produto" ou "baixar o preço", force a correção: "Ajuste a análise. O ticket médio subiu e a conversão do WhatsApp cresceu; o problema é puramente de canal de aquisição do link".
+
+Próximo passo
+Guarde essa dinâmica e, para capacitar seu pensamento analítico no seu negócio pessoal, execute o PromptLab #2E.3.

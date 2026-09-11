@@ -1,0 +1,36 @@
+PromptLab #3E.3 — Auditoria de Legitimidade da Própria Métrica Mãe
+"Se a métrica que você chama de principal no seu negócio não passa no teste da verdade, você está gerenciando uma ilusão no seu dashboard."
+
+Objetivo
+Permitir que o aluno confronte o indicador que ele utiliza no seu próprio projeto pessoal contra uma métrica genérica de mercado, garantindo que o seu dashboard esteja blindado contra métricas de vaidade. Este prompt atua como um Framework Universal de Auditoria de KPIs.
+
+O que preparar antes de copiar
+O Seu Projeto Pessoal: O nome do seu negócio e o produto/serviço vendido.
+Sua Métrica Mãe Pretendida: O indicador que você escolheu para liderar seu relatório.
+Sua Métrica de Vaidade Mais Frequente: O número superficial que você mais costuma olhar no celular (ex: visualizações, curtidas, seguidores).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha os colchetes com os dados do seu negócio e execute.
+
+Atuando como meu consultor de inteligência de dados e auditor de growth, ajude-me a rodar o TESTE DA VERDADE no indicador central do meu projeto pessoal.
+
+DADOS DO MEU NEGÓCIO:
+- Nome do Meu Projeto: [INSIRA O NOME DO SEU PROJETO]
+- Meu Objetivo Comercial de 90 Dias: [INSIRA SEU OBJETIVO REAL EM R$ OU VENDAS]
+- Métrica Mãe Pretendida: [INSIRA SUA MÉTRICA MÃE: ex: Receita Bruta / Contratos Assinados]
+- Métrica Superficial de Comparação: [INSIRA A MÉTRICA SUPERFICIAL: ex: Visualizações no Reels / Curtidas]
+
+Processe o confronto direto entre os dois indicadores e me entregue:
+1. TESTE COMPARATIVO DE AVANÇO: Se a [Métrica Superficial] subir 50% e a [Métrica Mãe Pretendida] ficar estagnada, meu negócio cresceu ou apenas fez barulho? Explique o porquê.
+2. O DIAGNÓSTICO DA CEGUEIRA DO MEU PAINEL: O que eu deixo de enxergar na saúde financeira e na jornada do meu cliente quando comemoro o pico da [Métrica Superficial]?
+3. O OBLITERADOR DE VAIDADE: Uma justificativa técnica de 2 frases que devo ler para mim mesmo sempre que me pegar ansioso com picos ou quedas da [Métrica Superficial].
+
+Seja direto, provocativo e focado em manter minha gestão ancorada no caixa real.
+Copiado
+Check de qualidade e próximo passo
+A IA deve provar o contraste de valor entre o barulho da métrica superficial e o crescimento do caixa real, entregando a frase de blindagem para o seu dia a dia.
+
+Atenção (Sinal Vermelho)
+Se a IA validar a métrica superficial como "importante para o topo", force o ajuste: "Reorientação: O objetivo deste teste é explicitar o perigo de usar a métrica superficial como indicador primário".
+
+Próximo passo
+Cole a frase de blindagem no topo das suas planilhas para garantir que suas reuniões de acompanhamento nunca mais se percam em métricas de vaidade.

@@ -1,0 +1,38 @@
+PromptLab #2F.1 — Definição de Taxas de Referência e Limites de Alerta Calibrados
+"Esperar a queda aparecer no extrato bancário do final do mês é gerenciar por autópsia; calibrar limites de alerta por etapa é criar um sistema de alarme que apita antes do prejuízo acontecer."
+
+Objetivo
+Processar o histórico de conversões de cada etapa da jornada para estabelecer os valores de Referência Saudável e os Limites de Alerta Numéricos (piso tolerável). Isso evita que variações normais de algoritmo gerem pânico e garante que desvios reais ativem contramedidas imediatas. Este prompt atua como um Cientista de Dados de Growth e Engenheiro de Métricas.
+
+O que preparar antes de copiar
+As Taxas de Conversão do Histórico: O levantamento percentual de cada etapa no mês de alta performance (saudável) e no mês de queda auditado na Aula 1.
+A Estrutura das Etapas:
+Topo -> Meio (Alcance para Clique no Link).
+Topo -> Atendimento (Alcance para Contato Direct/WhatsApp).
+Meio -> Fundo (Clique para Venda no Link).
+Atendimento -> Fundo (Contato para Venda no Direct/WhatsApp).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu cenário e execute na sua IA de preferência.
+
+Você é um cientista de dados de growth marketing e engenheiro de métricas. Com base no histórico comparativo de conversão por etapa que analisamos anteriormente, vamos estabelecer as RÉGUAS DE CALIBRAÇÃO DE SAÚDE DA JORNADA.
+
+DADOS HISTÓRICOS DAS TAXAS POR ETAPA:
+- Etapa 1 (Alcance -> Clique no Link): [Mês Referência: ex: 2,57%] | [Mês Queda: ex: 1,80%]
+- Etapa 2 (Alcance -> Contato Direct/WhatsApp): [Mês Referência: ex: 0,20%] | [Mês Queda: ex: 0,13%]
+- Etapa 3 (Clique no Link -> Venda Direta): [Mês Referência: ex: 2,74%] | [Mês Queda: ex: 2,40%]
+- Etapa 4 (Contato Direct/WhatsApp -> Venda Fechada): [Mês Referência: ex: 31,6%] | [Mês Queda: ex: 36,8%]
+
+Atuando como auditor técnico, entregue EXATAMENTE ESTES DOIS PARÂMETROS NUMÉRICOS para cada uma das 4 taxas:
+1. REFERÊNCIA SAUDÁVEL (Benchmark Interno): A taxa percentual média esperada em semanas de operação regular para manter a meta de faturamento.
+2. LIMITE DE ALERTA NUMÉRICO (Piso de Disparo): A taxa percentual limite inferior (piso) que, se atingida na medição semanal, confirma problema estrutural de transição (excluindo oscilações normais de algoritmo) e exige investigação imediata.
+
+Apresente os parâmetros em formato de lista técnica com valores percentuais numéricos explícitos.
+Copiado
+Check de qualidade e próximo passo
+A IA deve definir referências e pisos explícitos (ex: Alcance -> Clique: Referência em aproximadamente 2,5%, Limite de Alerta abaixo de 2,0%; Alcance -> WhatsApp: Referência em 0,18% - 0,20%, Limite de Alerta abaixo de 0,13%; Clique -> Venda: Referência 2,7%, Alerta < 2,3%; WhatsApp -> Venda: Referência 32%, Alerta < 28%).
+
+Atenção (Sinal Vermelho)
+Se a IA trouxer recomendações vagas como "monitorar se cair muito", exija precisão: "Forneça números percentuais exatos para a Referência Saudável e para o Limite de Alerta de cada uma das 4 linhas".
+
+Próximo passo
+Mantenha o chat aberto na mesma janela e execute o PromptLab #2F.2 para transformar essas réguas em uma ferramenta operacional semanal.

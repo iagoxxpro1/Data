@@ -1,0 +1,35 @@
+PromptLab #2F.2 — Matriz Operacional de Monitoramento Semanal de Jornada
+"A simplicidade de uma tabela com réguas pré-calculadas e comandos claros é o que impede a equipe de perder tempo adivinhando o que fazer quando o tráfego falhar."
+
+Objetivo
+Converter os limites de alerta calibrados em uma tabela operacional de preenchimento semanal. A matriz inclui colunas para registro da taxa real e o protocolo direto de ação ("o que fazer") a ser acionado no mesmo dia em que o alerta for disparado. Este prompt atua como um Diretor de Operações e BI.
+
+O que preparar antes de copiar
+A Calibração Executada: Ter o resultado do PromptLab #2F.1 na mesma janela do chat.
+As 4 Taxas do Funil: As réguas numéricas de Referência e Alerta aprovadas no prompt anterior.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis e execute na mesma conversa do prompt anterior.
+
+Com base nos limites de alerta e valores de referência que acabamos de calibrar, construa a MATRIZ OPERACIONAL DE MONITORAMENTO SEMANAL DA JORNADA para o meu negócio.
+
+Transforme os parâmetros analíticos em uma ferramenta visual de execução simples para a equipe:
+
+1. TABELA DE MONITORAMENTO SEMANAL (5 Colunas): Monte uma tabela limpa organizada com as seguintes colunas:
+   - [Etapa / Taxa de Conversão]
+   - [Referência Saudável (%)]
+   - [Limite de Alerta / Piso (%)]
+   - [Medição da Semana (%)] (Deixar espaço/coluna vazia para preenchimento manual do gestor)
+   - [Ação Imediata de Contenção ao Disparar Alerta] (O comando tático direto do que investigar/corrigir quando a taxa ficar abaixo do piso).
+
+2. PROTOCOLO DE ROTINA (3 Regras de Ouro): Defina em 3 tópicos curtos quando e como essa tabela deve ser atualizada semanalmente e qual é o tempo máximo de resposta para agir após um alerta ativado.
+
+Apresente a tabela e o protocolo em formato pronto para ser colado na pauta da equipe.
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar uma tabela estruturada de 4 linhas (uma para cada taxa) com ações táticas ultraespecíficas na última coluna (ex: se Alcance -> Clique cair abaixo do limite, auditar imediatamente a oferta/CTA dos posts da semana; se WhatsApp -> Venda cair abaixo do piso, auditar tempo de resposta e abordagem da equipe de atendimento).
+
+Atenção (Sinal Vermelho)
+Se a coluna de ação trouxer recomendações genéricas como "fazer reuniões", reoriente-a: "Substitua por ações operacionais diretas focadas no gargalo daquela etapa específica".
+
+Próximo passo
+Copie essa matriz, integre-a ao seu relatório semanal de acompanhamento e utilize-a como a régua oficial de saúde da sua operação.

@@ -1,0 +1,32 @@
+PromptLab #1E.2 — Matriz de Hierarquia: Objetivo, Apoio e Atividade
+"Tratar uma curtida e uma venda com o mesmo nível de prioridade no relatório é o erro operacional que cega a gestão e mata a margem do negócio."
+
+Objetivo
+Organizar o inventário de métricas acompanhadas pelo projeto sob 3 camadas de prioridade bem definidas (Métricas de Objetivo, Métricas de Apoio e Métricas de Atividade), justificando o enquadramento de cada uma sob a ótica do objetivo comercial recém-estruturado. Este prompt atua como um Arquivista de Dados e Analista de BI.
+
+O que preparar antes de copiar
+A Definição de Objetivo Executada: Ter rodado o PromptLab #1E.1 no mesmo chat.
+A Lista de Métricas do Projeto: Todos os indicadores que hoje aparecem no painel da conta.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) e execute no mesmo chat da conversa.
+
+Com base no objetivo de negócio de 90 dias que você acabou de definir, vamos construir a MATRIZ DE HIERARQUIA DE MÉTRICAS para organizar o dashboard da marca.
+
+INVENTÁRIO DE MÉTRICAS AVALIADAS:
+- Métricas Atualmente Monitoradas: [LISTE AS MÉTRICAS: ex: Seguidores, curtidas, alcance dos posts, cliques no link da bio, mensagens no WhatsApp, vendas efetuadas]
+
+Classifique cada uma das métricas acima sob as 3 categorias formais de governança:
+1. MÉTRICAS DE OBJETIVO (O Resultado Final): Indicadores que respondem diretamente se o negócio está crescendo e colocando dinheiro no caixa.
+2. MÉTRICAS DE APOIO (O Meio do Funil): Indicadores que ajudam a entender a eficiência da jornada e onde está a intenção, mas não garantem o faturamento isoladamente.
+3. MÉTRICAS DE ATIVIDADE (O Esforço / Ruído): Indicadores de topo de funil ou esforço operacional que mostram que algo foi publicado/visto, mas não comprovam progresso comercial real.
+
+Para cada métrica, escreva exatamente 1 FRASE justificando o motivo do seu enquadramento na categoria atribuída. Apresente o resultado em formato de tabela.
+Copiado
+Check de qualidade e próximo passo
+A IA deve separar claramente Vendas/Receita/Mensagens no WhatsApp como Objetivo, Cliques no Link/Salvamentos como Apoio, e Curtidas/Alcance/Seguidores como Atividade.
+
+Atenção (Sinal Vermelho)
+Se a IA colocar alcance ou seguidores na camada de apoio, corrija-a: "Alcance é indicador de atividade da plataforma; ele só vira apoio se houver clique ou retenção de intenção associada".
+
+Próximo passo
+Guarde essa matriz de hierarquia e, caso deseje aplicar essa mesma engenharia com os dados do seu projeto pessoal, utilize o PromptLab #1E.3.

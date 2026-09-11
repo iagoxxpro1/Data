@@ -1,0 +1,33 @@
+PromptLab #1F.2 — Teste de Hipótese Complementar
+"Quando o volume de contatos despenca mas a taxa de fechamento de quem chega aumenta, o problema não está no vendedor: está na torneira de tráfego que foi fechada antes da conversa começar."
+
+Objetivo
+Submeter um canal secundário de conversão (ex: WhatsApp/Direct) ao teste de eficiência relativa (Taxa de Conversão Interna = Vendas / Contatos), comprovando se o gargalo é operacional do atendimento ou puramente um problema de volume de atração que chega até ele. Este prompt atua como um Especialista em Inteligência de Vendas.
+
+O que preparar antes de copiar
+A Análise Anterior Executada: Ter o resultado do PromptLab #1F.1 gerado no mesmo chat.
+Os Dados Específicos do Canal de Conversa: Volume de mensagens recebidas, volume de vendas fechadas e as variações percentuais em ambos os meses.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto e execute na mesma conversa do prompt anterior.
+
+Com base no diagnóstico de quebra que acabamos de realizar, vamos aprofundar a investigação sobre a HIPÓTESE DO CANAL DE ATENDIMENTO (WhatsApp / Direct).
+
+DADOS ESPECÍFICOS DO CANAL DE ATENDIMENTO:
+- Contatos / Mensagens Recebidas: [Mês A: ex: 98] → [Mês B: ex: 57] (Queda de [Variacão %: ex: -42%])
+- Vendas Fechadas no Canal: [Mês A: ex: 31] → [Mês B: ex: 21] (Queda de [Variacão %: ex: -32%])
+
+Processe a auditoria de eficiência e me entregue:
+1. CÁLCULO DA TAXA DE CONVERSÃO INTERNA DO CANAL: Calcule a porcentagem exata de conversão de mensagens em vendas no Mês A versus Mês B (Vendas / Mensagens).
+2. ANÁLISE DE QUALIDADE DO TRÁFEGO: A taxa de conversão interna do canal subiu ou caiu? O que essa variação revela sobre a intenção de compra dos leads que conseguiram chegar ao atendimento no Mês B?
+3. CONFIRMAÇÃO DE PRIORIZAÇÃO INVESTIGATIVA: Com base nesses números, o gargalo operacional está no atendimento do canal (fundo) ou na atração e chamada de conteúdo (meio)? Como isso valida ou altera o teste de 7 dias definido anteriormente?
+
+Seja objetivo, analítico e sem rodeios teóricos.
+Copiado
+Check de qualidade e próximo passo
+A IA deve calcular que a taxa de conversão do WhatsApp subiu (ex: de 31,6% para 36,8%), provando que quem chegou ao atendimento estava com altíssima intenção de compra. Isso confirma de forma definitiva que o problema não é o WhatsApp, mas sim o volume de tráfego sendo barrado no meio do funil (conteúdo/CTA).
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir "treinar a equipe de vendas do WhatsApp", recuse a resposta: "Ajuste a análise. A conversão interna do canal SUBIU de 31,6% para 36,8%. O atendimento ficou mais eficiente; o gargalo é a falta de volume chegando ao canal".
+
+Próximo passo
+Guarde essa dupla validação para embasar a tomada de decisão da equipe e garantir que o foco da próxima semana seja 100% direcionado para a recuperação do clique de transição.

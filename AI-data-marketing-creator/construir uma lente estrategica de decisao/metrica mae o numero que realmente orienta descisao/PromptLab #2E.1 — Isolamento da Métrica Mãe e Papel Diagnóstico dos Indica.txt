@@ -1,0 +1,33 @@
+PromptLab #2E.1 — Isolamento da Métrica Mãe e Papel Diagnóstico dos Indicadores
+"A Métrica Mãe confirma se a sua empresa está viva e crescendo; as métricas de apoio explicam a causa exata de qualquer oscilação de saúde no seu caixa."
+
+Objetivo
+Estabelecer uma hierarquia única onde 1 único indicador é coroado como a Métrica Mãe (a prova definitiva de cumprimento do objetivo de 90 dias), enquanto as demais métricas são parametrizadas como Indicadores Diagnósticos que explicam as causas do aumento ou da queda de faturamento/resultado. Este prompt atua como um Cientista de Dados e CFO Analítico.
+
+O que preparar antes de copiar
+O Objetivo de 90 Dias e as Métricas do Prompt Anterior: Ter o resultado do PromptLab #1E.1 gerado no mesmo chat.
+A Lista das Métricas Mães Derivadas: As 3 a 4 métricas selecionadas na Aula 1.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os dados do seu projeto e execute no mesmo chat da aula anterior.
+
+Você é um cientista de dados e CFO analítico. Continuando o alinhamento estratégico do meu projeto, vamos estabelecer a HIERARQUIA DEFINITIVA DAS MÉTRICAS e isolar a nossa MÉTRICA MÃE.
+
+CONTEXTO E MÉTRICAS MAPEADAS:
+- Objetivo de Negócio (90 Dias): [INSIRA O OBJETIVO DA AULA 1: ex: Aumentar o faturamento total em 30% nos próximos 90 dias]
+- Lista de Métricas Mães Selecionadas: [LISTE AS MÉTRICAS DA AULA 1: ex: Faturamento total, número de vendas por canal, taxa de conversão e ticket médio]
+
+Com base na teoria de inteligência de dados e governança de crescimento, me entregue:
+1. COROAÇÃO DA MÉTRICA MÃE: Identifique e defina qual é a ÚNICA Métrica Mãe absoluta deste projeto — o número inegociável que, quando sobe, confirma matematicamente que o objetivo comercial está sendo atingido.
+2. O PAPEL DIAGNÓSTICO DAS MÉTRICAS DE APOIO: Para cada uma das outras métricas selecionadas, defina o seu papel explicativo exato. O que cada uma delas revela sobre o comportamento da operação quando a Métrica Mãe subir ou cair?
+3. O TESTE DO SACRIFÍCIO: Justifique em 2 frases por que a Métrica Mãe selecionada seria a última a ser descartada caso o gestor só pudesse olhar para 1 único número no painel.
+
+Seja analítico, direto e sem rodeios teóricos.
+Copiado
+Check de qualidade e próximo passo
+A IA deve coroar a Receita Total / Faturamento Total (ou volume de contratos fechados) como Métrica Mãe, definindo métricas como Taxa de Conversão, Ticket Médio e Vendas por Canal como explicadoras de causa.
+
+Atenção (Sinal Vermelho)
+Se a IA disser que "todas as 4 métricas têm o mesmo peso de Métrica Mãe", reoriente-a na hora: "Escolha estritamente UMA Métrica Mãe. As outras devem atuar apenas como explicadoras de causa".
+
+Próximo passo
+Mantenha a conversa na mesma janela do chat e execute o PromptLab #2E.2 para testar a mecânica de diagnóstico de uma oscilação.
