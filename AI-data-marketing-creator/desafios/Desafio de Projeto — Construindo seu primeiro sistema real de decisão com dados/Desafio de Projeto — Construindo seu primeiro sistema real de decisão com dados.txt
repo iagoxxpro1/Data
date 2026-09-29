@@ -1,0 +1,39 @@
+
+Desafio de Projeto — Construindo seu primeiro sistema real de decisão com dados
+Visão Geral e Objetivo
+Neste Desafio de Projeto, você vai integrar todo o conhecimento adquirido ao longo dos Módulos 1, 2 e 3 para formalizar o seu sistema de inteligência e tomada de decisão. Você sairá do modo intuitivo de criação e deixará registrado um modelo operacional guiado por dados reais, pronto para proteger seu caixa e orientar cada nova pauta.
+
+O entregável deste desafio deve ser documentado e estruturado em um arquivo de texto (Google Docs ou Microsoft Word) e submetido via link público na plataforma.
+
+Antes de começar: escolha seu ponto de partida
+Este desafio admite dois caminhos válidos. Escolha apenas um para guiar sua documentação:
+
+Caminho A — Construção do zero: Use este caminho se você apenas assistiu às aulas até aqui, ainda não aplicou os conceitos e não estruturou seus dados operacionais. Você vai construir o seu sistema de decisão a partir dos modelos trabalhados nos Módulos 1 a 3.
+Caminho B — Validação e revisão do que já foi feito: Use este caminho se você já acompanha suas métricas, possui histórico registrado ou já aplicou os frameworks ao longo do curso. Você vai auditar, calibrar e consolidar o seu sistema existente.
+Ambos os caminhos levam ao mesmo entregável final no seu documento.
+
+Como este desafio funciona
+O desafio consolida e valida a estrutura construída ao longo dos Módulos 1, 2 e 3. Ele não adiciona novos conceitos teóricos, mas confirma que o método do Creator Data Marketing System está em operação real.
+
+Você vai registrar a sua evolução em 6 Passos Sequenciais no seu documento do Google Docs ou Word, avançando com consciência em cada etapa.
+
+-------------------------------------------------------
+
+Passo 1-6:
+Desafio de Projeto — Construindo seu primeiro sistema real de decisão com dados
+Visão Geral e Objetivo
+Neste Desafio de Projeto, você vai integrar todo o conhecimento adquirido ao longo dos Módulos 1, 2 e 3 para formalizar o seu sistema de inteligência e tomada de decisão. Você sairá do modo intuitivo de criação e deixará registrado um modelo operacional guiado por dados reais, pronto para proteger seu caixa e orientar cada nova pauta.
+
+O entregável deste desafio deve ser documentado e estruturado em um arquivo de texto (Google Docs ou Microsoft Word) e submetido via link público na plataforma.
+
+Antes de começar: escolha seu ponto de partida
+Este desafio admite dois caminhos válidos. Escolha apenas um para guiar sua documentação:
+
+Caminho A — Construção do zero: Use este caminho se você apenas assistiu às aulas até aqui, ainda não aplicou os conceitos e não estruturou seus dados operacionais. Você vai construir o seu sistema de decisão a partir dos modelos trabalhados nos Módulos 1 a 3.
+Caminho B — Validação e revisão do que já foi feito: Use este caminho se você já acompanha suas métricas, possui histórico registrado ou já aplicou os frameworks ao longo do curso. Você vai auditar, calibrar e consolidar o seu sistema existente.
+Ambos os caminhos levam ao mesmo entregável final no seu documento.
+
+Como este desafio funciona
+O desafio consolida e valida a estrutura construída ao longo dos Módulos 1, 2 e 3. Ele não adiciona novos conceitos teóricos, mas confirma que o método do Creator Data Marketing System está em operação real.
+
+Você vai registrar a sua evolução em 6 Passos Sequenciais no seu documento do Google Docs ou Word, avançando com consciência em cada etapa.

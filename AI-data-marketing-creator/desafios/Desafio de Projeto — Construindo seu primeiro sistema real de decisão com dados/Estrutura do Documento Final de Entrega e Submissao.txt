@@ -1,0 +1,17 @@
+Estrutura do Documento Final de Entrega e Submissão
+📦 Estrutura do Documento Final de Entrega
+Seu arquivo no Google Docs ou Microsoft Word deve ser organizado estritamente com os seguintes blocos e títulos:
+
+Cabeçalho: Nome do Aluno, Nome do Projeto/Empresa, Caminho Escolhido (A ou B) e Data.
+Bloco 1 — Direção Estratégica e Métrica Mãe: Declaração de objetivo comercial de 90 dias, produto, ticket médio, canais e o isolamento da Métrica Mãe com o teste de invalidação de vaidade.
+Bloco 2 — Tabela de Métricas Essenciais e Réguas de Saúde: Tabela com as 3 métricas da jornada (Atenção, Intenção e Ação), valores de referência saudável e limites de alerta numéricos.
+Bloco 3 — Mapa Preditivo e Indicador Antecedente: Tabela dos 3 cenários (Pré-Queda, Estabilidade e Pré-Crescimento) e a identificação do sismógrafo primário.
+Bloco 4 — Protocolo de Ação e Decisão Única: Matriz de investigação ao disparar alertas e a declaração da decisão única para o próximo ciclo.
+Bloco 5 — SOP do Ritual Semanal de 10 Minutos: O checklist cronometrado em 3 passos para a rotina de governança por dados.
+📤 Submissão do Desafio
+Salve ou organize o seu documento no Google Docs ou Microsoft Word.
+Ajuste as configurações de compartilhamento do arquivo para: "Qualquer pessoa com o link pode ler" (Acesso Público em modo Leitor).
+Teste o link gerado em uma janela anônima do seu navegador para confirmar que ele abre sem solicitar login ou permissões especiais.
+Acesse a área de entrega do desafio de projeto na plataforma e cole o link público do documento no campo indicado.
+Fechamento
+Ao concluir e submeter este documento, você declara que a sua operação possui um sistema real de decisão guiado por dados. Você saiu da dependência da intuição e construiu a governança necessária para proteger a sua margem, antecipar movimentos do mercado e escalar o seu negócio com previsibilidade. Parabéns!

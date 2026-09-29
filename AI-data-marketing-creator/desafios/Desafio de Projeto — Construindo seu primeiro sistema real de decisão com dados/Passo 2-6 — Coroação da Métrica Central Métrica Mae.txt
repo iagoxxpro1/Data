@@ -1,0 +1,11 @@
+Passo 2/6 — Coroação da Métrica Central (Métrica Mãe)
+Agora que a direção estratégica está clara, é hora de formalizar a Métrica Mãe do seu negócio, garantindo que o seu sistema tenha um indicador inegociável de validação de crescimento.
+
+O que fazer e registrar no documento:
+
+Registre o seu Objetivo Mãe de 90 Dias (meta quantitativa SMART focada em receita, margem ou faturamento).
+Declare a Métrica Mãe do seu projeto (o único número que, quando cresce, confirma o avanço do objetivo comercial).
+Registre o Teste de Invalidação de Vaidade: explique por que um indicador de exposição (como seguidores ou visualizações) pode crescer 50% sem colocar dinheiro no caixa, provando a necessidade da Métrica Mãe.
+Regra importante: Apenas um indicador pode ser coroado como Métrica Mãe no topo da hierarquia do seu documento.
+
+Checkpoint de conquista: ✅ Objetivo de 90 dias quantificado ✅ Métrica Mãe coroada e isolada ✅ Teste de invalidação documentado

@@ -1,0 +1,11 @@
+Passo 5/6 — Validação do Protocolo e Definição da Decisão Única
+Aqui você transforma o aprendizado dos dados em ação tática, registrando o comando de mitigação para alertas e definindo o foco do próximo ciclo.
+
+O que fazer e registrar no documento:
+
+Registre a Matriz de Ação para Alertas Disparados: para cada taxa que cruzar o piso de segurança, declare o comando tático imediato do que investigar no conteúdo/oferta.
+Registre uma Decisão Única para o próximo ciclo de pauta/conteúdo do seu negócio, derivada diretamente da leitura do seu indicador antecedente.
+Teste a resiliência desse protocolo declarando a conduta operacional em cenários de pressão ou semanas atípicas.
+Regra importante: Apenas uma decisão deve ser registrada para o próximo ciclo. Mudar múltiplos elementos ao mesmo tempo impede a leitura clara de causa e efeito.
+
+Checkpoint de conquista: ✅ Comandos táticos de investigação associados a cada alerta ✅ Decisão única declarada em uma frase clara no documento ✅ Protocolo de contenção validado

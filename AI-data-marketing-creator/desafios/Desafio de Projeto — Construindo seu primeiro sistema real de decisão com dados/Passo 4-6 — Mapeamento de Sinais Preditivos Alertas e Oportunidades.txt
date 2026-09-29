@@ -1,0 +1,13 @@
+Passo 4/6 — Mapeamento de Sinais Preditivos (Alertas e Oportunidades)
+Neste passo, você constrói o cérebro preditivo do seu sistema para conseguir ler os sinais de transição e antecipar o comportamento do caixa antes do fechamento do mês.
+
+O que fazer e registrar no documento:
+
+Monte o Mapa Preditivo de Sinais Antecipados categorizando os intervalos numéricos das taxas em 3 cenários:
+Padrão Pré-Queda: O comportamento de taxas que pisca a luz amarela/vermelha de retração.
+Padrão de Estabilidade: O comportamento de operação regular em cruzeiro.
+Padrão Pré-Crescimento / Oportunidade de Escala: A combinação de taxas que autoriza a expansão de pauta e investimento.
+Identifique e registre no documento o seu Indicador Antecedente Primário (o sismógrafo que varia primeiro na jornada).
+Regra importante: O mapa preditivo deve deixar claro o desfasamento temporal (lag time) entre o surgimento do sinal na taxa e o impacto financeiro no faturamento.
+
+Checkpoint de conquista: ✅ Tabela de 3 cenários preditivos registrada ✅ Indicador antecedente primário isolado ✅ Lógica de leitura antes do fechamento de caixa explicada

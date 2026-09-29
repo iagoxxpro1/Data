@@ -1,0 +1,11 @@
+Passo 3/6 — Estruturação e Calibração das Métricas Essenciais
+Aqui você transforma o monitoramento bruto em leitura de causas. É o momento de dividir a sua jornada em etapas e calibrar as réguas de saúde operacional do seu negócio.
+
+O que fazer e registrar no documento:
+
+Registre as 3 Métricas Essenciais de Transição da sua jornada: Atenção (Topo), Intenção (Meio) e Ação (Fundo).
+Monte a Tabela de Calibração de Taxas com os valores de Referência Saudável (%) e os Limites de Alerta Numéricos / Piso (%) para cada transição de etapa.
+Se o seu histórico for recente, registre os benchmarks de mercado utilizados como ponto de partida e indique o prazo estipulado para a recalibração.
+Regra importante: Não utilize limites abstratos. Todos os alertas e referências devem conter valores percentuais explícitos.
+
+Checkpoint de conquista: ✅ Mapeamento das etapas de Atenção, Intenção e Ação ✅ Taxas de referência e limites de alerta calibrados numericamente ✅ Tabela operacional de monitoramento inserida no documento

@@ -1,0 +1,11 @@
+Passo 6/6 — Ritual Semanal de Governança por Dados (SOP)
+Este passo fecha o ciclo operacional. Você vai registrar o Procedimento Operacional Padrão (SOP) para garantir que a leitura de dados ocorra de forma simples e constante, sem demandar esforço heroico.
+
+O que fazer e registrar no documento:
+
+Estruture o checklist do Ritual Semanal de 10 Minutos, dividido em 3 passos cronometrados:
+Alimentação de Dados (2 min): Mapeamento dos volumes brutos a serem inseridos na planilha.
+Leitura Hierárquica do Dashboard (5 min): Ordem de varredura visual (Métrica Mãe → Taxas → Cores de Alerta → Mapa Preditivo).
+Acionamento da IA (3 min): Estrutura da pergunta/prompt de apoio para gerar o plano de ação caso um alerta seja ativado.
+Revise o documento final no Google Docs ou Word e garanta que todas as partes estão coesas.
+Checkpoint de conquista: ✅ Protocolo SOP do ritual de 10 minutos registrado ✅ Documento completo e revisado ✅ Links e tabelas prontos para validação externa
