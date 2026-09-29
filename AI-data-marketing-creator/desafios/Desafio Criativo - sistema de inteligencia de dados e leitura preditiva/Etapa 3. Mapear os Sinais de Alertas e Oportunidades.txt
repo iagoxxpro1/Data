@@ -1,0 +1,21 @@
+Etapa 3. Mapear os Sinais de Alertas e Oportunidades
+Agora você vai fechar a arquitetura criando a Matriz Preditiva, categorizando as combinações de taxas que sinalizam antecipadamente ciclos de Queda, Estabilidade e Escala, além de definir o protocolo do ritual semanal de 10 minutos.
+
+Prompt da Etapa 3 (Continue no mesmo chat):
+
+text
+Copiar
+Atuando como meu arquiteto de Business Intelligence e diretor de operações, vamos finalizar o meu sistema construindo o MAPA DE SINAIS PREDITIVOS E O RITUAL SEMANAL DE GOVERNANÇA.
+
+Com base na Métrica Mãe e nas taxas que calibrámos, entregue:
+1. Mapa Preditivo de Sinais Antecipados (Tabela de 3 Cenários):
+   - Padrão Pré-Queda (Sinal Amarelo/Vermelho): Descreva os intervalos numéricos das taxas que sinalizam perda de tração de 1 a 2 semanas antes do faturamento cair.
+   - Padrão de Estabilidade (Operação Saudável): Descreva as faixas numéricas de operação em cruzeiro.
+   - Padrão Pré-Crescimento / Oportunidade de Escala: Descreva a combinação de taxas que indica autorização para ampliar investimentos/pauta.
+2. Identificação do Indicador Antecedente Primário: Aponte qual taxa de transição do meu funil atua como o sismógrafo antecedente primário que pisca primeiro.
+3. Checklist do Ritual Semanal de 10 Minutos: Um protocolo simples de 3 passos cronometrados (Alimentação de Dados -> Leitura Hierárquica -> Prompt de Acionamento da IA em caso de alerta) para manter meu sistema ativo.
+
+Apresente o resultado em formato de ferramentas de execução direta.
+Ação: Salve a matriz preditiva, o indicador antecedente e o checklist no bloco Parte 3: Mapeamento de Sinais e Leitura Preditiva do seu documento.
+
+CTA de avanço: Seu sistema de inteligência de dados está 100% estruturado e pronto para execução. Vamos para a revisão final e submissão.

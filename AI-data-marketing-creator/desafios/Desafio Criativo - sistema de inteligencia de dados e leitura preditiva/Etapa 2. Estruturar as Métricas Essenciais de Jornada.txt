@@ -1,0 +1,25 @@
+Etapa 2. Estruturar as Métricas Essenciais de Jornada
+Nesta etapa, você vai mapear a jornada do seu cliente em 3 etapas claras (Atenção, Intenção e Ação) e calibrar os limites numéricos de referência e o piso de alerta para cada taxa de conversão do seu funil.
+
+Prompt da Etapa 2 (Continue no mesmo chat):
+
+text
+Copiar
+Com base no objetivo e na Métrica Mãe que acabamos de definir, vamos estruturar as MÉTRICAS ESSENCIAIS DE JORNADA e calibrar os limites de saúde da minha operação.
+
+HISTÓRICO DISPONÍVEL DO MEU PROJETO:
+- Volume de Topo (Atenção - Alcance/Impressões): [INSIRA SEUS NÚMEROS RECENTES OU ESTIMADOS]
+- Volume de Meio (Intenção - Cliques/Leads/Contatos): [INSIRA SEUS NÚMEROS RECENTES OU ESTIMADOS]
+- Volume de Fundo (Ação - Vendas/Contratos): [INSIRA SEUS NÚMEROS RECENTES OU ESTIMADOS]
+
+Atuando como engenheiro de métricas de growth, me entregue:
+1. As 3 Métricas Essenciais de Transição: Identifique a métrica exata da minha jornada nas etapas de ATENÇÃO (Topo), INTENÇÃO (Meio) e AÇÃO (Fundo).
+2. Tabela de Calibração de Taxas por Etapa:
+   - Taxa 1 (Topo -> Meio / Atenção -> Intenção): Referência Saudável (%) e Limite de Alerta / Piso (%).
+   - Taxa 2 (Meio -> Fundo / Intenção -> Ação): Referência Saudável (%) e Limite de Alerta / Piso (%).
+3. Matriz Operacional de Monitoramento Semanal: Tabela de 4 colunas com: [Etapa/Taxa], [Referência Saudável], [Limite de Alerta/Piso] e [O que Investigar/Corrigir ao Disparar Alerta].
+
+Seja direto, prático e forneça os percentuais exatos para as réguas do meu negócio.
+Ação: Salve as tabelas e réguas geradas no bloco Parte 2: Estruturação de Métricas Essenciais (Base do Sistema) do seu documento.
+
+CTA de avanço: Métricas essenciais calibradas. Vamos construir o mapa de sinais preditivos para antecipar a tendência de faturamento.

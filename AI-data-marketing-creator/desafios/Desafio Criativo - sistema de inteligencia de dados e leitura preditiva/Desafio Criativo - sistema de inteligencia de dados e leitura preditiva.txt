@@ -1,0 +1,30 @@
+Desafio Criativo — Sistema de Inteligência de Dados e Leitura Preditiva
+O que você vai fazer
+Neste desafio integrado, você vai construir a arquitetura completa de inteligência e governança de dados do seu projeto digital. Você vai sair do monitoramento passivo de métricas de vaidade para criar um painel preditivo que antecipa crises de faturamento e isola rampas de aceleração de caixa.
+
+O objetivo é estabelecer a sua Métrica Mãe, derivar as Métricas Essenciais de Transição e calibrar as Réguas de Sinal (Alertas e Oportunidades), deixando o seu Creator Data Marketing System pronto para rodar na rotina semanal da sua operação.
+
+Ao final, você terá construído o Manual de Inteligência de Dados e Leitura Preditiva, documentado e pronto para ser o seu centro de comando de decisões.
+
+O que guia este desafio
+Você usa exclusivamente:
+
+A clareza sobre o seu objetivo comercial de 90 dias focado em receita e margem real.
+O princípio da hierarquia de dados: 1 Métrica Mãe no topo, sustentada por métricas de causa e diagnósticos de transição.
+A IA como parceira de inteligência para calibrar os limites numéricos e montar a matriz de leitura preditiva.
+Como o desafio funciona
+O desafio é dividido em etapas sequenciais, executadas fora da plataforma, no LLM de sua preferência. Você deve:
+
+Escolher um único LLM (ChatGPT, Gemini, Copilot, Claude ou similar).
+Criar um único chat focado nesta tarefa.
+Usar esse mesmo chat do início ao fim para acumular o contexto do seu projeto.
+Registrar cada resultado em um documento no Google Docs ou Microsoft Word (Online). (Atenção: A plataforma não executa o desafio e somente aceitará a submissão de links com acesso público do Google Docs ou Word.)
+Estrutura de cada etapa
+Cada etapa contém:
+
+Uma instrução clara do que observar ou decidir.
+O prompt exato para organizar seu pensamento no LLM.
+Uma ação prática obrigatória no seu Documento de Entrega.
+Um avanço consciente (CTA) para a próxima etapa.
+Regras essenciais
+⚠️ Não troque de chat no meio do desafio. Todo o histórico do seu modelo de negócios, ticket médio, histórico de taxas e limites calibrados deve permanecer ativo e acumulado no mesmo chat da IA.

@@ -1,0 +1,24 @@
+Etapa 1. Coroar a Métrica Central / Métrica Mãe
+Nesta etapa, você vai definir um objetivo comercial SMART de 90 dias para a sua empresa e isolar a única Métrica Mãe inegociável que valida o crescimento real de caixa, passando pelo teste de invalidação de métricas de vaidade.
+
+Prompt da Etapa 1 (Copie e cole na sua IA):
+
+text
+Copiar
+Você é um diretor sênior de estratégia de negócios e CFO analítico especializado em growth. Vamos definir o OBJETIVO COMERCIAL E A MÉTRICA MÃE do meu próprio projeto digital para os próximos 90 dias.
+
+DADOS DA MINHA OPERAÇÃO REAIS:
+- Nome do Meu Projeto / Empresa: [INSIRA O NOME DO SEU PROJETO]
+- Produto / Serviço Oferecido: [INSIRA O QUE VOCÊ VENDE E O TICKET MÉDIO EM R$]
+- Canais de Venda / Conversão: [INSIRA ONDE AS VENDAS OU LEADS SÃO FECHADOS: ex: Site, Instagram, WhatsApp, Hotmart]
+- Métricas que Acompanho Hoje: [LISTE OS NÚMEROS QUE CONSULTA HOJE: ex: seguidores, views, vendas]
+
+Atuando como consultor executivo, me entregue:
+1. Objetivo Mãe de 90 Dias: Formule um objetivo comercial específico, mensurável e temporal (SMART) focado em crescimento financeiro/operacional real para a minha empresa.
+2. Isolamento da Métrica Mãe: Defina qual é a ÚNICA Métrica Mãe inegociável deste objetivo — o número que, quando cresce, confirma que o objetivo está sendo cumprido.
+3. O Teste de Invalidação de Vaidade: Escolha uma métrica superficial que eu acompanhava (ex: seguidores ou alcance) e demonstre em 2 tópicos por que ela pode subir 50% enquanto o meu caixa fica totalmente zerado, provando a superioridade da Métrica Mãe.
+
+Seja analítico, cirúrgico e focado em governança de crescimento de caixa.
+Ação: No seu Google Drive ou OneDrive, crie um documento chamado Manual de Inteligência de Dados e Leitura Preditiva | Creator Data Marketing System. Cole o resultado deste prompt no bloco Parte 1: Definição da Métrica Central (Eixo do Sistema).
+
+CTA de avanço: Métrica Mãe coroada. Agora vamos derivar as métricas essenciais de transição que explicam as causas do resultado.
