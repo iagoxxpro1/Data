@@ -1,0 +1,38 @@
+PromptLab #4.1 — Diagnóstico de Ruído vs. Tendência
+"No mar de dados do marketing digital, oscilações diárias são apenas marolas. O verdadeiro analista sabe diferenciar o susto de um dia ruim do naufrágio de uma tendência de queda."
+
+Objetivo
+Capacitar o profissional a olhar para variações de curto prazo nos canais digitais com olhar analítico, evitando decisões precipitadas ou pânicos desnecessários. Este prompt funciona como um primeiro filtro para identificar se uma queda ou pico de alcance é apenas um ruído estatístico natural ou o início de um comportamento de mercado.
+
+O que preparar antes de copiar
+Atenção: Use este prompt logo no início da sua análise semanal ou ao se deparar com relatórios de curto prazo. O objetivo aqui é puramente diagnóstico e de calibração do seu olhar analítico. Não utilize este prompt para desenhar estratégias de conteúdo complexas ainda; primeiro precisamos entender se o gráfico está apenas "respirando" ou se há um problema real. Você precisará ter em mãos:
+
+Dados de Desempenho Recentes: Um histórico simples de pelo menos 7 dias da métrica que você deseja analisar (Alcance, Impressões, Cliques ou Engajamento).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, substitua os dados de exemplo pelos números reais do seu canal e rode no seu modelo de IA de preferência.
+
+Você é um analista de marketing digital sênior e especialista em data marketing.
+Vou te passar dados de desempenho de 7 dias de um canal digital para que você faça um diagnóstico frio e estatístico.
+ 
+Dados (formato: data | métrica | valor):
+01/05 | alcance | 1200
+02/05 | alcance | 980
+03/05 | alcance | 1150
+04/05 | alcance | 870
+05/05 | alcance | 1100
+06/05 | alcance | 950
+07/05 | alcance | 1050
+ 
+Com base nesses dados, responda de forma direta e analítica:
+1. Essa variação apresentada nos 7 dias é apenas um ruído momentâneo (oscilação normal do algoritmo/audiência) ou indica uma tendência real de queda/crescimento? Por quê?
+2. Quais outros fatores ou métricas secundárias eu deveria observar e cruzar antes de tomar qualquer decisão estratégica ou de conteúdo?
+3. Qual é o período mínimo ideal que devo analisar este canal para ter segurança estatística antes de fazer mudanças drásticas?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve te devolver uma leitura contextualizada dos números, apontando a volatilidade dos dados e, principalmente, justificando logicamente por que 7 dias costumam ser insuficientes para cravar uma tendência de longo prazo no marketing digital. Ela deve abrir sua mente para variáveis externas (como dias da semana e sazonalidade).
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir que você mude toda a sua estratégia de conteúdo ou mude o formato dos seus posts baseada estritamente nesses 7 dias de oscilação, ela falhou na postura analítica. Variações pequenas sem quebra de padrão drástica são ruídos, e a IA deve te alertar a não agir por impulso.
+
+Próximo passo
+Não mude nada nas suas redes ainda. Abra uma planilha de acompanhamento (Excel, Google Sheets) ou seu documento de report semanal e crie uma linha chamada "Fator de Ruído". Anote o diagnóstico que a IA te deu sobre essa semana e configure um alerta visual para cruzar esses dados novamente daqui a 14 e 30 dias. A tomada de decisão em Data Marketing só acontece quando o ruído se estabiliza em linha de tendência!
