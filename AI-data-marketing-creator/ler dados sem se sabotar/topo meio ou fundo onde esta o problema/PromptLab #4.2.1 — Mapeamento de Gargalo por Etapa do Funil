@@ -1,0 +1,36 @@
+PromptLab #4.2.1 — Mapeamento de Gargalo por Etapa do Funil
+"Crescer o topo do funil enquanto a base encolhe é como tentar encher um balde furado com uma mangueira de alta pressão. O verdadeiro analista de Data Marketing não comemora o aumento de alcance se a conversão está em queda livre."
+
+Objetivo
+Identificar com precisão matemática em qual etapa da jornada do usuário (Topo, Meio ou Fundo do Funil) a estratégia está perdendo tração. Este prompt ajuda o profissional a cruzar os dados de atração com os de conversão para isolar o problema real, evitando desperdício de tempo e orçamento em melhorias na etapa errada.
+
+O que preparar antes de copiar
+Atenção: Use este prompt quando estiver focado em performance e conversão. Ele serve para fazer um raio-x do seu ecossistema digital. Não o utilize ainda para criar soluções criativas ou novas campanhas; nossa única meta agora é localizar onde o fluxo de usuários está sendo interrompido. Você precisará ter em mãos:
+
+Métricas Semanais Comparativas: Os dados consolidados da semana atual versus a semana anterior, cobrindo desde a atração inicial (Alcance/Impressões), passando pela consideração (Engajamento/Cliques), até o objetivo final (Conversões/Leads).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, substitua os indicadores de exemplo pelos dados reais das suas campanhas e rode no seu modelo de IA de preferência.
+
+Você é um analista de marketing digital sênior especializado em diagnóstico de funil e otimização de taxa de conversão (CRO).
+Vou te passar métricas comparativas de desempenho de um projeto digital desta semana. Me ajude a identificar de forma lógica e fria em qual etapa do funil está o nosso principal problema.
+ 
+Métricas coletadas:
+- Alcance total: 42.000 (semana passada: 38.000) -> cresceu
+- Impressões: 61.000 (semana passada: 55.000) -> cresceu
+- Taxa de engajamento: 1,8% (semana passada: 3,2%) -> caiu
+- Cliques no link: 210 (semana passada: 380) -> caiu
+- Conversões (leads): 18 (semana passada: 29) -> caiu
+ 
+Com base estritamente nesses dados e no comportamento comparativo, responda:
+1. Em qual etapa do funil (topo, meio ou fundo) está o principal gargalo operacional e a quebra de fluxo deste projeto?
+2. Explique a dinâmica que está acontecendo: por que o crescimento do topo (alcance/impressões) não está se refletindo no fundo do funil (conversões)?
+3. Quais são as duas principais hipóteses que podem justificar essa queda acentuada no engajamento e nos cliques, mesmo com mais pessoas vendo o conteúdo?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve apontar categoricamente que o problema está no Meio do Funil (consideração/interesse). Ela precisa explicar que a atração (Topo) vai muito bem, mas o conteúdo ou a chamada para ação falhou em reter e direcionar o usuário, gerando uma reação em cadeia que esvaziou o fundo do funil (Leads).
+
+Atenção (Sinal Vermelho)
+Se a IA disser que você precisa investir mais dinheiro em tráfego pago para aumentar o alcance para "compensar" a queda, desconsidere. No Data Marketing, aumentar a entrada de pessoas em um funil que está quebrado no meio é queimar dinheiro. A IA deve focar o diagnóstico na retenção e na eficiência da página ou do criativo.
+
+Próximo passo
+Abra o seu documento de Mapeamento de Campanhas/Funil (ou crie uma seção de diagnóstico no seu relatório). Registre o gargalo identificado e as hipóteses levantadas pela IA. Deixe anotado um plano de auditoria para a próxima semana focado exclusivamente nos elementos do Meio do Funil: a qualidade da promessa do anúncio, o link da bio/arrasta para cima e o tempo de carregamento da página de destino.

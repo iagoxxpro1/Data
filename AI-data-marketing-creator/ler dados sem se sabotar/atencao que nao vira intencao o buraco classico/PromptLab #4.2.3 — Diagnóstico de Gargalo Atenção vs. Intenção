@@ -1,0 +1,46 @@
+PromptLab #4.2.3 — Diagnóstico de Gargalo Atenção vs. Intenção
+"Visualizações massivas alimentam o ego, mas são as métricas de intenção profunda que alimentam o negócio. O papel do analista de Data Marketing é descobrir quando um conteúdo é apenas um espetáculo passageiro ou um verdadeiro ímã de clientes qualificados."
+
+Objetivo
+Capacitar o analista a diferenciar a atração superficial (atenção de passagem) do interesse real e qualificado (intenção de consumo/ação). Este prompt ensina a cruzar métricas de entrega e consumo rápido (como visualizações e curtidas) com indicadores de profundidade (salvamentos, comentários e cliques), isolando os motivos pelos quais um conteúdo viraliza, mas falha em reter o usuário no funil.
+
+O que preparar antes de copiar
+Atenção: Utilize este prompt quando estiver comparando a eficiência de diferentes formatos ou linhas editoriais na mesma semana. O objetivo aqui é entender a qualidade e o impacto real de cada publicação, e não apenas o seu volume de entrega. Você precisará ter em mãos:
+
+Métricas Detalhadas de Dois Conteúdos: O alcance, as impressões/visualizações de retenção e as métricas de engajamento divididas entre públicas/superficiais (curtidas) e profundas/de intenção (comentários, salvamentos e cliques direcionados).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, alimente as seções do Conteúdo A e B com o histórico real das suas redes e submeta à IA.
+
+Você é um analista de marketing digital sênior, estrategista de conteúdo focado em dados e comportamento do consumidor.
+Vou te passar métricas detalhadas de dois conteúdos publicados na mesma semana em canais digitais. Me ajude a analisar friamente se existe um gargalo oculto entre a atenção capturada e a intenção gerada na audiência.
+ 
+Conteúdo A (Reels):
+- Alcance: 55.000
+- Visualizações completas: 28.000
+- Curtidas: 420
+- Comentários: 18
+- Salvamentos: 35
+- Cliques no perfil: 90
+ 
+Conteúdo B (Carrossel):
+- Alcance: 12.000
+- Impressões: 15.500
+- Curtidas: 680
+- Comentários: 74
+- Salvamentos: 310
+- Cliques no perfil: 420
+ 
+Com base estritamente no cruzamento e proporção dessas métricas, responda:
+1. Qual dos dois conteúdos apresenta um claro gargalo entre atenção capturada e intenção real gerada?
+2. Quais métricas específicas e proporções matemáticas indicam esse gargalo com mais clareza?
+3. Quais são as duas hipóteses mercadológicas ou de roteiro mais prováveis para explicar esse comportamento discrepante entre os dois posts?
+4. Qual ajuste simples e prático de estrutura eu poderia testar no conteúdo problemático para melhorar de imediato a conversão de atenção em intenção?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve identificar de imediato que o Conteúdo A possui um gargalo crítico. Apesar de ter um alcance massivo (55.000) e ótima retenção em vídeo (28.000 visualizações completas), ele gera pouquíssima ação de valor (apenas 35 salvamentos e 18 comentários). Em contrapartida, o Conteúdo B é altamente eficiente: mesmo com alcance menor, gera uma intenção de consumo e relacionamento muito mais profunda (310 salvamentos e 420 cliques no perfil).
+
+Atenção (Sinal Vermelho)
+Se a IA disser que o Conteúdo A foi o vencedor da semana apenas porque teve 55.000 de alcance, ela falhou sob a perspectiva do Data Marketing. O foco deste laboratório é a eficiência da conversão de atenção para intenção. A IA precisa te alertar que o Conteúdo A é um "balde furado" de atenção e que o Carrossel (Conteúdo B) construiu um público infinitamente mais valioso.
+
+Próximo passo
+Abra o seu documento de Diretrizes e Linhas Editoriais (ou crie um espaço de anotações chamado "Filtro de Intenção de Conteúdo"). Registre o diagnóstico desse comportamento. Pegue o ajuste prático sugerido pela IA (geralmente uma mudança na chamada para ação ou no gancho final do vídeo) e aplique como uma regra obrigatória de roteiro nos próximos 3 Reels que o time ou você forem produzir.

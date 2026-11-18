@@ -1,0 +1,36 @@
+
+PromptLab #4.4 — Interpretar Gráfico com Apoio de IA
+"Gráficos contam histórias, mas os números não falam sozinhos. O papel do analista não é apenas descrever o desenho da linha, mas sim traduzir os vales e os picos em comportamento humano."
+
+Objetivo
+Ensinar o profissional a traduzir descrições visuais de dashboards em análises estratégicas com o suporte da IA. Esse prompt transforma a inteligência artificial em um parceiro de brainstorming analítico, gerando hipóteses de negócio para explicar variações bruscas em gráficos de linha e definindo o que monitorar a seguir.
+
+O que preparar antes de copiar
+Atenção: Use este prompt, especificamente após extrair relatórios visuais da sua plataforma de analytics (Meta Business Suite, TikTok Analytics, Google Analytics, etc.). O objetivo aqui é puramente interpretativo e de levantamento de hipóteses; não tome ações corretivas imediatas antes de validar os pontos sugeridos. Você precisará ter em mãos:
+
+A leitura visual do seu gráfico de linha: O comportamento desenhado pela métrica principal (neste caso, Alcance Orgânico) ao longo do período analisado, identificando onde ocorreram as subidas, as quedas livres e as estabilizações.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, altere a descrição dos pontos do gráfico com o comportamento real que você está observando no seu dashboard e envie para a IA.
+
+Você é um analista de dados de marketing experiente e consultor de estratégia digital.
+Vou te descrever o comportamento visual de uma linha de tendência em um gráfico do meu dashboard. Preciso que você me ajude a decodificar essa "história" e transformar o visual em insights de negócio.
+ 
+Gráfico: Linha do tempo de alcance orgânico — últimas 4 semanas
+O que estou observando no comportamento da linha:
+- Semanas 1 e 2: Crescimento gradual e consistente, subindo de 5.000 para 7.200
+- Semana 3: Queda brusca, despencando para 4.800
+- Semana 4: Leve recuperação e tentativa de estabilização, subindo para 5.500
+ 
+Com base nessa leitura visual do gráfico, me ajude com as seguintes tarefas:
+1. Interprete tecnicamente o que esse padrão de "montanha-russa" (crescimento -> queda livre -> leve retorno) pode estar indicando sobre o canal.
+2. Levante pelo menos 2 hipóteses mercadológicas ou operacionais plausíveis sobre o que pode ter causado o colapso específico na Semana 3.
+3. Sugira exatamente quais comportamentos na linha do gráfico eu deveria observar na Semana 5 para confirmar ou descartar cada uma das hipóteses levantadas.
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve ir muito além de repetir os números que você digitou. Ela deve trazer conceitos como quebra de padrão, efeito rebote ou sazonalidade. Ao levantar as hipóteses da Semana 3, ela deve sugerir causas provisórias lógicas (ex: mudança drástica no formato de postagem naquela semana, punição algorítmica temporária, ou um evento externo de grande magnitude capturando a atenção da internet).
+
+Atenção (Sinal Vermelho)
+Se a IA cravar uma única causa definitiva para a queda na semana 3 (ex: "Sua queda ocorreu porque seu conteúdo ficou ruim"), ela errou a postura de Data Marketing. Sem dados de conteúdo ou contexto externo, a IA só pode levantar hipóteses e sugerir pontos de validação. O bom analista trabalha com cenários possíveis, nunca com adivinhação.
+
+Próximo passo
+Abra o seu arquivo de Histórico de Contexto/Logbook do projeto (onde você anota o que aconteceu fora das métricas). Vá até a linha correspondente à Semana 3 e faça uma auditoria: o que foi publicado ali? Houve alguma falha técnica, alteração de frequência ou feriado prolongado? Anote as hipóteses da IA ao lado e use a Semana 5 como o seu ponto de desempate estatístico para entender se o canal retomará o crescimento ou se estabilizará em um novo patamar.

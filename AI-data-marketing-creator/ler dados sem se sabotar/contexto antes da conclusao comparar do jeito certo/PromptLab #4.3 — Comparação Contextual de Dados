@@ -1,0 +1,44 @@
+PromptLab #4.3 — Comparação Contextual de Dados
+"Comparar métricas isoladas sem entender o contexto é o erro mais comum do marketing de achismos. No Data Marketing, comparar duas coisas sob condições totalmente diferentes não é análise, é injustiça estatística."
+
+Objetivo
+Desenvolver o senso crítico do analista para identificar falsas equivalências em relatórios de performance. Este prompt serve para blindar a sua tomada de decisão contra análises superficiais, ensinando a isolar variáveis (como dia da semana, horário e comportamento de consumo) antes de decretar o sucesso ou fracasso de um conteúdo.
+
+O que preparar antes de copiar
+Atenção: Use este prompt quando estiver cruzando os dados de diferentes publicações para entender o que performa melhor. Não utilize os insights gerados aqui para cortar formatos da sua grade de imediato; o foco agora é aprender a criar testes limpos e metodologicamente corretos. Você precisará ter em mãos:
+
+Dados de dois conteúdos distintos: O formato, o dia da semana, o horário de publicação, o tipo de distribuição (orgânico ou pago) e as métricas de entrega e interação (Alcance e Engajamento) de ambos.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, altere os dados do Conteúdo A e B com os exemplos reais do seu histórico e submeta à IA.
+
+Você é um analista de marketing digital sênior e cientista de dados focado em growth marketing.
+Vou te apresentar dois conteúdos com desempenhos consideravelmente diferentes. Preciso que você me ajude a avaliar de forma fria se essa comparação é estatisticamente válida ou se estamos diante de um viés de contexto.
+ 
+Conteúdo A:
+- Formato: Reels
+- Data: sábado, 10h
+- Distribuição: orgânico
+- Alcance: 8.200
+- Engajamento: 5,1%
+ 
+Conteúdo B:
+- Formato: Reels
+- Data: terça-feira, 23h
+- Distribuição: orgânico
+- Alcance: 3.100
+- Engajamento: 2,8%
+ 
+Com base nessas informações, responda detalhadamente:
+1. Essa comparação direta é justa? Quais variáveis contextuais latentes estão interferindo pesadamente no resultado de cada um?
+2. Para que uma comparação entre esses dois formatos/posts fosse 100% confiável e metodologicamente limpa, o que precisaria ser equalizado (mantido constante)?
+3. Qual conclusão (se é que existe alguma) posso tirar com real segurança olhando estritamente para esses dados do jeito que estão?
+4. O que e como eu deveria desenhar como um teste A/B para comparar a eficiência desses conteúdos de forma cientificamente válida no futuro?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve ser categórica ao dizer que a comparação não é justa. Ela precisa apontar que fatores como o dia da semana (sábado vs. terça) e, principalmente, o horário (10h da manhã vs. 23h da noite) alteram completamente o comportamento de entrega do algoritmo e a atenção do usuário, invalidando uma comparação direta de performance.
+
+Atenção (Sinal Vermelho)
+Se a IA simplesmente disser que "o Conteúdo A é muito melhor que o B e que você deve focar em postar aos sábados", o diagnóstico está errado. O Data Marketing exige o isolamento de variáveis. Afirmar que o conteúdo B é ruim sem considerar que ele foi postado no final da noite de uma terça-feira é um erro metodológico grave que a IA deve apontar.
+
+Próximo passo
+Abra o seu documento ou planilha de Matriz de Testes e Experimentos (ou crie uma seção no seu plano de validação). Em vez de descartar os horários ou o formato do Conteúdo B, monte o escopo de um teste real: agende o mesmo estilo de conteúdo para os mesmos dias e horários alternados nas próximas semanas. Registre nesse documento que as decisões desse trimestre só serão tomadas após o isolamento dessas variáveis contextuais.

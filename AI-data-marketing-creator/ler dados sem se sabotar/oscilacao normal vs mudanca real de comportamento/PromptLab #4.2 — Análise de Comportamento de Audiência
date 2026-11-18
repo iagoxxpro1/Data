@@ -1,0 +1,36 @@
+PromptLab #4.2 — Análise de Comportamento de Audiência
+"Dados de vaidade olham para o volume; dados de comportamento olham para a constância. Quando o engajamento cai de forma silenciosa e contínua, a audiência não está apenas sumindo — ela está mudando de hábito."
+
+Objetivo
+Identificar declínios ou picos contínuos de engajamento ao longo de um mês completo. Este prompt ajuda a separar o ruído diário de um sinal claro de desgaste de conteúdo ou mudança real no interesse do seu público, permitindo uma reação antes que a queda se torne crônica.
+
+O que preparar antes de copiar
+Atenção: Aplique este prompt ao fechar ciclos mensais de análise. O objetivo aqui é macro: entender a saúde do relacionamento com a sua base. Não use este prompt para avaliar posts isolados, mas sim a temperatura geral do canal. Você precisará ter em mãos:
+
+Métricas Consolidadas por Semana: O valor médio da sua principal métrica de interação (como taxa de engajamento, retenção média ou compartilhamentos) dividido detalhadamente pelas últimas 4 semanas.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, alimente com as médias semanais reais das suas redes e rode na sua IA.
+
+Você é um analista de marketing sênior especializado em comportamento de audiência e ciência de dados.
+Vou te passar dados consolidados de desempenho das últimas 4 semanas de um canal digital para entender a saúde do nosso engajamento.
+ 
+Formato: semana | métrica | valor médio semanal
+Semana 1 | engajamento médio | 4,2%
+Semana 2 | engajamento médio | 3,8%
+Semana 3 | engajamento médio | 3,5%
+Semana 4 | engajamento médio | 3,1%
+ 
+Com base estritamente na progressão desses dados, responda:
+1. Existe um padrão consistente de queda (tendência linear negativa) ou os números ainda se enquadram em uma oscilação comum de mercado?
+2. Olhando para a velocidade da mudança entre as semanas, alguma delas apresenta um comportamento atípico? O que mercadologicamente pode causar esse tipo de movimento?
+3. No seu diagnóstico, o cenário aponta para um ruído técnico passageiro ou para uma mudança real de comportamento da audiência em relação ao conteúdo entregue?
+4. Quais são os 3 gatilhos ou métricas específicas que eu precisaria observar nas próximas 2 semanas para confirmar ou refutar essa hipótese?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve detectar que a queda apresentada no exemplo é linear e progressiva (de 4,2% para 3,1%), o que sinaliza um alerta real e não uma oscilação normal de algoritmo. O diagnóstico deve vir acompanhado de hipóteses comportamentais (ex: fadiga de formato, mudança de interesse ou desalinhamento de público).
+
+Atenção (Sinal Vermelho)
+Se a IA minimizar uma queda constante de quatro semanas consecutivas dizendo que "é normal o algoritmo mudar", rejeite. No data marketing, quatro pontos consecutivos de queda em uma média semanal são um forte indício de que o conteúdo perdeu tração com a audiência, e a IA precisa ser firme em te alertar sobre isso.
+
+Próximo passo
+Abra o seu documento de Análise de Cohort/Audiência ou crie uma seção no seu relatório mensal chamada "Janela de Validação". Registre as hipóteses levantadas pela IA e crie um bloco de notas simples para as próximas duas semanas. Sua única missão nelas será monitorar os gatilhos sugeridos para validar se o público saturou do formato atual ou se o topo de funil trouxe pessoas desqualificadas para a página.

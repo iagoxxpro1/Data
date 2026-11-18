@@ -1,0 +1,37 @@
+PromptLab #4.2.4 — Diagnóstico Sistêmico de Funil
+"Métricas de marketing digital funcionam como uma fileira de dominós: quando a primeira peça importante cai na direção errada, todas as etapas seguintes despencam por consequência. O analista sistêmico não tenta consertar o último dominó; ele descobre onde a queda começou."
+
+Objetivo
+Desenvolver uma visão holística e integrada do funil de marketing. Este prompt ensina o analista a rastrear o efeito cascata provocado por uma quebra de desempenho, diferenciando problemas isolados na base do funil de erros originados nas etapas iniciais de engajamento e consideração.
+
+O que preparar antes de copiar
+Atenção: Este prompt exige uma visão macro e comparativa de todo o seu sistema de tráfego e conversão. Não utilize este prompt para fazer diagnósticos diários; seu foco é a análise de ciclos completos de campanha. Você precisará ter em mãos:
+
+O Relatório Comparativo de Ponta a Ponta: Os dados completos e sequenciais da semana atual confrontados com os da semana anterior, cobrindo Alcance, Engajamento, Cliques, Visitas e Conversões Finais.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, alimente com o histórico de dados comparativos das suas campanhas e envie para a IA.
+
+Você é um analista de marketing digital sênior, arquiteto de funis e especialista em inteligência de dados aplicada ao growth marketing.
+Vou te passar dados completos de funil de duas semanas consecutivas do meu projeto. Me ajude a realizar um diagnóstico sistêmico para identificar onde está a quebra real e originária do nosso sistema.
+ 
+Semana atual vs semana anterior:
+- Alcance: 38.000 vs 39.500 (queda de 3,8%)
+- Taxa de engajamento: 2,1% vs 3,4% (queda de 38%)
+- Cliques no link: 190 vs 430 (queda de 55%)
+- Visitas à página: 175 vs 410 (queda de 57%)
+- Conversões: 9 vs 18 (queda de 50%)
+ 
+Com base no comportamento em cascata desses dados, forneça o seguinte diagnóstico solicitado:
+1. Percorra o funil de cima para baixo e aponte: onde exatamente ocorre a primeira quebra estatisticamente significativa de eficiência?
+2. Analisando o efeito cascata, as quedas brutais nas etapas seguintes (cliques, visitas e conversões) são apenas consequências técnicas dessa primeira quebra ou você detecta problemas independentes e falhas paralelas em outras etapas do funil?
+3. Se o meu time tivesse recursos limitados e precisasse agir em apenas uma etapa do funil nas próximas 48 horas, qual seria o ponto de foco único e obrigatório?
+4. Qual hipótese mercadológica, operacional ou de produto você levantaria para explicar a quebra identificada?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve identificar de pronto que a queda no Alcance é irrelevante (-3,8%), mas que o verdadeiro colapso começa na Taxa de Engajamento (-38%). Ela deve explicar de forma sistêmica que a queda brutal nas vendas (-50%) não aconteceu porque a página de vendas parou de funcionar, mas simplesmente porque o volume de cliques desabou na etapa anterior, esvaziando o meio e o fundo do funil.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir que você precisa refazer o design da sua página de vendas ou dar descontos no produto porque as conversões caíram pela metade, desconsidere. O Data Marketing sistêmico prova que a taxa de conversão de cliques para visitas se manteve estável (as pessoas que clicaram continuaram chegando na página na mesma proporção). O erro está na atratividade e no engajamento inicial do criativo/conteúdo, e a IA deve focar sua energia ali.
+
+Próximo passo
+Abra o seu documento de Mapa de Diagnósticos e Sprints Globais (ou crie um bloco em seu arquivo de performance chamado "Análise de Efeito Cascata"). Registre o ponto central do colapso identificado pela IA. Esqueça alterações na página de vendas por enquanto. Bloqueie a agenda do time ou a sua nas próximas horas para auditar e reescrever as chamadas de ação e os ganchos dos conteúdos que geram os cliques. Documente essa decisão para que no próximo fechamento de ciclo você possa validar se a correção no topo estabilizou o restante da engrenagem.

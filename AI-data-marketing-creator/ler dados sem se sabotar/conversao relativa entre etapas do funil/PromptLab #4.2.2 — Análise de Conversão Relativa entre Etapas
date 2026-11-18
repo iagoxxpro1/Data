@@ -1,0 +1,37 @@
+PromptLab #4.2.2 — Análise de Conversão Relativa entre Etapas
+"Olhar apenas para a taxa de conversão final é um erro que esconde as grandes vitórias e derrotas da sua estratégia. No Data Marketing, o segredo está na conversão relativa: entender a eficiência real de cada passagem de bastão dentro da jornada."
+
+Objetivo
+Capacitar o analista a calcular e interpretar as taxas de conversão relativa entre etapas consecutivas do funil. Este prompt ajuda a dar precisão cirúrgica ao diagnóstico, localizando exatamente qual transição está apresentando a maior quebra proporcional de eficiência para priorizar os testes onde o impacto será maior.
+
+O que preparar antes de copiar
+Atenção: Use este prompt logo após mapear os gargalos gerais. Não utilize este prompt para buscar insights holísticos; o foco aqui é puramente analítico e matemático. Você precisará ter em mãos:
+
+O Volume Absoluto de Cada Etapa: Os números brutos e sequenciais de toda a jornada, desde o primeiro ponto de contato (Alcance) até o fechamento (Conversão/Venda), passando pelos micro-passos intermediários (Cliques e Visitas à Página).
+Prompt de instrução
+Copie o texto exato da caixa abaixo, atualize os números brutos com os dados extraídos das suas ferramentas de analytics e submeta à IA.
+
+Você é um analista de marketing digital sênior, especialista em engenharia de funil e métricas de performance.
+Vou te passar dados brutos de um funil digital desta semana. Me ajude a calcular as taxas de conversão relativa entre as etapas e identificar cientificamente onde está a maior perda de eficiência da nossa engrenagem.
+ 
+Dados do funil:
+- Pessoas que viram o conteúdo (alcance): 40.000
+- Pessoas que interagiram (engajamento): 1.200
+- Pessoas que clicaram no link: 280
+- Pessoas que chegaram à página: 265
+- Pessoas que converteram (lead/venda): 12
+ 
+Com base estritamente nesses números, responda detalhadamente:
+1. Qual é a taxa de conversão relativa (proporcional) entre cada par de etapas consecutivas? (ex: de Alcance para Engajamento, de Engajamento para Cliques, etc.)
+2. Em qual transição específica de passos está a maior perda proporcional de usuários?
+3. Essa quebra identificada indica um gargalo real e preocupante ou o comportamento se mantém dentro de um padrão de mercado esperado para esse tipo de funil?
+4. Qual é o ajuste mais simples, prático e de rápida execução que eu poderia desenhar para testar primeiro focado em melhorar especificamente essa transição de pior performance?
+Copiado
+Check de qualidade e próximo passo
+Como saber se deu certo? A IA deve fazer os cálculos matemáticos corretamente e apresentar os resultados em porcentagem de transição (ex: de 1.200 engajados para 280 cliques = ~23,3% de conversão nessa etapa). Ela deve destacar o ponto de maior fricção (no exemplo, o abismo entre o volume de Cliques na Página/265 e as Vendas Reais/12, que representa uma conversão de ~4,5%).
+
+Atenção (Sinal Vermelho)
+Se a IA ignorar a matemática relativa e calcular todas as etapas baseando-se apenas no Alcance Inicial (40.000), ela errou a premissa. O objetivo deste PromptLab é entender a perda de eficiência passo a passo, e a resposta deve refletir o cálculo relativo entre etapas vizinhas.
+
+Próximo passo
+Abra o seu documento de Arquitetura de Funil ou crie uma tabela em seu arquivo de relatórios semanais chamada "Taxas Relativas de Transição". Alimente essa planilha com as porcentagens geradas e destaque em vermelho a transição apontada como gargalo pela IA. Use o ajuste prático sugerido por ela para criar uma tarefa prioritária em sua rotina de testes da próxima semana, focando em otimizar a experiência do usuário exatamente nessa quebra de fluxo.
