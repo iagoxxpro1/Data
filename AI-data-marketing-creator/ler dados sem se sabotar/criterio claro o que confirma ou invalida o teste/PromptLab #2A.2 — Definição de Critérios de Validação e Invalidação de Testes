@@ -1,0 +1,38 @@
+PromptLab #2A.2 — Definição de Critérios de Validação e Invalidação de Testes
+"Definir previamente o número exato que valida ou invalida uma hipótese é o que impede o gestor de prolongar testes fracassados por apego emocional."
+
+Objetivo
+Estabelecer a régua quantitativa de decisão (baseline, percentual de variação para validação, critérios de invalidação) e mapear variáveis externas de distorção antes de colocar o experimento em execução. Este prompt atua como um Especialista em Experimentação de Marketing Digital.
+
+O que preparar antes de copiar
+A Hipótese Estruturada: A declaração do teste contendo Ação, Expectativa, Métrica e Período delimitados.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em experimentação de marketing digital.
+
+Vou te passar uma hipótese estruturada.
+Me ajude a definir os critérios de validação antes de iniciar o teste.
+
+Hipótese:
+AÇÃO: publicar carrossel com checklist de ferramentas de IA toda terça-feira
+EXPECTATIVA: aumentar salvamentos e engajamento de valor
+MÉTRICA: taxa de salvamento por alcance
+PERÍODO: 3 semanas (ciclos de 7 dias cada)
+
+Defina:
+1. Qual métrica específica vai ser observada semana a semana?
+2. Qual resultado confirma que a hipótese funcionou?
+(seja específico: percentual de variação, comparação com baseline)
+3. Qual resultado invalida a hipótese e indica que o teste deve ser encerrado?
+4. Existe alguma variável externa que poderia distorcer o resultado
+e que precisa ser controlada ou monitorada?
+Copiado
+Check de qualidade e próximo passo
+A IA deve definir uma métrica clara de observação semanal (taxa de salvamento sobre alcance), fixar o piso percentual sobre a média histórica (baseline) que confirma o sucesso do teste, definir a margem de queda/estagnação que invalida o experimento e mapear fatores de interferência (ex: distribuição atípica ou sazonalidade).
+
+Atenção (Sinal Vermelho)
+Se a IA trouxer respostas qualitativas como "se salvamentos aumentarem significativamente", reoriente-a: "Substitua termos qualitativos por uma meta percentual exata sobre o baseline (ex: alta de 20% sobre a média das últimas 4 semanas)".
+
+Próximo passo
+Registre os números de validação e invalidação na sua planilha de testes antes de publicar a primeira peça do experimento.

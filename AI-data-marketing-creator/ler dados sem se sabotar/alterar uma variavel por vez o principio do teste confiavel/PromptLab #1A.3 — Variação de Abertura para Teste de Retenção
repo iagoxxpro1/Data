@@ -1,0 +1,42 @@
+PromptLab #1A.3 — Variação de Abertura para Teste de Retenção
+"Mudar o tema, o formato e a oferta ao mesmo tempo impede a leitura de causa e efeito; isolar estritamente os primeiros 5 segundos é o caminho para descobrir o que realmente prende a atenção da sua audiência."
+
+Objetivo
+Gerar 3 variações focadas exclusivamente na abertura de um vídeo (pergunta direta, dado surpreendente e provocação), mantendo o restante do conteúdo idêntico para isolar o impacto do gancho na taxa de retenção dos primeiros 30 segundos. Este prompt atua como um Especialista em Experimentação de Conteúdo Digital.
+
+O que preparar antes de copiar
+O Contexto do Vídeo: O tema, a abertura atual, o problema de retenção identificado e a variável isolada para o teste.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em experimentação de conteúdo digital.
+
+Vou te passar o contexto de um conteúdo que quero melhorar.
+Quero testar APENAS UMA variável: a abertura do vídeo (primeiros 5 segundos).
+Todos os outros elementos permanecem iguais.
+
+Contexto do conteúdo:
+- Formato: Reels
+- Tema: 'Como organizar sua semana de trabalho com IA'
+- Abertura atual: 'Hoje eu vou te ensinar a organizar sua semana usando IA.'
+- Problema identificado: retenção nos primeiros 30s está abaixo de 40%
+- Hipótese: uma abertura com pergunta direta pode aumentar a retenção inicial
+
+Me gere 3 variações APENAS para a abertura do vídeo:
+1. Versão com pergunta direta ao espectador
+2. Versão com dado ou estatística surpreendente
+3. Versão com provocação ou afirmação controversa
+
+Para cada versão, indique:
+- O texto da abertura
+- Por que essa abordagem pode aumentar a retenção
+- Qual métrica específica confirma que funcionou
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar exatamente 3 ganchos curtos de até 5 segundos com suas respectivas justificativas psicológicas/comportamentais, definindo a taxa de retenção inicial (ex: retenção nos primeiros 3s e 30s) como a métrica de validação.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar reescrever o roteiro inteiro do Reels, reoriente-a: "Ajuste o foco. Mantenha apenas a sugestão dos primeiros 5 segundos de fala/texto do gancho".
+
+Próximo passo
+Escolha a versão de gancho priorizada, grave o vídeo mantendo o corpo do roteiro inalterado e analise o gráfico de retenção 48 horas após a publicação.

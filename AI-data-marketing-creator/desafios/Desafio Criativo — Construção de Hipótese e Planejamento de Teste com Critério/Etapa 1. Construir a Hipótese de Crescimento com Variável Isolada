@@ -1,0 +1,27 @@
+Etapa 1. Construir a Hipótese de Crescimento com Variável Isolada
+Nesta etapa, você vai pegar o principal ponto de melhoria ou gargalo do seu canal/negócio e transformá-lo em uma hipótese técnica forte, isolando estritamente a variável a ser alterada.
+
+Prompt da Etapa 1 (Copie e cole na sua IA):
+
+text
+Copiar
+Você é um especialista em growth marketing e engenheiro de experimentação. Vamos construir uma HIPÓTESE DE CRESCIMENTO precisa e testável para o meu projeto digital.
+
+CONTEXTO DA MINHA OPERAÇÃO:
+- Nome do Projeto: [INSIRA O NOME DO SEU PROJETO]
+- Produto / Oferta Principal: [INSIRA O QUE VOCÊ VENDE E O TICKET MÉDIO]
+- Ponto de Perda / Gargalo Atual: [INSIRA O PROBLEMA: ex: baixa retenção nos primeiros 5s, poucos cliques no link da bio, queda de salvamentos em carrosséis]
+- Formato Atual Utilizado: [INSIRA O FORMATO PRINCIPAL: ex: Reels, Carrossel, Vídeo Longo]
+
+Atuando como auditor de testes, me entregue:
+1. Isolamento da Variável Única: Defina a ÚNICA variável que será alterada no teste (ex: apenas os primeiros 5s de gancho, apenas o CTA do último slide, apenas a thumbnail) mantendo todo o resto inalterado.
+2. Declaração da Hipótese Estruturada: Escreva a hipótese de crescimento preenchendo exatamente a estrutura:
+- AÇÃO: [O que será feito de diferente de forma cirúrgica]
+- EXPECTATIVA: [Qual mudança comportamental/desempenho se espera da audiência]
+- MÉTRICA: [Qual indicador exato será medido para comprovar o efeito]
+3. Classificação de Força da Hipótese: Avalie se essa hipótese é FRACA, MÉDIA ou FORTE para ser executada agora e faça os ajustes necessários para deixá-la 100% pronta para o teste.
+
+Seja analítico, cirúrgico e focado em testes limpos.
+Ação: No seu Google Drive ou OneDrive, crie um documento chamado Manual de Experimentação e Plano de Teste com Critério | Creator Growth System. Cole o resultado deste prompt no bloco Parte 1: Construção de Hipótese de Crescimento (Base do System).
+
+CTA de avanço: Hipótese forte construída e variável isolada. Agora vamos estruturar o plano de teste com critérios rigorosos de validação.

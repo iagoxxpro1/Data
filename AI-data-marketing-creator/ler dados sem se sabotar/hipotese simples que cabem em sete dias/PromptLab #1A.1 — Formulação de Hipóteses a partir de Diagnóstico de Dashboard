@@ -1,0 +1,38 @@
+PromptLab #1A.1 — Formulação de Hipóteses a partir de Diagnóstico de Dashboard
+"Dados sem hipótese geram reatividade; transformar a leitura do painel em testes estruturados é o que separa a gestão orientada a growth do mero achismo."
+
+Objetivo
+Processar o diagnóstico de queda de engajamento e salvamentos do dashboard semanal e traduzi-lo em 2 hipóteses simples, testáveis e com métricas de validação claras para execução em até 7 dias. Este prompt atua como um Especialista em Growth Marketing Orientado por Dados.
+
+O que preparar antes de copiar
+O Diagnóstico de Dados do Dashboard: Os números recentes de alcance, taxa de engajamento, salvamentos e padrão de publicação observados na semana.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em growth marketing orientado por dados.
+
+Vou te passar um diagnóstico de dados observado no dashboard desta semana.
+Me ajude a transformar esse diagnóstico em hipóteses simples e testáveis
+que possam ser executadas em até 7 dias.
+
+Diagnóstico observado:
+- Alcance estável nas últimas 3 semanas (média de 35.000)
+- Taxa de engajamento caiu de 4,1% para 2,3% nas últimas 2 semanas
+- Salvamentos caíram 40% no mesmo período
+- Conteúdo publicado: mesmo formato (carrossel) e mesmos horários
+- Nenhuma mudança de estratégia foi feita
+
+Com base nesse diagnóstico:
+1. Formule 2 hipóteses simples e testáveis para investigar a queda de engajamento.
+2. Para cada hipótese, indique: qual ação testar, o que se espera observar
+e qual métrica indicará se o teste funcionou.
+3. Qual das duas hipóteses você testaria primeiro e por quê?
+Copiado
+Check de qualidade e próximo passo
+A IA deve entregar 2 hipóteses estruturadas (ex: saturação de formato/tema ou falta de utilidade prática/salvabilidade no carrossel), definindo a ação de teste de 7 dias, o resultado esperado, a métrica de validação e a justificativa de priorização da primeira hipótese.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir estratégias genéricas sem definir a métrica exata de validação do teste, reoriente-a: "Indique a métrica percentual exata que confirmará a validação ou invalidação do teste em 7 dias".
+
+Próximo passo
+Registre a hipótese priorizada e estruture o teste de 7 dias para a pauta da próxima semana.

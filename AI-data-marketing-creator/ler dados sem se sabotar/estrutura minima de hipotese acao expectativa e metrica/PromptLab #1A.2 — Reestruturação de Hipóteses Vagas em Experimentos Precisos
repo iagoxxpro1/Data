@@ -1,0 +1,39 @@
+PromptLab #1A.2 — Reestruturação de Hipóteses Vagas em Experimentos Precisos
+"Um teste de marketing sem ação, expectativa e métrica bem definidas não é um experimento: é apenas um palpite disfarçado de teste."
+
+Objetivo
+Transformar hipóteses genéricas ou incompletas na estrutura formal de experimentação (Ação, Expectativa e Métrica), avaliando o grau de maturidade de cada teste e identificando fragilidades de calibração. Este prompt atua como um Especialista em Experimentação de Marketing.
+
+O que preparar antes de copiar
+As Hipóteses Brutas: Ter as ideias de teste ou declarações de intenção em formato inicial para submeter à validação.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em experimentação de marketing.
+
+Vou te passar 3 hipóteses vagas ou incompletas.
+Para cada uma, reestruture no formato:
+AÇÃO: o que será testado
+EXPECTATIVA: qual resultado se espera observar
+MÉTRICA: qual indicador confirmará ou refutará a hipótese
+
+Hipóteses para reestruturar:
+
+1. 'Vamos melhorar o engajamento dos posts.'
+
+2. 'Testar horário diferente de publicação.'
+
+3. 'Mudar o formato do conteúdo para ver se performa melhor.'
+
+Após reestruturar as três, me diga:
+- Qual das três ficou mais forte para ser testada agora?
+- O que ainda está fraco em alguma delas mesmo após a reestruturação?
+Copiado
+Check de qualidade e próximo passo
+A IA deve preencher os três blocos (Ação, Expectativa e Métrica) para cada uma das hipóteses vagas, indicando qual possui maior clareza para execução imediata e apontando fragilidades (como falta de prazo ou ausência de meta quantitativa).
+
+Atenção (Sinal Vermelho)
+Se a IA mantiver expectativas genéricas como "aumentar vendas", reoriente-a: "Substitua expectativas abstratas por taxas percentuais ou indicadores comportamentais específicos".
+
+Próximo passo
+Guarde a estrutura validada e aplique essa mesma régua de Ação, Expectativa e Métrica para todos os testes da sua pauta semanal.

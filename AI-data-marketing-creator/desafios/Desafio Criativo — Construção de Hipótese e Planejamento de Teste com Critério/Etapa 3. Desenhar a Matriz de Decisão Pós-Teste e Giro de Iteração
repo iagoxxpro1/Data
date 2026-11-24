@@ -1,0 +1,20 @@
+Etapa 3. Desenhar a Matriz de Decisão Pós-Teste e Giro de Iteração
+Para fechar o desafio, você vai estruturar a árvore de decisão que guiará o seu próximo passo após a conclusão do teste, definindo quando manter/escalar um formato, quando descartar e como girar para uma nova variável.
+
+Prompt da Etapa 3 (Continue no mesmo chat):
+
+text
+Copiar
+Atuando como meu Head de Growth e especialista em tomada de decisão por dados, vamos estruturar a MATRIZ DE DECISÃO PÓS-TESTE E PROTOCOLO DE ITERAÇÃO.
+
+Com base na hipótese e no plano de teste definidos, me entregue:
+1. Árvore de Decisão em 3 Caminhos:
+- Caminho 1 (Hipótese Confirmada): Se o resultado atingir o critério de sucesso, como essa variável é incorporada como padrão definitivo na pauta e qual é a PRÓXIMA variável a ser testada sobre essa base?
+- Caminho 2 (Hipótese Refutada / Invalidadas): Se o resultado ficar abaixo do piso de invalidação, qual é o diagnóstico de aprendizado comportamental sobre a audiência e para onde o foco deve girar?
+- Caminho 3 (Resultado Inconclusivo / Ruído): O que fazer caso os números fiquem na zona cinzenta de oscilação?
+2. Modelo do Registro de Aprendizado: Crie uma ficha simples em 4 tópicos ([Hipótese Testada], [Resultado vs Baseline], [Aprendizado Comportamental Extraído], [Próxima Ação]) para alimentar o histórico de inteligência do meu canal.
+
+Apresente em formato de protocolo de execução direta.
+Ação: Salve a árvore de decisão e o modelo de registro no bloco Parte 3: Matriz de Decisão Pós-Teste e Giro de Iteração do seu documento.
+
+CTA de avanço: Seu manual de experimentação e teste com critério está concluído. Vamos para a revisão final e submissão.

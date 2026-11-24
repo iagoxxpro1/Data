@@ -1,0 +1,31 @@
+Desafio Criativo — Construção de Hipótese e Planejamento de Teste com Critério
+O que você vai fazer
+Neste desafio integrado, você vai transformar diagnósticos passivos de dados em um motor ativo de testes contínuos para o seu negócio digital. Você vai pegar a principal oportunidade ou gargalo identificado na sua operação e construir uma Hipótese de Crescimento rigorosamente isolada, desenhando o seu Plano de Teste de 7 a 21 Dias com métricas explícitas e critérios numéricos pré-definidos de validação e invalidação.
+
+O objetivo é substituir o "achismo" da pauta por um método científico de experimentação: testar uma variável por vez, saber exatamente qual número confirma o sucesso antes do post ir ao ar e extrair aprendizado acionável, independentemente de a hipótese ser confirmada ou refutada.
+
+Ao final, você terá construído o Manual de Experimentação e Plano de Teste com Critério, documentado e pronto para ser executado no seu Creator Growth System.
+
+O que guia este desafio
+Você usa exclusivamente:
+
+O isolamento estrito de 1 única variável por ciclo de teste (ex: gancho de abertura, formato, oferta do CTA ou frequência).
+A declaração da hipótese no modelo formal: AÇÃO + EXPECTATIVA + MÉTRICA.
+A fixação prévia da régua quantitativa de decisão (percentual de variação sobre o baseline para validar ou invalidar).
+A IA como parceira de inteligência para refinar hipóteses e auditar a confiabilidade do plano de teste.
+Como o desafio funciona
+O desafio é dividido em etapas sequenciais, executadas fora da plataforma, no LLM de sua preferência. Você deve:
+
+Escolher um único LLM (ChatGPT, Gemini, Copilot, Claude ou similar).
+Criar um único chat focado nesta tarefa.
+Usar esse mesmo chat do início ao fim para acumular o contexto do seu projeto.
+Registrar cada resultado em um documento no Google Docs ou Microsoft Word (Online). (Atenção: A plataforma não executa o desafio e somente aceitará a submissão de links com acesso público do Google Docs ou Word.)
+Estrutura de cada etapa
+Cada etapa contém:
+
+Uma instrução clara do que observar ou decidir.
+O prompt exato para organizar seu pensamento no LLM.
+Uma ação prática obrigatória no seu Documento de Entrega.
+Um avanço consciente (CTA) para a próxima etapa.
+Regras essenciais
+⚠️ Não troque de chat no meio do desafio. Todo o contexto da sua operação, baseline histórico, métricas de transição e hipóteses construídas deve permanecer ativo e acumulado no mesmo histórico da IA.

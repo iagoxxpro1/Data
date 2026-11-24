@@ -1,0 +1,42 @@
+PromptLab #1A.4 — Auditoria e Classificação de Força de Hipóteses de Teste
+"Saber avaliar a maturidade de uma hipótese antes de colocá-la em prática economiza tempo, protege a pauta de testes inúteis e garante que todo experimento traga um aprendizado acionável."
+
+Objetivo
+Submeter 3 hipóteses de teste a uma auditoria de força (Fraca, Média ou Forte), identificando imprecisões na estrutura de Ação, Expectativa e Métrica, e refinando-as para garantir que estejam prontas para execução imediata. Este prompt atua como um Especialista em Experimentação de Marketing Digital.
+
+O que preparar antes de copiar
+A Lista de Hipóteses para Auditoria: As hipóteses declaradas para avaliação e classificação de força.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em experimentação de marketing digital.
+
+Vou te passar 3 hipóteses. Para cada uma, avalie:
+1. Ela é FRACA, MÉDIA ou FORTE para ser testada?
+2. O que está faltando ou impreciso (ação, expectativa ou métrica)?
+3. Reescreva a hipótese de forma mais forte, se necessário.
+
+Hipótese 1:
+'Se eu postar mais conteúdo sobre ferramentas de IA, vou crescer mais rápido.'
+
+Hipótese 2:
+'Se eu testar uma thumbnail com texto em destaque nos próximos Reels,
+espero aumentar o CTR do conteúdo, medido pela taxa de cliques no perfil.'
+
+Hipótese 3:
+'Se eu publicar carrossel com passo a passo toda terça-feira por 3 semanas,
+espero que os salvamentos aumentem em pelo menos 25%,
+medidos pela taxa de salvamento por alcance semana a semana.'
+
+Após avaliar as três:
+- Qual está pronta para testar agora?
+- Qual precisa de mais refinamento antes de entrar em execução?
+Copiado
+Check de qualidade e próximo passo
+A IA deve classificar a Hipótese 1 como Fraca (vaga), a Hipótese 2 como Média (falta meta quantitativa e prazo) e a Hipótese 3 como Forte (ação, expectativa e métrica bem delimitadas), reescrevendo as versões incompletas.
+
+Atenção (Sinal Vermelho)
+Se a IA aprovar a Hipótese 1 como forte, reoriente-a: "Ajuste a análise. A Hipótese 1 não possui prazo, métrica exata nem percentual de crescimento definido".
+
+Próximo passo
+Escolha a hipótese classificada como Forte para liderar o seu próximo ciclo de testes e reestrutura as hipóteses médias/fracas antes de rodá-las na operação. ### Curso 2 – Testar sem se enganar Aulas - Aula 1 – Variável e janela mínima de validação - Aula 2 – Critério claro. O que confirma ou invalida o teste - Aula 3 – Quando um teste falha e ainda assim ensina algo - Aula 4 – Transformar resultado de teste em próxima decisão

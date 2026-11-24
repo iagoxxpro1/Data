@@ -1,0 +1,23 @@
+Etapa 2. Estruturar o Plano de Teste com Critérios de Validação e Invalidação
+Nesta etapa, você vai definir a janela de tempo do teste, estabelecer a média histórica atual (baseline) e fixar os números exatos que vão confirmar o sucesso ou determinar o encerramento do experimento.
+
+Prompt da Etapa 2 (Continue no mesmo chat):
+
+text
+Copiar
+Com base na hipótese de crescimento que acabamos de validar, vamos estruturar o PLANO DE TESTE COM CRITÉRIO para execução operacional de 7 a 21 dias.
+
+DADOS HISTÓRICOS PARA O TESTE:
+- Média Histórica Atual (Baseline): [INSIRA O NÚMERO ATUAL DA MÉTRICA: ex: retenção de 38%, taxa de salvamento de 1,4%, CTR de 2,1%]
+- Janela do Teste Escolhida: [SELECIONE: 7 dias, 14 dias ou 21 dias]
+- Frequência de Publicações do Teste: [INSIRA QUANTAS PEÇAS SERÃO TESTADAS NO PERÍODO]
+
+Atuando como diretor de experimentação, me entregue:
+1. Régua de Validação (Critério de Sucesso): Qual é a variação percentual exata ou o número mínimo que a métrica precisa atingir acima do baseline para a hipótese ser considerada CONFIRMADA?
+2. Régua de Invalidação (Critério de Descarte): Qual é o resultado numérico que invalida a hipótese e indica que o teste falhou e deve ser encerrado?
+3. Mapeamento de Variáveis de Distorção: Liste 2 fatores externos ou ruídos de plataforma (ex: sazonalidade, mudança de distribuição orgânica, horário atípico) que devem ser monitorados para não contaminar a leitura dos dados.
+
+Apresente a régua de decisão de forma numérica e explícita.
+Ação: Salve a régua de validação, invalidação e o mapeamento de variáveis no bloco Parte 2: Planejamento de Teste com Critério (Base do System) do seu documento.
+
+CTA de avanço: Plano de teste e réguas numéricas calibrados. Vamos para a matriz de decisão pós-teste e rotina de iteração.

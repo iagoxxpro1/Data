@@ -1,0 +1,38 @@
+PromptLab #2A.1 — Auditoria de Estrutura e Confiabilidade de Plano de Teste
+"Alterar múltiplas variáveis ao mesmo tempo e medir o resultado no 'achômetro' é a receita perfeita para gerar dados ruidosos e conclusões falsas."
+
+Objetivo
+Auditar a viabilidade técnica de um plano de teste, identificando falhas críticas de estrutura (múltiplas variáveis simultâneas, janela temporal insuficiente e critérios de avaliação vagos) e reestruturando o experimento para garantir aprendizado estatisticamente confiável. Este prompt atua como um Especialista em Experimentação de Marketing Digital.
+
+O que preparar antes de copiar
+O Plano de Teste Bruto: O escopo do teste, com as variáveis alteradas, duração e critérios de avaliação propostos para revisão.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em experimentação de marketing digital.
+
+Vou te passar um plano de teste que um profissional quer executar.
+Avalie se esse plano é confiável ou se existem problemas de estrutura.
+
+Plano de teste:
+- Hipótese: 'Se melhorarmos o conteúdo, o engajamento vai aumentar.'
+- O que será alterado: formato do post (carrossel), horário de publicação,
+gancho da abertura e uso de hashtags
+- Duração do teste: 3 dias
+- Como vai avaliar: 'ver se melhorou'
+
+Avalie:
+1. Quantas variáveis estão sendo alteradas simultaneamente? Isso é um problema?
+2. A janela de 3 dias é suficiente para gerar aprendizado confiável?
+3. O critério 'ver se melhorou' é um critério claro de validação?
+4. Reescreva esse plano de teste de forma estruturada e confiável,
+corrigindo os problemas identificados.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar o problema de mudar 4 variáveis ao mesmo tempo (impossibilita isolar a causa), apontar que 3 dias é uma janela curta demais para relevância de dados no orgânico e reescrever o plano isolando 1 única variável com prazo realista e métrica quantitativa.
+
+Atenção (Sinal Vermelho)
+Se a IA aprovar o teste de 3 dias ou com múltiplas variáveis, reoriente-a: "Ajuste o diagnóstico. Testes confiáveis exigem o isolamento de 1 variável e uma janela mínima de 7 a 14 dias para mitigar ruídos de plataforma".
+
+Próximo passo
+Adote o plano reestruturado pela IA para garantir que a sua próxima rodada de testes produza um aprendizado limpo e aplicável.

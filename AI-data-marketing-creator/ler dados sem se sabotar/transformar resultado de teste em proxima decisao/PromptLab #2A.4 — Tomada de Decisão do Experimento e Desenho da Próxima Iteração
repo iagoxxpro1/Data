@@ -1,0 +1,46 @@
+PromptLab #2A.4 — Tomada de Decisão do Experimento e Desenho da Próxima Iteração
+"Confirmar uma hipótese com folga não é o final da jornada: é a autorização dos dados para transformar um teste bem-sucedido em um novo padrão operacional e escalar a próxima variável."
+
+Objetivo
+Analisar o resultado de um teste validado com margem ampla (média de +61% sobre o baseline), formalizar a decisão de manutenção/ampliação do padrão e projetar o próximo ciclo de experimentação isolando uma nova variável de escala. Este prompt atua como um Especialista em Growth Marketing Orientado por Experimentação.
+
+O que preparar antes de copiar
+Os Dados Completos do Ciclo: A hipótese testada, o período, os resultados consolidados semana a semana e a comparação contra a meta de validação.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em growth marketing orientado por experimentação.
+
+Vou te passar o resultado completo de um teste de 7 dias.
+Me ajude a transformar esse resultado em uma decisão clara
+e no plano do próximo ciclo de experimentação.
+
+Teste concluído:
+HIPÓTESE: carrossel com checklist publicado toda terça aumenta salvamentos em 25%
+VARIÁVEL: formato do conteúdo (carrossel vs post simples)
+PERÍODO: 3 semanas
+MÉTRICA: taxa de salvamento por alcance
+
+Resultados semana a semana:
+Semana 1: 2,1% de salvamento/alcance (baseline anterior: 1,4%) +50%
+Semana 2: 2,4% +71%
+Semana 3: 2,3% +64%
+Média: +61% acima do baseline — hipótese CONFIRMADA (critério era +25%)
+
+Com base nesse resultado:
+1. Qual das três decisões esse resultado indica: manter/ampliar, descartar
+ou gerar nova hipótese?
+2. Como você ampliaria esse teste no próximo ciclo?
+(qual nova variável testar mantendo o formato confirmado?)
+3. Formule a hipótese do próximo ciclo no formato: ação, expectativa e métrica.
+4. O que esse resultado ensina sobre o comportamento da audiência
+que pode orientar outras decisões de conteúdo?
+Copiado
+Check de qualidade e próximo passo
+A IA deve sacramentar a decisão de manter/ampliar, estabelecer o formato carrossel como linha de base (linha editorial fixa), sugerir o teste de uma nova variável sobre esse formato já validado (ex: tom de chamada de capa, densidade de texto por slide ou tipo de oferta do último slide) e formalizar a nova hipótese estruturada em Ação, Expectativa e Métrica.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir descontinuar o carrossel ou mudar o formato radicalmente após os resultados expressivos, reoriente-a: "Ajuste a recomendação. Quando um formato é confirmado com +61% de performance, ele passa a ser um padrão ativo. O próximo teste deve otimizar variáveis dentro desse mesmo formato".
+
+Próximo passo
+Incorpore a pauta de carrosséis à rotina fixa do canal e inicie o novo ciclo de teste focado na próxima variável de otimização.

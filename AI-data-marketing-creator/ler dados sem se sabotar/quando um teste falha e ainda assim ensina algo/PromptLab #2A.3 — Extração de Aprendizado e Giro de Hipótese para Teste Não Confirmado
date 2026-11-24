@@ -1,0 +1,44 @@
+PromptLab #2A.3 — Extração de Aprendizado e Giro de Hipótese para Teste Não Confirmado
+"Um teste que invalida a hipótese original não é um fracasso; quando lido com rigor analítico, ele revela exatamente onde o problema não está e aponta oportunidades ocultas de engajamento."
+
+Objetivo
+Processar o resultado de um experimento que não atingiu a meta quantitativa, transformar o dado negativo e os efeitos colaterais positivos (como a alta inesperada de salvamentos) em inteligência comportamental sobre a audiência, formulando 2 novas hipóteses para o ciclo seguinte. Este prompt atua como um Especialista em Experimentação de Marketing Digital.
+
+O que preparar antes de copiar
+O Histórico e Resultado do Teste: A hipótese testada, a variável isolada, a duração, o baseline, o resultado final medido e observações secundárias do período.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Você é um especialista em experimentação de marketing digital.
+
+Vou te passar o resultado de um teste que não confirmou a hipótese original.
+Me ajude a extrair o máximo de aprendizado desse resultado.
+
+Teste executado:
+HIPÓTESE: se publicarmos vídeo com pergunta direta nos primeiros 5 segundos,
+a retenção inicial (0-30s) vai aumentar em pelo menos 15%
+VARIÁVEL testada: abertura do vídeo
+PERÍODO: 7 dias (3 vídeos publicados)
+MÉTRICA: retenção 0-30 segundos
+
+Resultado:
+- Retenção média antes do teste: 38%
+- Retenção média durante o teste: 37,2%
+- Variação: -0,8% (hipótese não confirmada)
+- Observação extra: salvamentos aumentaram 22% nos mesmos vídeos
+
+Com base nesse resultado:
+1. O que esse resultado ensina sobre o comportamento da audiência?
+2. A abertura provavelmente não é o gargalo de retenção — onde mais poderia estar?
+3. O aumento de salvamentos é um sinal relevante? O que ele pode indicar?
+4. Formule 2 novas hipóteses para o próximo ciclo de teste.
+Copiado
+Check de qualidade e próximo passo
+A IA deve constatar que a troca de abertura não resolveu a retenção (mostrando que o problema está no meio do vídeo, no ritmo da explicação ou na entrega da promessa), destacar que a alta de 22% nos salvamentos prova alta utilidade prática do conteúdo, e gerar 2 novas hipóteses focadas em ritmo de edição/corpo do vídeo ou na intencionalidade de salvamento.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar insistir em alterar a abertura novamente, reoriente-a: "Ajuste a análise. O teste provou que a abertura variou apenas -0,8%, descartando o gancho inicial como causa raiz. Foque a nova hipótese no desenvolvimento do roteiro e ritmo".
+
+Próximo passo
+Registre o aprendizado na sua planilha de inteligência e selecione uma das 2 novas hipóteses geradas para iniciar o próximo ciclo de 7 dias.
+
