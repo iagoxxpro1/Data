@@ -1,0 +1,102 @@
+# Diagnóstico de Performance e Gargalos de Crescimento | Creator Growth System
+
+**Aluno:** Iago  
+**Projeto / Empresa:** NanoGen Lab — E-commerce & Manufatura 3D (Linha Automotiva / *Gearhead*)  
+**Produto / Oferta Principal:** Porta-Chaves de Parede Porsche GT3 RS (Impressão 3D Premium) — **Ticket Médio: R$ 69,90**  
+**Base de Análise:** Ciclo Simulado Realista de 7 Dias (alinhado ao histórico da operação)
+
+---
+
+## Parte 1: Leitura e Análise de Padrão de Performance (7 Dias)
+
+### Dados Consolidados da Operação (Últimos 7 Dias)
+* **Nome do Projeto:** NanoGen Lab
+* **Produto / Oferta Principal:** Porta-Chaves de Parede Porsche GT3 RS (`R$ 69,90`)
+* **Volume de Atenção (Alcance / Impressões):** `4.800` contas alcançadas
+* **Volume de Intenção (Cliques no Link da Bio / DMs Comerciais):** `72` contatos/cliques
+* **Volume de Conversão (Pedidos Faturados):** `12` vendas
+* **Faturamento do Período:** `R$ 838,80` (`12 × R$ 69,90`)
+
+#### Abertura por Peça Publicada na Semana (Contexto Editorial)
+| Peça | Formato / Abordagem | Alcance (Atenção) | Cliques / DMs (Intenção) | CTR (Atenção → Intenção) | Vendas (Conversão) | Conversão s/ Cliques |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| **Peça 1** | *Time-lapse* da impressora 3D imprimindo o aerofólio (sem CTA comercial) | 2.200 | 11 | 0,50% | 1 | 9,09% |
+| **Peça 2** | Close estético do GT3 RS azul metálico + enquete nos comentários | 1.500 | 15 | 1,00% | 2 | 13,33% |
+| **Peça 3** | Demonstração prática na parede com chaves reais + CTA direta para bio | 620 | 26 | **4,19%** | **5** | **19,23%** |
+| **Peça 4** | Unboxing rápido + teste de resistência de carga + link/cupom na bio | 480 | 20 | **4,17%** | 4 | **20,00%** |
+| **Total** | **Ciclo Completo de 7 Dias** | **4.800** | **72** | **1,50%** | **12** | **16,67%** |
+
+---
+
+### 1. Diagnóstico de Padrão da Semana
+O padrão dominante da semana foi de **alta atração bruta com baixa transferência de intenção no topo do funil**.  
+Embora o volume total de pedidos (`12` vendas / `R$ 838,80`) já supere o piso operacional semanal (`8` pedidos), **77% de todo o alcance da semana (`3.700` de `4.800` contas)** concentrou-se nas Peças 1 e 2 (estética e processo técnico), que entregaram apenas **36% dos cliques (`26` de `72`)** e **25% das vendas (`3` de `12`)**.  
+Em contraste, as peças com demonstração funcional responderam por apenas **23% do alcance (`1.100` contas)**, mas geraram **64% da intenção (`46` cliques)** e **75% do faturamento (`9` vendas / `R$ 629,10`)**.
+
+### 2. Análise de Variação de Algoritmo vs. Sinal Comportamental
+* **Ruído / Distribuição Algorítmica:** A diferença de alcance bruto entre a Peça 1 (`2.200`) e as Peças 3 e 4 (`620` e `480`) é variação esperada de entrega algorítmica: vídeos hipnóticos de impressão 3D têm retenção passiva maior em curiosos e entusiastas de manufatura 3D, inflando o alcance de topo sem fit de compra.
+* **Sinal Comportamental Real:** A estabilidade quase idêntica da taxa de clique nas **Peças 3 (`4,19%`) e 4 (`4,17%`)** — mais de **4x acima** das Peças 1 e 2 (`0,50%` e `1,00%`) — somada à conversão de **19,23% a 20,00%** no marketplace, confirma um sinal real e repetível de comportamento de compra quando o público *gearhead* entende o uso prático do produto.
+
+### 3. Isolamento da Melhor Peça / Formato
+* **Peça Campeã da Semana:** **Peça 3 — Demonstração Prática na Parede com Chaves Reais + CTA Direta (`620` alcance → `26` cliques → `5` vendas / `R$ 349,50`)**, validada pela **Peça 4 (`480` alcance → `20` cliques → `4` vendas / `R$ 279,60`)**.
+* **Por que venceu:** A cada `1.000` pessoas alcançadas, esse formato gera em média **41,8 cliques qualificados** e **8,2 vendas** (`R$ 573,18` por mil impressões comerciais), contra apenas **7,0 cliques** e **0,8 venda** nos vídeos puramente estéticos.
+
+---
+
+## Parte 2: Diagnóstico de Gargalo de Crescimento (Base do System)
+
+### Taxas Calculadas da Jornada (7 Dias)
+* **Taxa 1 (Atenção → Intenção | Alcance para Clique/Contato):**  
+  $$\frac{72}{4.800} \times 100 = \mathbf{1,50\%}$$
+  *(Referência saudável da NanoGen Lab: $\ge 3,50\%$ | Piso de alerta: $< 2,00\%$)*
+* **Taxa 2 (Intenção → Conversão | Clique/Contato para Venda):**  
+  $$\frac{12}{72} \times 100 = \mathbf{16,67\%}$$
+  *(Referência saudável da NanoGen Lab: $\ge 15,00\%$ | Piso de alerta: $< 8,00\%$)*
+
+---
+
+### 1. Localização Fria do Gargalo Crítico
+O gargalo crítico inquestionável está na **transição de ATENÇÃO → INTENÇÃO (Topo para Meio de Funil)**, com queda de **98,50%** entre visualizações e cliques/contatos (**Taxa 1 = 1,50%**, abaixo inclusive do piso crítico de `2,0%`).  
+Já a etapa **Intenção → Conversão (`16,67%`)** está **acima da meta saudável (`15,0%`)**, comprovando que a página do produto no marketplace, o preço de `R$ 69,90` e o fechamento estão bem resolvidos sempre que o visitante qualificado chega ao anúncio.
+
+### 2. Cálculo de Impacto de Vazamento
+* **Cenário de Referência (Meta Saudável já validada em histórico: CTR de `3,50%`):**  
+  - Cliques esperados sobre o mesmo alcance (`4.800`): $4.800 \times 3,50\% = \mathbf{168\text{ cliques}}$.  
+  - Cliques perdidos no vazamento de topo: $168 - 72 = \mathbf{96\text{ cliques não capturados}}$.  
+* **Vendas Deixadas na Mesa (mantendo a Conversão Real da Loja de `16,67%`):**  
+  $$96 \times 16,67\% = \mathbf{16\text{ vendas perdidas em 7 dias}}$$
+* **Impacto Financeiro Estimado do Vazamento:**  
+  $$16 \times \text{R\$ } 69,90 = \mathbf{\text{R\$ } 1.118,40\text{ perdidos na semana}}$$
+  *(Projeção mensal de 4 semanas no mesmo ritmo: **R$ 4.473,60** em faturamento potencial represado sem gastar R$ 1 a mais em alcance).*
+
+### 3. Causa Raiz Provável
+1. **Desconexão de Pauta no Topo (77% do alcance sem proposta comercial):** Os dois vídeos mais entregues da semana focaram no processo estético da impressora 3D e em enquete de entretenimento, atraindo curiosos da tecnologia 3D em vez de compradores *gearheads*.
+2. **Fricção de Transição (Ausência de Gancho de Uso + CTA Imperativa):** Sem ver o porta-chaves fixado na parede sustentando chaves reais e sem instrução explícita de preço/link no final e no comentário fixado, o espectador consome o vídeo como entretenimento passivo e não clica na bio.
+
+---
+
+## Parte 3: Plano de Destravamento e Hipótese de Teste
+
+### Gargalo Mapeado
+* **Etapa com Maior Perda:** **Atenção → Intenção** (`1,50%` vs. meta `>= 3,50%`)
+* **Causa Raiz Provável:** Predominância de vídeos estéticos/técnicos sem demonstração prática de uso nem CTA direta para oferta no marketplace.
+
+---
+
+### 1. Declaração da Hipótese de Teste
+> **"Se alterarmos a programação dos próximos 7 dias para 100% de vídeos curtos em primeira pessoa com demonstração prática de uso real (porta-chaves instalado na parede + teste de carga com chaves de carro) e CTA imperativa nos últimos 5 segundos reforçada por comentário fixado, então aumentaremos a Taxa 1 (Atenção → Intenção) de `1,50%` para pelo menos `3,50%` (`+2,0 p.p.`), porque o tráfego qualificado que chega à loja já converte a `16,67%` — removendo o ruído estético e deixando a utilidade e o caminho de compra explícitos."**
+
+### 2. Plano de Ação Tático (3 Comandos Práticos — Próximos 7 Dias)
+
+1. **Comando 1 — Ajuste de Formato (Mix Editorial):**  
+   Congelar 100% das gravações de *time-lapse* e bastidores de impressão nesta semana. Publicar **4 vídeos curtos (15 a 22 segundos)** no estilo da **Peça 3/Peça 4**: câmera em primeira pessoa mostrando o suporte GT3 RS já fixado na parede da garagem/hall, pendurando um molho de chaves automotivas pesadas (prova visual de firmeza e acabamento).
+2. **Comando 2 — Ajuste de Gancho e CTA (Primeiros 3s + Fechamento):**  
+   - *Gancho (0–3s):* Abrir com situação real + áudio automotivo em alta (*"Chega de jogar a chave do seu carro em qualquer canto..."* mostrando o encaixe na traseira do GT3 RS).  
+   - *CTA Final + Legenda:* Verbalizar nos últimos 5s *"Garanta o seu no link da bio com envio para todo o Brasil"*, informar o valor (`R$ 69,90`) na legenda e publicar **comentário fixado imediato** direcionando para o link do perfil.
+3. **Comando 3 — Direcionamento de Canal e Conversão de DMs:**  
+   Distribuir os 4 vídeos no **Instagram Reels e TikTok** apontando exclusivamente para o **Link da Bio (Marketplace)** — sem enquetes de "qual próximo modelo fazer" para não dispersar intenção. Responder comentários e DMs de preço/frete em até 2 horas enviando o link direto do anúncio.
+
+### 3. Indicador de Sucesso do Teste (Critério de Validação em 7 Dias)
+Ao final do próximo ciclo de 7 dias, a hipótese será considerada **VALIDADA** se cumprir simultaneamente:
+* **Indicador Primário:** **Taxa 1 (Atenção → Intenção)** subir de `1,50%` para **$\ge$ 3,00%** (crescimento mínimo de **+1,50 ponto percentual**, ou **+100% relativo** sobre a semana anterior).
+* **Trava de Qualidade (Métrica de Controle):** **Taxa 2 (Intenção → Conversão)** permanecer em **$\ge$ 12,0%** (garantindo que o aumento de cliques trouxe compradores reais, e não apenas cliques curiosos), resultando em pelo menos **18 pedidos faturados (`>= R$ 1.258,20`)** na semana.
