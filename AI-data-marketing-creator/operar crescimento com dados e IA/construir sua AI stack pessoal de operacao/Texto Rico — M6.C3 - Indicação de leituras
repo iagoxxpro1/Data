@@ -1,0 +1,22 @@
+Texto Rico — M6.C3 - Indicação de leituras
+Para ir além das nossas aulas e aprofundar o seu olhar analítico, a nossa expert selecionou a dedo os livros essenciais que todo profissional de Data Marketing precisa ter na cabeceira. Eles estão divididos exatamente pelos temas das nossas aulas para você avançar no seu ritmo.
+
+🔍 Conexão com a Aula 1: Leitura de Performance e Intenção Analítica
+Livro: Pessoas Não Compram Produtos, Compram Resultados (Competing Against Luck) Autor(a): Clayton Christensen Por que ler: Define o conceito clássico de Jobs-to-be-Done (o "trabalho a ser feito"). Aplica-se diretamente a quem deseja usar IA com intenção clara: entender com precisão qual tarefa você está contratando o modelo para executar, evitando comandos genéricos e extraindo diagnósticos cirúrgicos.
+💡 Ativação Prática: Antes de rodar sua próxima análise na IA, declare explicitamente no prompt qual é o job exato que ela deve cumprir (ex: "identificar a principal contradição entre meu alcance e minha taxa de clique").
+
+👥 Conexão com a Aula 2: Expansão do Espaço de Hipóteses
+Livro: Por que os Generalistas Vencem em um Mundo Especializado (Range) Autor(a): David Epstein Por que ler: Demonstra como explorar perspectivas amplas antes de afunilar leva a decisões melhores em ambientes incertos. Conecta-se diretamente ao uso da IA para expandir e diversificar o leque de hipóteses investigativas sobre o funil antes de focar em uma única solução.
+💡 Ativação Prática: Peça para a IA gerar 5 hipóteses sob ângulos completamente diferentes para explicar um mesmo gargalo de conversão e force o descarte fundamentado da menos provável.
+
+⚖️ Conexão com a Aula 3: Limites da IA e Julgamento Humano
+Livro: O Problema do Alinhamento (The Alignment Problem) Autor(a): Brian Christian Por que ler: Uma das pesquisas mais rigorosas sobre o que os sistemas de IA realmente fazem versus o que os humanos assumem que eles fazem. Leitura essencial para entender os limites de confiabilidade dos modelos e identificar quais decisões dependem insubstituivelmente do seu julgamento crítico.
+💡 Ativação Prática: Ao receber uma análise da IA sobre dados atípicos, marque no seu documento de acompanhamento o que é uma conclusão segura trazida pelo modelo e o que é uma lacuna que exige validação humana.
+
+📊 Conexão com a Aula 4: Integração de Dashboards e Decisão Estratégica
+Livro: Rápido e Devagar: Duas Formas de Pensar (Thinking, Fast and Slow) Autor(a): Daniel Kahneman Por que ler: Define o Sistema 1 (rápido e intuitivo) e o Sistema 2 (lento e deliberado). A IA acelera drasticamente o Sistema 1 na síntese de dados brutos de dashboards, mas a tomada de decisão estratégica exige o Sistema 2 — reflexiva, contextual e estritamente humana.
+💡 Ativação Prática: Use a IA para sintetizar e cruzar os números do seu Looker Studio em segundos (Sistema 1), mas reserve 5 minutos do seu ritual para avaliar deliberadamente se a decisão sugerida faz sentido com o momento do seu negócio (Sistema 2).
+
+🚀 Conexão com a Aula 5: Construção e Governança do AI Stack Pessoal
+Livro: O Manual do CEO (The Personal MBA) Autor(a): Josh Kaufman Por que ler: Mostra como estruturar um sistema operacional de negócios enxuto e sustentável sem depender de estruturas complexas. Conecta-se diretamente ao encerramento da formação: arquitetar um AI Stack pessoal simples, dividido em 4 camadas funcionais e operado por um Prompt Mestre em apenas 20 minutos semanais.
+💡 Ativação Prática: Documente as 4 camadas do seu AI Stack (Dados, Leitura, Hipóteses e Registro), salve seu Prompt Mestre e execute seu primeiro ritual semanal de governança na próxima segunda-feira!

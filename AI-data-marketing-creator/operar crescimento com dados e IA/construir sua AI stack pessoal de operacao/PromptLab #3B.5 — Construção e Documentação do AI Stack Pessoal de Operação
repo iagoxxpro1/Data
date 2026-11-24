@@ -1,0 +1,40 @@
+PromptLab #3B.5 — Construção e Documentação do AI Stack Pessoal de Operação
+"Um sistema de inteligência não é um amontoado de ferramentas, mas uma arquitetura fluida de quatro camadas que transforma dados brutos em decisões semanais de crescimento em apenas 20 minutos."
+
+Objetivo
+Consolidar a infraestrutura de inteligência da sua operação construindo o seu AI Stack de Operação completo (Dados, Leitura, Hipóteses e Registro), documentando o fluxo do ritual semanal de 20 minutos e gerando o Prompt Mestre do Ciclo Semanal para governança contínua do seu Creator Growth System. Este prompt atua como um Especialista em Sistemas de Operação para Criadores de Conteúdo.
+
+O que preparar antes de copiar
+O Contexto do Seu Projeto: Tipo de negócio, Métrica Mãe do ciclo, stack de ferramentas ativas (ex: Looker Studio, Claude/ChatGPT, Notion) e a frequência do ritual de governança.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em sistemas de operacao para criadores de conteudo e
+profissionais de marketing digital.
+
+Vou te passar o contexto do meu projeto.
+Me ajude a construir e documentar o meu AI Stack pessoal de operacao.
+
+CONTEXTO DO PROJETO:
+- Tipo: criador de conteudo de marketing digital
+- Metrica mae atual: taxa de clique no link da bio
+- Ferramentas disponiveis: Looker Studio, Claude/ChatGPT, Notion
+- Frequencia do ritual: semanal (segunda-feira, 20 minutos)
+
+Construa o AI Stack com:
+1. As quatro camadas do stack (dados, leitura, hipoteses, registro)
+com ferramenta, funcao e quando usar cada uma.
+2. O fluxo semanal de 20 minutos passo a passo.
+3. O prompt mestre do ciclo semanal — um unico prompt que cobre
+leitura dos dados, identificacao do sinal principal e decisao semanal.
+4. Como evoluir o stack ao longo do tempo: qual seria a proxima camada
+a adicionar quando o stack atual se tornar um gargalo?
+Copiado
+Check de qualidade e próximo passo
+A IA deve arquitetar o stack dividindo claramente as 4 camadas (Dados: Looker; Leitura/Hipóteses: LLM/ChatGPT/Claude; Registro: Notion), desenhar o cronômetro do ritual de 20 minutos (ex: 5min extração, 10min análise no LLM, 5min registro no Notion), entregar o Prompt Mestre pronto e acionável e apontar o próximo nível de escala do stack (ex: automação de extração via API/Make).
+
+Atenção (Sinal Vermelho)
+Se a IA esquecer de gerar o Prompt Mestre unificado do ciclo no item 3, reoriente-a: "Ajuste a entrega. Certifique-se de incluir o Prompt Mestre completo e pronto para ser copiado e colado toda segunda-feira".
+
+Próximo passo
+Copie a documentação do seu AI Stack, salve o Prompt Mestre no seu repositório do Notion ou arquivo do Word/Google docs e execute o ritual de 20 minutos todas as segundas-feiras para manter a governança por dados da sua operação!
