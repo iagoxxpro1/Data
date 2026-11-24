@@ -1,0 +1,40 @@
+PromptLab #2B.3 — Sequenciamento Mensal de Testes Encadeados
+"Um mês de crescimento não é fruto de quatro testes isolados que atiram para lados diferentes, mas de uma esteira encadeada onde cada vitória confirma a variável do teste seguinte."
+
+Objetivo
+Gerar uma arquitetura de 4 testes semanais encadeados, isolando estritamente uma variável por ciclo, com hipóteses, métricas de confirmação e elos de conexão lógica até a consolidação da Métrica Mãe na Semana 4. Este prompt atua como um Especialista em Experimentação de Marketing Digital.
+
+O que preparar antes de copiar
+O Contexto Padrão: A Métrica Mãe, a meta de 30 dias, o gargalo de transição e a hipótese inicial sobre o CTA/chamada.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em experimentacao de marketing digital.
+
+Vou te passar a metrica mae, o plano de 4 semanas e o diagnostico atual.
+Me ajude a construir uma sequencia de testes para o mes.
+
+Contexto:
+- Metrica mae: taxa de clique no link da bio
+- Meta: crescer de 0,25% para 0,45% em 30 dias
+- Gargalo identificado: conteudo nao gera movimento em direcao ao link
+- Hipotese inicial: o CTA atual nao e especifico o suficiente
+
+Para cada semana, gere um teste com:
+- VARIAVEL: o que sera alterado
+- HIPOTESE: o que se espera observar
+- METRICA DE CONFIRMACAO: o que indica que funcionou
+- CONEXAO: como o resultado desta semana alimenta o teste da proxima
+
+Restricoes:
+- Maximo de uma variavel por semana
+- Testes devem ser executaveis sem producao extra complexa
+- Semana 4 deve consolidar, nao testar novidade
+Check de qualidade e próximo passo
+A IA deve entregar 4 blocos sequenciais (ex: Sem 1: Clareza do CTA textual na bio/legenda; Sem 2: Formato visual da ponte no conteúdo; Sem 3: Ângulo da promessa de destino; Sem 4: Consolidação dos elementos campeões sem introduzir novas variáveis), demonstrando explicitamente no campo CONEXAO como a validação de uma semana se torna a base do teste da semana seguinte.
+
+Atenção (Sinal Vermelho)
+Se a IA introduzir uma nova variável na Semana 4, reoriente-a: "Ajuste a Semana 4. Respeite a restrição: a quarta semana deve combinar e consolidar apenas as variáveis validadas nas Semanas 1, 2 e 3".
+
+Próximo passo
+Registre a esteira encadeada na sua planilha de testes do mês e prepare os ativos para executar o experimento da Semana 1.

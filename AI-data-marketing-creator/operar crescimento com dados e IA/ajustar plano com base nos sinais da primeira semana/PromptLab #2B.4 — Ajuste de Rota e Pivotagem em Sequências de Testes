@@ -1,0 +1,44 @@
+PromptLab #2B.4 — Ajuste de Rota e Pivotagem em Sequências de Testes
+"Um plano de crescimento rígido que ignora descobertas acidentais de alta performance na Semana 1 é tão ineficiente quanto mudar de direção sem dados; o segredo está em pivotar a variável do teste mantendo a coerência da Métrica Mãe."
+
+Objetivo
+Analisar os resultados da Semana 1 contra o plano original, identificar se o sinal imprevisto (posição do CTA) exige ajuste de rota e reorientar o teste da Semana 2 para incorporar o novo aprendizado sem quebrar a sequência lógica até a Métrica Mãe. Este prompt atua como um Especialista em Planejamento de Crescimento Orientado por Dados.
+
+O que preparar antes de copiar
+O Plano Original da Semana 1 e o Previsto para a Semana 2: A meta inicial e a variável planejada para a sequência.
+Os Resultados e Achados Inesperados: A variação da Métrica Mãe e o sinal comportamental atípico capturado no ciclo (ex: CTA no início do carrossel superando o CTA final).
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em planejamento de crescimento orientado por dados.
+
+Vou te passar o plano original e os resultados da primeira semana.
+Me ajude a decidir se o plano deve ser mantido, ajustado ou reformulado.
+
+Plano original (semana 1):
+- Foco: estabelecer baseline da taxa de clique no link da bio
+- Acao: publicar 3 carrosseis com CTA direto no ultimo slide
+- Meta de baseline: identificar taxa atual sem variacoes
+
+Resultados da semana 1:
+- Taxa de clique: 0,31% (acima do baseline anterior de 0,25%)
+- Observacao inesperada: posts com CTA no inicio (slide 2) tiveram
+taxa de clique 40% maior do que posts com CTA apenas no ultimo slide
+- Engajamento geral: estavel, sem variacao relevante
+
+Plano original para semana 2:
+- Teste previsto: variar o texto do CTA (mais especifico vs mais generico)
+
+Analise:
+1. O sinal da posicao do CTA justifica mudar o plano da semana 2?
+2. O que seria ajustado especificamente no teste previsto?
+3. Esse ajuste mantem a logica da sequencia ou exige reformulacao maior?
+4. Como incorporar o aprendizado sobre posicao do CTA no teste da semana 2?
+Check de qualidade e próximo passo
+A IA deve confirmar que o salto de +40% na posição do CTA (slide 2) justifica um ajuste cirúrgico, reorientando a Semana 2 para fixar o CTA no início e testar a variação de texto dentro dessa nova posição campeã, preservando a lógica de evolução contínua em direção à meta de 0,45%.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir descartar tudo e "recomeçar do zero", reoriente-a: "Ajuste o plano. A descoberta do slide 2 acelera o progresso da Métrica Mãe. Não refaça o mês, apenas acople essa posição como novo baseline fixo para os próximos testes".
+
+Próximo passo
+Atualize a pauta da Semana 2 aplicando o CTA posicionado no início do conteúdo e valide a nova taxa de cliques obtida.

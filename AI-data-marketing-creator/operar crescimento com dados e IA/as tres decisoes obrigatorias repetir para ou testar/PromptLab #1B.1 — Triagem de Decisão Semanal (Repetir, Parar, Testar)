@@ -1,0 +1,38 @@
+PromptLab #1B.1 — Triagem de Decisão Semanal (Repetir, Parar, Testar)
+"Transformar um relatório de desempenho em inteligência de growth exige tomar apenas três decisões por ciclo: o que repetir para proteger o caixa, o que parar para estancar desperdício e o que testar para destravar escala."
+
+Objetivo
+Processar o resumo de desempenho semanal e dividi-lo rigorosamente nos três pilares de tomada de decisão operacional (Repetir, Parar e Testar), identificando também sinais fracos/não conclusivos que merecem monitoramento no ciclo seguinte. Este prompt atua como um Analista de Marketing Orientado por Dados.
+
+O que preparar antes de copiar
+O Resumo de Desempenho da Semana: Os dados de volume, engajamento, cliques e conversões das diferentes frentes de conteúdo do ciclo.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um analista de marketing orientado por dados.
+
+Vou te passar um resumo de desempenho desta semana.
+Com base nesses dados, me ajude a tomar as tres decisoes do ciclo semanal:
+REPETIR, PARAR e TESTAR.
+
+Desempenho da semana:
+- Carrossel com checklist: alcance 12.000, salvamentos +68% vs media. Publicado 3x.
+- Reels de bastidores: alcance 8.500, engajamento 1,1%, sem cliques no perfil.
+- Stories com enquete: visualizacoes 2.200, respostas 18, sem impacto em metricas.
+- Link na bio: 45 cliques, 3 conversoes (produto digital).
+- CTA no final do carrossel: testado em 2 posts, gerou 12 cliques extras vs sem CTA.
+
+Com base nesses dados:
+1. O que deve ser REPETIDO esta semana? Por que os dados sustentam essa decisao?
+2. O que deve ser PARADO ou reduzido? O que os dados indicam?
+3. O que deve ser TESTADO na proxima semana? Qual hipotese os dados sugerem?
+4. Existe algum sinal nos dados que merece atencao mas ainda nao e conclusivo?
+Copiado
+Check de qualidade e próximo passo
+A IA deve classificar o Carrossel com Checklist + CTA no final para REPETIR (alto salvamento e cliques provados), o Reels de Bastidores para PARAR ou pausar (baixo engajamento e zero conversão/intenção), indicar um TESTE sobre a alavanca validada (ex: carrossel com CTA direcionando para a bio/produto) e apontar os Stories como sinal fraco de atenção.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir continuar insistindo no Reels de bastidores sem justificar com dados, reoriente-a: "Ajuste o diagnóstico. O Reels de bastidores gerou zero cliques no perfil e engajamento fraco de 1,1%. A decisão orientada por dados deve ser pausar ou reestruturar".
+
+Próximo passo
+Pegue o resultado da triagem e monte a pauta da próxima semana aplicando imediatamente as decisões de Repetir, Parar e Testar.

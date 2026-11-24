@@ -1,0 +1,43 @@
+PromptLab #3B.2 — Geração e Priorização de Hipóteses Radiais
+"Diante de um vazamento de conversão, gerar apenas uma hipótese vicia o teste; desdobrar cinco perspectivas distintas sobre o mesmo sinal garante que você ataque a verdadeira causa raiz."
+
+Objetivo
+Pegar um sinal de desconexão entre topo (alcance/salvamentos em alta) e fundo de funil (cliques em queda) e gerar 5 hipóteses investigativas estruturadas, ordenando-as por probabilidade, descartando opções fracas e auditando possíveis contradições nos dados. Este prompt atua como um Especialista em Growth Marketing e Experimentação Digital.
+
+O que preparar antes de copiar
+O Contexto e o Sinal Identificado: A Métrica Mãe, os números do período e o padrão do conteúdo que gerou a distorção.
+O Histórico de Testes Já Executados: As tentativas anteriores e seus resultados neutros para evitar retrabalho.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em growth marketing e experimentacao digital.
+
+CONTEXTO:
+Projeto: criador de conteudo de marketing no Instagram.
+Metrica mae: taxa de clique no link da bio.
+Objetivo: aumentar de 0,25% para 0,45% em 30 dias.
+
+SINAL IDENTIFICADO:
+Alcance cresceu 8% esta semana, mas a taxa de clique caiu 32%.
+O conteudo que mais gerou alcance foi um Reels com tema amplo (marketing geral).
+Os salvamentos subiram 55% — as pessoas estao guardando o conteudo mas nao clicando.
+
+O QUE JA FOI TESTADO:
+- CTA no ultimo slide do carrossel: resultado neutro
+- Mencao ao link na legenda: resultado neutro
+
+Gere:
+1. Cinco hipoteses distintas para explicar a queda de clique apesar do alcance crescente.
+Para cada hipotese: o que seria testado, o que se esperaria observar e a metrica.
+2. Ordene as hipoteses da mais provavel para a menos provavel com base no contexto.
+3. Qual hipotese voce descartaria primeiro e por que?
+4. Ha algum sinal nos dados que contradiz as hipoteses geradas?
+Copiado
+Check de qualidade e próximo passo
+A IA deve formular 5 hipóteses sob ângulos variados (ex: desalinhamento de intenção do público topo de funil, fricção/ausência de ponte no Reels de alta atração, falta de razão/urgência para o clique no momento do salvamento), ranqueá-las com lógica de causa e efeito e descartar a hipótese menos provável.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir hipóteses repetidas ou ignorar o histórico do que "já foi testado", reoriente-a: "Ajuste as hipóteses. Considere que o CTA final no carrossel e a menção na legenda já foram testados com resultado neutro. Traga abordagens de gancho e ponte de intenção no Reels".
+
+Próximo passo
+Selecione a hipótese ranqueada em #1 e estruture o próximo experimento de 7 dias.

@@ -1,0 +1,46 @@
+PromptLab #2B.1 — Isolamento da Métrica Mãe para Ciclo de 30 Dias
+"Em uma operação com baixa conversão e alcance estabilizado, tentar otimizar dez indicadores ao mesmo tempo gera dispersão; eleger uma única Métrica Mãe alinha todo o esforço de conteúdo e tráfego na alavanca que realmente destrava o caixa."
+
+Objetivo
+Analisar o cenário operacional de um projeto (audiência estabelecida com baixa conversão), isolar a Métrica Mãe inegociável para um ciclo de 4 semanas e categorizar os indicadores secundários de suporte. Este prompt atua como um Especialista em Growth Marketing Orientado por Dados.
+
+O que preparar antes de copiar
+O Contexto do Projeto: O canal, o objetivo comercial do ciclo e o estágio atual do negócio.
+A Matriz de Métricas Atuais: Os números médios semanais de alcance, engajamento, salvamentos, cliques, taxa de clique e conversões em vendas.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em growth marketing orientado por dados.
+
+Vou te passar o contexto do projeto e as metricas atuais.
+Me ajude a identificar qual deve ser a metrica mae que orienta
+as decisoes de crescimento das proximas 4 semanas.
+
+Contexto do projeto:
+- Tipo: criador de conteudo de marketing digital no Instagram
+- Objetivo atual: converter audiencia em clientes para produto digital (curso)
+- Estagio: audiencia estabelecida, baixa conversao
+
+Metricas atuais (media semanal):
+- Alcance organico: 38.000
+- Taxa de engajamento: 3,1%
+- Taxa de salvamento por alcance: 0,8%
+- Cliques no link da bio: 95
+- Taxa de clique no link (cliques/alcance): 0,25%
+- Conversoes na pagina de vendas: 4 por semana
+- Taxa de conversao na pagina: 4,2%
+
+Com base nesse contexto:
+1. Qual metrica melhor representa o progresso real em direcao ao objetivo?
+2. Por que essa metrica e mais relevante que las demais para este estagio?
+3. Quais metricas sao sinais secundarios (relevantes mas nao a mae)?
+4. Se essa metrica crescer 20% em 30 dias, o que isso indicaria sobre o projeto?
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar o gargalo crítico no meio do funil (apenas 95 cliques na bio para 38.000 de alcance, resultando em uma taxa de clique fraca de 0,25%, enquanto a taxa da página de vendas é alta com 4,2%), isolando a Taxa de Clique no Link (ou Volume de Cliques na Bio) como a Métrica Mãe do ciclo para irrigar a página de vendas.
+
+Atenção (Sinal Vermelho)
+Se a IA escolher "Alcance" ou "Seguidores" como a Métrica Mãe, reoriente-a: "Ajuste o foco. O projeto tem alcance alto (38k) e página convertendo bem (4.2%), mas o tráfego não chega ao link. A Métrica Mãe deve ser o indicador de transição que resolve o gargalo de cliques".
+
+Próximo passo
+Trave a Métrica Mãe escolhida no topo do seu painel e alinhe todas as chamadas de ação (CTAs) das próximas 4 semanas para impulsionar esse único indicador.

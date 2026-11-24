@@ -1,0 +1,42 @@
+PromptLab #3B.1 — Leitura de Performance e Diagnóstico de Tensões nos Dados
+"Saber ler métricas que parecem contraditórias - como salvar mais e clicar menos - é o que separa a análise fria de performance do pânico precipitado."
+
+Objetivo
+Analisar os dados comparativos da semana para isolar os 3 sinais mais fortes da conta, mapear contradições/tensões entre topo e fundo de funil, definir uma hipótese prioritária e listar conclusões precipitadas que devem ser evitadas. Este prompt atua como um Analista de Marketing Digital Especializado em Leitura de Performance.
+
+O que preparar antes de copiar
+O Período Analisado: As datas da semana de análise.
+Os Dados Comparativos: As variações numéricas e percentuais entre a semana atual e a semana anterior.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as datas do período entre os colchetes ([...]) e execute no seu modelo de IA de preferência.
+
+Voce e um analista de marketing digital especializado em leitura de performance.
+
+CONTEXTO DO PROJETO:
+Criador de conteudo de marketing digital no Instagram.
+Objetivo atual: aumentar a taxa de clique no link da bio.
+Metrica mae: taxa de clique (cliques/alcance).
+
+PERIODO ANALISADO: semana de [data] a [data]
+
+METRICAS COMPARATIVAS (semana atual vs semana anterior):
+- Alcance organico: 41.000 vs 38.500 (+6,5%)
+- Taxa de engajamento: 2,8% vs 3,6% (-22%)
+- Salvamentos: 480 vs 310 (+55%)
+- Cliques no link da bio: 95 vs 140 (-32%)
+- Novos seguidores: 87 vs 112 (-22%)
+
+SAIDA DESEJADA:
+1. Tres sinais mais relevantes desta semana — o que cada um indica.
+2. Principal tensao nos dados — metricas que se contradizem.
+3. Uma hipotese prioritaria baseada nos sinais identificados.
+4. O que eu NAO deveria concluir com esses dados ainda.
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar a alta de +55% em salvamentos e a queda de -32% em cliques como a principal tensão dos dados (o conteúdo ganhou utilidade prática, mas perdeu força na ponte/CTA), formular uma hipótese para testar a chamada de ação e alertar para NÃO concluir que o conteúdo falhou globalmente ou que o alcance caiu.
+
+Atenção (Sinal Vermelho)
+Se a IA se limitar a listar se os números subiram ou desceram sem explicar a tensão entre eles, reoriente-a: "Aprofunde o ponto 2. Explique a contradição de ter mais salvamentos com menos cliques no link".
+
+Próximo passo
+Registre o diagnóstico e use o aprendizado dessa tensão para calibrar a chamada de ação na pauta do próximo ciclo.

@@ -1,0 +1,40 @@
+PromptLab #1B.4 — Registro de Aprendizado Semanal e Documentação de Ciclo
+"O maior risco de uma operação de tráfego e conteúdo não é errar em um teste, mas cometer o mesmo erro semanas depois por falta de memória e registro de aprendizado."
+
+Objetivo
+Consolidar as observações e resultados das iniciativas do ciclo em um registro de aprendizado estruturado, documentando o que foi observado, o que o resultado provou e como a operação se adapta para a semana seguinte com uma nova hipótese priorizada. Este prompt atua como um Especialista em Growth Marketing Orientado por Dados.
+
+O que preparar antes de copiar
+As Observações e Resultados do Ciclo: O desempenho medido das hipóteses testadas, variações de taxas contra o baseline e comportamento das mídias no período.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em growth marketing orientado por dados.
+
+Vou te passar as observacoes da minha semana de analise e experimentacao.
+Me ajude a transformar isso em um registro de aprendizado estruturado
+com os tres elementos: o que foi observado, o que o resultado mostrou
+e o que isso muda na proxima semana.
+
+Observacoes da semana:
+- Testei carrossel com checklist 3x: media de 2,8% de salvamento/alcance
+(baseline anterior era 1,4%) — hipotese de formato confirmada
+- Reels de bastidores: engajamento caiu para 0,9% nas duas publicacoes
+— abaixo da media historica de 2,1%
+- CTA no final do carrossel: gerou 14 cliques extras vs posts sem CTA
+- Stories com enquete: visualizacoes estáveis mas sem conversao para perfil
+
+Gere um registro de aprendizado semanal com:
+1. O que foi testado ou observado esta semana (resumo em 2 linhas)
+2. O que os resultados mostraram (padrao identificado, confirmado ou refutado)
+3. O que muda na proxima semana com base nesse aprendizado
+4. Qual e a hipotese prioritaria para o proximo ciclo?
+Copiado
+Check de qualidade e próximo passo
+A IA deve estruturar o registro em 4 blocos limpos, confirmando o formato carrossel com checklist e CTA final como alavancas de utilidade e conversão, pausando o Reels de bastidores, reorientando a pauta para a semana seguinte e isolando a nova hipótese prioritária do ciclo.
+
+Atenção (Sinal Vermelho)
+Se a IA omitir a indicação clara do que muda na prática para a próxima semana, reoriente-a: "Ajuste o bloco 3. Deixe explícito o comando tático que altera a pauta da próxima semana com base no aprendizado extraído".
+
+Próximo passo
+Cole este registro compilado no seu repositório/planilha de histórico de inteligência para acumular memória operacional.

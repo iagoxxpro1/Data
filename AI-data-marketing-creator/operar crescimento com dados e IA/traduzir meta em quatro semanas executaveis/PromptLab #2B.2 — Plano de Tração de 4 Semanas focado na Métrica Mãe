@@ -1,0 +1,42 @@
+PromptLab #2B.2 — Plano de Tração de 4 Semanas focado na Métrica Mãe
+"Uma meta arrojada de crescimento em 30 dias só se realiza quando é fatiada em focos semanais encadeados, onde o resultado da Semana 1 constrói a base de tração da Semana 2."
+
+Objetivo
+Estruturar um plano de ação tático de 4 semanas focado em destravar e expandir a Métrica Mãe selecionada (taxa de clique no link), definindo o foco, a ação, a métrica de sucesso e as dependências de cada ciclo, além de mapear riscos e gatilhos de correção antecipada. Este prompt atua como um Especialista em Planejamento de Crescimento Orientado por Dados.
+
+O que preparar antes de copiar
+A Métrica Mãe Isolada: O indicador prioritário do ciclo de 30 dias com o valor atual e a meta quantitativa estabelecida.
+O Gargalo Mapeado: A causa raiz diagnosticada que impede o avanço da métrica.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em planejamento de crescimento orientado por dados.
+
+Vou te passar o contexto do projeto e a metrica mae escolhida.
+Me ajude a construir um plano de 4 semanas executavel.
+
+Contexto:
+- Metrica mae: taxa de clique no link da bio (cliques/alcance)
+- Valor atual: 0,25%
+- Meta para 30 dias: atingir 0,45% (crescimento de 80%)
+- Principal gargalo identificado: conteudo gera alcance mas nao move
+a audiencia em direcao ao link
+
+Para cada semana, defina:
+1. Qual e o foco principal da semana?
+2. Qual acao especifica sera executada?
+3. Qual metrica indica que a semana foi bem-sucedida?
+4. O que a semana anterior precisa ter gerado para esta funcionar?
+
+Ao final, me diga:
+- Qual e o maior risco de o plano nao funcionar?
+- Qual seria o sinal de que o plano precisa ser ajustado antes da semana 3?
+Copiado
+Check de qualidade e próximo passo
+A IA deve fatiar o plano em 4 ciclos evolutivos (ex: Sem 1: Otimização do CTA na bio; Sem 2: Teste de pontes diretas em carrosséis; Sem 3: Escala no Reels com gatilho visual/verbal; Sem 4: Rotina de Stories com link direto), indicando a meta intermediária de cada semana, os riscos de execução e o sinal de alerta para intervenção antes da Semana 3.
+
+Atenção (Sinal Vermelho)
+Se a IA sugerir ações desconectadas da Métrica Mãe (como "criar novo produto" ou "mudar identidade visual"), reoriente-a: "Ajuste o plano. Todas as ações das 4 semanas devem ter como único propósito aumentar a taxa de clique de 0,25% para 0,45%".
+
+Próximo passo
+Pegue o cronograma da Semana 1, insira as ações na pauta e execute o monitoramento diário para validar a primeira meta intermediária.

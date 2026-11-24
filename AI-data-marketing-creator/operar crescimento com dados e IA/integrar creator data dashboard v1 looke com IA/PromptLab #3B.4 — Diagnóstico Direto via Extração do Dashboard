@@ -1,0 +1,40 @@
+PromptLab #3B.4 — Diagnóstico Direto via Extração do Dashboard
+"Conectar o relatório do Looker Studio diretamente à leitura analítica garante que a Métrica Mãe seja auditada sem ruídos manuais, transformando números brutos em decisões táticas instantâneas."
+
+Objetivo
+Processar os dados extraídos do dashboard (como o Looker Studio), confrontar o desempenho recente contra a Métrica Mãe e definir se a operação deve repetir, ajustar ou pivotar o plano tático da semana. Este prompt atua como um Analista de Marketing Digital.
+
+O que preparar antes de copiar
+Os Dados Extraídos do Dashboard: O bloco de dados brutos ou tabela exportada da sua ferramenta de BI / Looker Studio com a comparação semanal.
+A Métrica Mãe e Meta: O indicador prioritário da operação e a meta do ciclo de 30 dias.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, cole os seus dados e preencha o período entre os colchetes ([...]).
+
+Voce e um analista de marketing digital.
+
+Extraí os seguintes dados do meu dashboard no Looker Studio
+referentes a semana de [data] vs semana anterior:
+
+[Cole aqui os dados extraidos do Looker — formato livre ou tabular]
+Exemplo:
+Alcance: 41.000 vs 38.500 (+6,5%)
+Engajamento: 2,8% vs 3,6% (-22%)
+Salvamentos: 480 vs 310 (+55%)
+Cliques no link: 95 vs 140 (-32%)
+
+METRICA MAE: taxa de clique no link (objetivo: crescer de 0,25% para 0,45%)
+
+Com base nos dados do dashboard:
+1. Qual e o sinal mais relevante em relacao a metrica mae?
+2. O plano da semana esta no caminho certo ou precisa de ajuste?
+3. Qual e a decisao mais fundamentada pelos dados: repetir, ajustar ou testar algo novo?
+4. Qual informacao do dashboard voce precisaria para ter mais confianca nessa decisao?
+Copiado
+Check de qualidade e próximo passo
+A IA deve cruzar a variação dos dados diretamente com o objetivo da Métrica Mãe (0,25% -> 0,45%), indicar se o progresso da semana atendeu à trajetória prevista e sinalizar claramente a decisão operacional (Repetir, Ajustar ou Testar algo novo).
+
+Atenção (Sinal Vermelho)
+Se a IA ignorar a Métrica Mãe e focar apenas no engajamento geral, reoriente-a: "Ajuste a análise. A prioridade máxima do diagnóstico deve ser a Métrica Mãe (Taxa de Clique no Link)".
+
+Próximo passo
+Registre a decisão extraída do dashboard e execute a adequação recomendada na pauta da semana.

@@ -1,0 +1,47 @@
+PromptLab #1B.3 — Ritual Semanal de 20 Minutos
+"O ritual semanal de 20 minutos não serve para produzir gráficos bonitos, mas para responder rapidamente às três perguntas de leitura e dar o destino exato para cada iniciativa da operação."
+
+Objetivo
+Guiar as etapas 2 e 3 do ritual semanal de governança, processando os dados observados no dashboard contra as iniciativas ativas para gerar a matriz de decisão (Repetir, Parar ou Testar) e isolar o sinal mais relevante da semana. Este prompt atua como um Assistente de Análise de Marketing.
+
+O que preparar antes de copiar
+As Variações do Dashboard Semanal: Os percentuais de oscilação do período (alcance, engajamento, salvamentos, cliques e conversões).
+A Lista de Iniciativas Ativas: As ações e formatos em execução na pauta da semana.
+Prompt de instrução
+Copie o texto exato da caixa abaixo, preencha as variáveis de contexto entre os colchetes ([...]) com os seus dados e execute no seu modelo de IA de preferência.
+
+Voce e um assistente de analise de marketing.
+
+Vou te passar os dados observados no meu dashboard semanal.
+Me ajude a completar as etapas 2 e 3 do ritual de 20 minutos:
+responder as tres perguntas de leitura e classificar cada iniciativa.
+
+Dados observados esta semana (vs semana anterior):
+[Cole aqui as variacoes relevantes do seu dashboard]
+Exemplo:
+- Alcance: +8%
+- Engajamento: -15%
+- Salvamentos: +40%
+- Cliques no link: -20%
+- Conversoes: +2
+
+Iniciativas ativas:
+1. Carrossel com checklist (publicado 3x/semana)
+2. Reels de bastidores (publicado 2x/semana)
+3. CTA no final de cada carrossel
+4. Stories diarios com enquete
+
+Responda:
+1. O que cresceu, o que caiu e o que mudou esta semana?
+2. Para cada iniciativa: REPETIR, PARAR ou TESTAR?
+3. Qual e o sinal mais importante que os dados desta semana revelam?
+Copiado
+Check de qualidade e próximo passo
+A IA deve realizar a varredura dos dados, classificar cada uma das 4 iniciativas ativas com um selo claro (REPETIR, PARAR ou TESTAR), justificando com os números do período, e apontar o sinal prioritário (ex: alta utilidade via salvamentos vs. perda de eficiência de clique no link).
+
+Atenção (Sinal Vermelho)
+Se a IA não classificar todas as iniciativas individualmente, reoriente-a: "Classifique obrigatoriamente cada uma das 4 iniciativas no formato: [Nome da Iniciativa] -> [REPETIR, PARAR ou TESTAR] + [Justificativa pelos dados]".
+
+Próximo passo
+Registre a classificação no seu quadro de controle semanal e utilize o ritual de 20 minutos toda segunda-feira para manter a governança do seu sistema.
+

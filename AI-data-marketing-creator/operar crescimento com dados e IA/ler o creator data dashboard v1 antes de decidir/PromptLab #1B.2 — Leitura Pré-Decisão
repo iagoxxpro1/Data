@@ -1,0 +1,38 @@
+PromptLab #1B.2 — Leitura Pré-Decisão
+"Antes de mudar qualquer peça na pauta, o gestor precisa entender o que o sistema está dizendo no comparativo de ciclos: focar apenas no topo do funil esconde que o público pode estar retendo mais utilidade e convertendo menos no meio."
+
+Objetivo
+Executar o protocolo de 4 perguntas de leitura pré-decisão ao comparar o desempenho da semana atual contra a semana anterior, identificando crescimentos atípicos, quedas relevantes, mudanças no padrão do sistema e decisões que seriam tomadas erroneamente sem essa análise. Este prompt atua como um Analista de Marketing Orientado por Dados.
+
+O que preparar antes de copiar
+A Matriz Comparativa de Dados: Os números da semana atual confrontados com a semana anterior para alcance, engajamento, salvamentos, cliques, seguidores e stories.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um analista de marketing orientado por dados.
+
+Vou te passar metricas da semana atual comparadas com a semana anterior.
+Responda as tres perguntas de leitura pre-decisao.
+
+Dados comparativos (semana atual vs semana anterior):
+- Alcance total: 41.000 vs 38.500 (+6,5%)
+- Taxa de engajamento media: 2,8% vs 3,6% (-22%)
+- Salvamentos: 480 vs 310 (+55%)
+- Cliques no link: 95 vs 140 (-32%)
+- Novos seguidores: 87 vs 112 (-22%)
+- Visualizacoes de Stories: 1.850 vs 2.100 (-12%)
+
+Responda:
+1. O QUE CRESCEU esta semana de forma relevante? O que esse crescimento pode indicar?
+2. O QUE CAIU de forma relevante? Existe padrao ou e variacao pontual?
+3. O QUE MUDOU no comportamento do sistema? Qual e o sinal mais importante?
+4. Com base nessa leitura, qual decisao voce nao tomaria sem ver esses dados primeiro?
+Copiado
+Check de qualidade e próximo passo
+A IA deve identificar o salto expressivo em salvamentos (+55%) como o principal sinal de alta utilidade do conteúdo, contrastar com a queda em cliques no link (-32%) e engajamento geral (-22%), interpretando que o conteúdo atraiu retenção prática, mas perdeu força na chamada de ação (CTA/Intenção), prevenindo decisões impulsivas como "cortar o alcance" ou "mudar todo o formato".
+
+Atenção (Sinal Vermelho)
+Se a IA disser apenas que "a semana foi ruim porque o engajamento caiu", reoriente-a: "Ajuste a análise. O salto de 55% nos salvamentos indica um ganho real de valor do conteúdo. O gargalo concentrou-se estritamente na conversão do clique no link".
+
+Próximo passo
+Registre os padrões identificados e ajuste o CTA da próxima semana para conectar o alto volume de salvamentos à ação de clique no link.

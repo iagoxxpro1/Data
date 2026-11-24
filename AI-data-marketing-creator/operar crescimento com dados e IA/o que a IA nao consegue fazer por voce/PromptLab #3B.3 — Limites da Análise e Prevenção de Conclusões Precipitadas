@@ -1,0 +1,41 @@
+PromptLab #3B.3 — Limites da Análise e Prevenção de Conclusões Precipitadas
+"Tão importante quanto saber o que os dados dizem é identificar exatamente o que eles não conseguem responder, prevenindo intervenções precipitadas na operação."
+
+Objetivo
+Estabelecer as fronteiras de confiabilidade analítica diante de uma anomalia (queda isolada de 40% nas conversões com topo de funil estável), mapeando as lacunas de informação, os riscos de tomar decisões sem investigação adicional e os dados complementares necessários. Este prompt atua como um Especialista em Growth Marketing Orientado por Dados.
+
+O que preparar antes de copiar
+O Cenário de Anomalia de Dados: O diagnóstico parcial e as métricas disponíveis do período para delimitar o escopo da auditoria.
+Prompt de instrução
+Copie o texto exato da caixa abaixo e execute no seu modelo de IA de preferência.
+
+Voce e um especialista em growth marketing orientado por dados.
+
+Vou te passar um cenario e pedir uma analise.
+Mas antes da analise, preciso que voce seja explicito sobre:
+o que voce pode analisar com confianca com esses dados
+e o que voce NAO pode determinar sem informacoes adicionais.
+
+CENARIO:
+Um criador de conteudo teve queda de 40% nas conversoes essa semana.
+As demais metricas (alcance, engajamento, salvamentos) estao estaveis.
+
+DADOS DISPONIVEIS:
+- Metricas do dashboard desta semana vs semana anterior
+- Nenhuma mudanca de estrategia foi feita
+- Nenhum evento externo identificado
+
+FORMATO DA RESPOSTA:
+1. O que esses dados permitem concluir com razoavel confianca?
+2. O que esses dados NAO permitem concluir — e por que?
+3. Quais informacoes adicionais voce precisaria para fazer uma analise mais precisa?
+4. Qual e o risco de agir com base apenas nesses dados sem investigacao adicional?
+Copiado
+Check de qualidade e próximo passo
+A IA deve constatar com confiança apenas que a quebra ocorreu exclusivamente na etapa de conversão (fundo de funil/página/checkout) e NÃO no alcance ou atração, explicar que é impossível determinar a causa exata sem dados de tráfego do link (CTR), checkout ou estabilidade da página de vendas, e alertar para o risco de alterar o conteúdo de topo de funil sem necessidade.
+
+Atenção (Sinal Vermelho)
+Se a IA tentar dar um "palpite definitivo" sobre o motivo da queda de conversão sem pedir mais dados, reoriente-a: "Ajuste a resposta. Respeite as limitações do enunciado e enfatize que sem métricas de checkout e estabilidade do link não é possível cravar a causa raiz".
+
+Próximo passo
+Colete as métricas complementares de fundo de funil (cliques no link, acessos à página e checkouts iniciados) antes de alterar qualquer variável na pauta.
