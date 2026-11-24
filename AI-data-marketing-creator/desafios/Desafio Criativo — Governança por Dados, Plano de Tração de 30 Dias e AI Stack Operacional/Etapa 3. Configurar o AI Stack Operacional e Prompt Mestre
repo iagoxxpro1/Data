@@ -1,0 +1,25 @@
+Etapa 3. Configurar o AI Stack Operacional e Prompt Mestre
+Para fechar a formação, você vai formalizar as 4 camadas da sua infraestrutura de IA e gerar o Prompt Mestre de Governança para rodar o seu ritual de 20 minutos todas as segundas-feiras.
+
+Prompt da Etapa 3 (Continue no mesmo chat):
+
+text
+Copiar
+Atuando como engenheiro de sistemas operacionais de growth, vamos documentar o meu AI STACK OPERACIONAL e construir o PROMPT MESTRE DE GOVERNANÇA SEMANAL.
+
+FERRAMENTAS DISPONÍVEIS NA MINHA OPERAÇÃO:
+- Camada de Dados (BI/Dashboard): [INSIRA A FERRAMENTA: ex: Looker Studio, Planilha de Controle, Instagram Insights]
+- Camada de Leitura & Análise: [INSIRA O LLM: ex: ChatGPT, Claude, Gemini]
+- Camada de Registro & Inteligência: [INSIRA A FERRAMENTA: ex: Notion, Trello, Google Docs]
+
+Me entregue:
+1. Arquitetura das 4 Camadas do AI Stack: Detalhe a Ferramenta, Função e Frequência para as camadas de: (1) Dados, (2) Leitura, (3) Hipóteses e (4) Registro.
+2. O Prompt Mestre de Governança Semanal: Crie um único prompt robusto e parametrizado que eu possa copiar todas as segundas-feiras, colar no meu LLM com os dados brutos do Looker/Dashboard e receber automaticamente:
+- Leitura de Sinais e Tensões nos Dados
+- Avaliação do Progresso da Métrica Mãe (30 dias)
+- Decisão R.P.T. (Repetir, Parar, Testar) para as iniciativas
+- Definição da Hipótese do próximo ciclo de 7 dias
+3. Plano de Expansão do Stack: Qual é o próximo nível de automação/ferramenta a ser adicionado quando o volume de dados crescer?
+Ação: Salve a arquitetura do AI Stack, o Prompt Mestre e o plano de expansão no bloco Parte 3: Configuração do AI Stack Operacional (Curso 3) do seu documento.
+
+CTA de avanço: Seu AI Stack e Plano Operacional estão concluídos. Vamos para a organização final do arquivo e submissão.

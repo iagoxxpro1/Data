@@ -1,0 +1,14 @@
+Passo 4/6 - Mapeamento de Sinais Preditivos (Alertas e Oportunidades)
+Construção da lógica de leitura antecedente para identificar desvios de desempenho antes do fechamento do ciclo financeiro.
+
+O que fazer e registrar no documento:
+
+Monte o Mapa Preditivo de Sinais Antecipados, categorizando os intervalos numéricos das taxas em 3 cenários:
+Padrão Pré-Queda: Intervalo numérico que indica retração e aciona o sinal de alerta.
+Padrão de Estabilidade: Intervalo de cruzeiro e operação regular.
+Padrão Pré-Crescimento / Oportunidade de Escala: Intervalo que autoriza a expansão da pauta e novos testes.
+Identifique e registre o seu Indicador Antecedente Primário (o indicador que varia primeiro na jornada do usuário).
+Descreva a lógica de desfasamento temporal (lag time) entre o sinal identificado na taxa e o reflexo no faturamento final.
+Regra Importante: O mapa preditivo deve detalhar a relação de causa e efeito entre a variação da taxa e o impacto no caixa.
+
+Checkpoint: Tabela dos 3 cenários preditivos registrada | Indicador antecedente isolado | Lógica de lag time explicada.

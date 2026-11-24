@@ -1,0 +1,26 @@
+Etapa 2. Construir o Plano de Crescimento de 30 Dias e Esteira de Testes
+Nesta etapa, você vai isolar a Métrica Mãe inegociável do ciclo de 30 dias e desenhar uma sequência encadeada de 4 testes semanais em que cada vitória prepara o terreno para a próxima.
+
+Prompt da Etapa 2 (Continue no mesmo chat):
+
+text
+Copiar
+Com base no diagnóstico da nossa operação, vamos construir o PLANO DE CRESCIMENTO DE 30 DIAS focado em uma única Métrica Mãe e em uma esteira de testes encadeados.
+
+DEFINIÇÃO DA MÉTRICA MÃE:
+- Métrica Mãe Escolhida: [INSIRA A MÉTRICA PRIORITÁRIA: ex: Taxa de Clique no Link da Bio, Taxa de Salvamento, Retenção nos 30s]
+- Valor Atual (Baseline): [INSIRA O NÚMERO ATUAL]
+- Meta para 30 Dias: [INSIRA A META QUANTITATIVA DO CICLO]
+- Gargalo Crítico Aderente: [INSIRA O PROBLEMA QUE IMPEDE ESSA MÉTRICA DE CRESCER]
+
+Atuando como estrategista de crescimento, me entregue:
+1. Justificativa Estratégica: Por que esta é a Métrica Mãe inegociável do ciclo e quais métricas ficam como secundárias?
+2. Sequência Encadeada de Testes (4 Semanas):
+- Semana 1 (Baseline & Otimização do Elemento A): Variável, Hipótese, Métrica e Conexão com a Semana 2.
+- Semana 2 (Expansão do Elemento B): Variável, Hipótese, Métrica e Conexão com a Semana 3.
+- Semana 3 (Escala do Elemento C): Variável, Hipótese, Métrica e Conexão com a Semana 4.
+- Semana 4 (Consolidação): Como combinar os aprendizados validados sem introduzir novas variáveis.
+3. Gatilho de Correção de Rota: Qual é o sinal de alerta numérico que exige ajustar o plano antes da Semana 3?
+Ação: Cole a Métrica Mãe, a esteira encadeada de 4 semanas e os gatilhos no bloco Parte 2: Construção do Plano de Crescimento de 30 Dias (Curso 2) do seu documento.
+
+CTA de avanço: Plano de tração de 30 dias e esteira de testes desenhados. Vamos configurar o AI Stack Operacional e gerar o Prompt Mestre.
