@@ -1,0 +1,22 @@
+Etapa 3. Formular a Hipótese de Solução e o Plano de Teste
+Para fechar o desafio, você vai utilizar o LLM para transformar o diagnóstico do gargalo em uma hipótese técnica acionável para o próximo ciclo de 7 dias, com o comando de pauta/oferta específico para destravar a eficiência da jornada.
+
+Prompt da Etapa 3 (Continue no mesmo chat):
+
+text
+Copiar
+Atuando como meu Diretor de Growth e Head de Performance, vamos transformar o gargalo identificado em um PLANO DE DESTRAVAMENTO DE CRESCIMENTO para os próximos 7 dias.
+
+GARGALO IDENTIFICADO:
+- Etapa com Maior Perda: [INSIRA A ETAPA IDENTIFICADA NA ETAPA 2]
+- Causa Raiz Provável: [INSIRA A CAUSA RAIZ MAPEADA NA ETAPA 2]
+
+Me entregue:
+1. Declaração da Hipótese de Teste: Formule a hipótese no formato: "Se alterarmos [variável de conteúdo/oferta], então aumentaremos [taxa do gargalo] em [meta %], porque [justificativa comportamental]".
+2. Plano de Ação Tático (3 Comandos Práticos): Diga exatamente o que a equipe/criador deve fazer nos próximos 7 dias em termos de ajuste de Formato, Gancho/CTA e Direcionamento de Canal.
+3. Indicador de Sucesso do Teste: Qual é a variação percentual mínima necessária no final dos próximos 7 dias para considerar a hipótese validada.
+
+Apresente a solução em formato de plano de execução direta.
+Ação: Salve a hipótese, os comandos práticos e o indicador de sucesso no bloco Parte 3: Plano de Destravamento e Hipótese de Teste do seu documento.
+
+CTA de avanço: Seu relatório de performance e destravamento de gargalos está concluído. Vamos para a organização e submissão final.

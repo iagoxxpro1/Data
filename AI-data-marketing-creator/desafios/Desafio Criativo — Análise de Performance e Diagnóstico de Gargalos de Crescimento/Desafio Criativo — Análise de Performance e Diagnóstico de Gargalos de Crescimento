@@ -1,0 +1,30 @@
+Desafio Criativo — Análise de Performance e Diagnóstico de Gargalos de Crescimento
+O que você vai fazer
+Neste desafio integrado, você vai avançar da leitura passiva de métricas para a análise contextualizada e diagnóstico cirúrgico da sua operação de tráfego e conteúdo. Você vai analisar um ciclo de 7 dias de dados reais ou simulados do seu projeto para decodificar padrões de performance e localizar o gargalo crítico que limita a sua escala (seja na atração de Atenção, no aquecimento da Intenção ou na eficiência de Conversão/Ação).
+
+O objetivo é interromper qualquer vazamento de margem, identificar o ponto de perda exato da sua jornada e sair com uma hipótese clara e testável para desbloquear o crescimento do seu Creator Growth System.
+
+Ao final, você terá construído o Relatório de Diagnóstico de Performance e Gargalos de Crescimento, documentado e pronto para pautar o seu próximo ciclo de testes.
+
+O que guia este desafio
+Você usa exclusivamente:
+
+A análise contextual de dados de 7 dias (conectando volume a comportamento real de compra).
+O isolamento frio da etapa com maior quebra percentual da jornada.
+A IA como parceira de inteligência para processar tendências e gerar hipóteses de solução com comandos práticos.
+Como o desafio funciona
+O desafio é dividido em etapas sequenciais, executadas fora da plataforma, no LLM de sua preferência. Você deve:
+
+Escolher um único LLM (ChatGPT, Gemini, Copilot, Claude ou similar).
+Criar um único chat focado nesta tarefa.
+Usar esse mesmo chat do início ao fim para acumular o contexto do seu projeto.
+Registrar cada resultado em um documento no Google Docs ou Microsoft Word (Online). (Atenção: A plataforma não executa o desafio e somente aceitará a submissão de links com acesso público do Google Docs ou Word.)
+Estrutura de cada etapa
+Cada etapa contém:
+
+Uma instrução clara do que observar ou decidir.
+O prompt exato para organizar seu pensamento no LLM.
+Uma ação prática obrigatória no seu Documento de Entrega.
+Um avanço consciente (CTA) para a próxima etapa.
+Regras essenciais
+⚠️ Não troque de chat no meio do desafio. Todo o contexto dos seus dados de 7 dias, produto, ticket médio e taxas de conversão deve permanecer ativo e acumulado no mesmo histórico da IA.
